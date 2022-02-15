@@ -1,7 +1,7 @@
 {
   "name": "SpyNerdEGG",
   "description": "To fwoods_xf from EGG, for all of your support.",
-  "image": "ipfs://QmXJDjCaBeUXf6EBcuQqEVJ9x6rCr6EMAaH2HmA2vPwEcd",
+  "image": "ipfs://QmURaVwB5fJMjaPD5iGkHJMjQHfhzQPkXtvzXJuU9hzK5R",
   "attributes": [
     {
       "trait_type": "hair",
@@ -30,10 +30,6 @@
     {
       "trait_type": "glasses",
       "value": "nerd-glasses"
-    },
-    {
-      "trait_type": "facing",
-      "value": -1
     }
   ]
 }

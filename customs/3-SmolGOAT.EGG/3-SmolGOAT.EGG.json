@@ -1,7 +1,7 @@
 {
   "description": "To @InvestedBee from EGG, thank you for giving EGG to the ones in need.",
   "external_url": "https://mintyouregg.com",
-  "image": "",
+  "image": "ipfs://QmdjmEtoY9Vcag4vzuR2tef1tN8NPK6GTtYS9vvkeBGH8F",
   "name": "SMOLGOAT.EGG",
   "attributes": [
     {
@@ -33,12 +33,8 @@
       "value": "dragon-scimitar"
     },
     {
-      "trait_type": "back",
+      "trait_type": "cape",
       "value": "fire-cape"
-    },
-    {
-      "trait_type": "facing",
-      "value": -1
     }
   ]
 }
