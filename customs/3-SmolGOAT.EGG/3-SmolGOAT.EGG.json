@@ -1,8 +1,8 @@
 {
-  "description": "To @InvestedBee from EGG, thank you for giving EGG to the ones in need.",
-  "external_url": "https://mintyouregg.com",
-  "image": "ipfs://QmdjmEtoY9Vcag4vzuR2tef1tN8NPK6GTtYS9vvkeBGH8F",
   "name": "SMOLGOAT.EGG",
+  "description": "To @InvestedBee from EGG, thank you for giving EGG to the ones in need.",
+  "image": "ipfs://QmRjMoUaTZWtsa2W2xjJxNnbVqEumMnXbP4KAEuq9HsPfk",
+  "artist": "egg",
   "attributes": [
     {
       "trait_type": "body",
