@@ -1,0 +1,36 @@
+{
+  "description": "To @0xkemosabe from EGG, thank you for giving EGG to the ones in need.",
+  "external_url": "https://mintyouregg.com",
+  "image": "",
+  "name": "Untitled Painting",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "paint-stains"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "regular"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "none"
+    },
+    {
+      "trait_type": "facing",
+      "value": -1
+    }
+  ]
+}

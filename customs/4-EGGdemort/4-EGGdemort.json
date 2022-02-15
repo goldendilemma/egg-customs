@@ -1,0 +1,40 @@
+{
+  "description": "To @InvestedBee from EGG, thank you for giving EGG to the ones in need.",
+  "external_url": "https://mintyouregg.com",
+  "image": "",
+  "name": "SMOLGOAT.EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "regular"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "ooo"
+    },
+    {
+      "trait_type": "hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "evil"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "elder-wand"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "wizard-robe"
+    },
+    {
+      "trait_type": "facing",
+      "value": -1
+    }
+  ]
+}
