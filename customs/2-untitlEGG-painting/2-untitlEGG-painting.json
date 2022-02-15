@@ -1,8 +1,8 @@
 {
   "description": "To @0xkemosabe from EGG, thank you for giving EGG to the ones in need.",
   "external_url": "https://mintyouregg.com",
-  "image": "",
-  "name": "Untitled Painting",
+  "image": "ipfs://QmU6pStD6GHzmBJaaN71yJaNZSAGdYJ6Dhez1Tm1hjvur2",
+  "name": "UntitlEGG Painting",
   "attributes": [
     {
       "trait_type": "body",
@@ -27,10 +27,6 @@
     {
       "trait_type": "accessory",
       "value": "none"
-    },
-    {
-      "trait_type": "facing",
-      "value": -1
     }
   ]
 }
