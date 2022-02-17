@@ -1,0 +1,36 @@
+{
+  "name": "Voiled the NumerEGG",
+  "description": "To bestie from EGG.",
+  "image": "ipfs://QmWUTaLnwqVz32Sam3b5TKgmhJuR9XpmCRD4QpWJSykcaF",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "regular"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "numeraire"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "earpiece"
+    },
+    {
+      "trait_type": "face",
+      "value": "drip"
+    }
+  ]
+}
