@@ -1,0 +1,43 @@
+<svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="egg" shape-rendering="crispEdges">
+  <g class="border">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M14 10H10V11H9V12H8V14H7V19H8V20H9V21H15V20H16V19H17V14H16V12H15V11H14V10ZM14 11V12H15V14H16V19H15V20H9V19H8V14H9V12H10V11H14Z" fill="black"/>
+  </g>
+  <g id="rare" class="inside">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 13H13V14H14V15H13V16H11V15H10V14H11V13Z" fill="#DB00FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 13H12H13V14H12H11V13ZM11 14V15H9.99999V14H11Z" fill="white" fill-opacity="0.59"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 14H14V15H13V16H11V15H13V14Z" fill="black" fill-opacity="0.17"/>
+  </g>
+  <g id="a1" class="body">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M10 11H14V12H15V14H16V19H15V20H14H10H9V19H8V14H9V12H10V11Z" fill="#F9E8CF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 11H14V12H13V11ZM14 12H15V13H14V12ZM16 14H15V15H16V14ZM15 18H16V19H15V18ZM15 19V20H14V19H15ZM9 19H10V20H9V19ZM9 19H8V18H9V19Z" fill="black" fill-opacity="0.5"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 11H11V12H12V13H13V15H14V17H13V18H12V19H10V20H12H15V19H16V15V14H15V13H14V12H13V11Z" fill="black" fill-opacity="0.29"/>
+  </g>
+  <g id="a5" class="mouth">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M15 17H14V18H10V19H14V18H15V17Z" fill="black"/>
+  </g>
+  <g id="a9" class="eyes">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 15H10V17H11V15ZM14 15H13V17H14V15Z" fill="white"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M10 15H9V17H10V15ZM13 15H12V17H13V15Z" fill="black"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 15H9V16H11V15ZM14 15H12V16H14V15Z" fill="black" fill-opacity="0.15"/>
+  </g>
+  <g id="crewship-suit" class="clothes">
+    <g>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M17 14H18V15H19V19H18V20H16V19H18V15H17V14Z" fill="black"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M14 11H10V12H9V13V14H12V16V17H8V18V19H9V20H15V19H16V14H15V13V12H14V11ZM18 15H17V19H18V15Z" fill="#D50000"/>
+    </g>
+    <g>
+      <rect x="7" y="14" width="5" height="2" fill="#00BCD4" fill-opacity="0.8"/>
+      <g>
+        <rect x="8" y="14" width="2" height="1" fill="white" fill-opacity="0.43"/>
+        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 13H7V14H6V16H7V17H12V16H13V14H12V13ZM12 14V16H7V14H12Z" fill="black"/>
+      </g>
+    </g>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M14 11H12V12H13V13H14V15V17H13V18H8V19H9V20H12H15V19H16V15V14H15V13V12H14V11ZM17 17H18V19H17V17Z" fill="black" fill-opacity="0.25"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M14 11H13V12H14V13H15V12H14V11ZM15 14H16V15H15V14ZM16 18H15V19H14V20H15V19H16V18ZM17 18H18V19H17V18ZM9 19H10V20H9V19ZM9 19H8V18H9V19Z" fill="black" fill-opacity="0.25"/>
+  </g>
+  <style>
+    <![CDATA[
+      #egg:active{transform:scaleX(-1);}
+    ]]>
+  </style>
+</svg>

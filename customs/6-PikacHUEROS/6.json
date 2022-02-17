@@ -1,0 +1,32 @@
+{
+  "name": "PikacHUEROS",
+  "description": "To @Gal_Mc_couille from EGG, thank you for participating in EGGSGIVING 2022.",
+  "image": "ipfs://QmSX6A7raxsvX7X2oSyBc3tJDU3Tt7pYipFBFGqhoPxXQY",
+  "artist": "@Gal_Mc_couille",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "pikachu"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "ooo"
+    },
+    {
+      "trait_type": "hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "regular"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "poke-ball"
+    }
+  ]
+}
