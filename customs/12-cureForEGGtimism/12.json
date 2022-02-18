@@ -1,0 +1,40 @@
+{
+  "name": "cure_for_EGGtimism",
+  "description": "To @OptimismFor from EGG, thank you for giving EGG to the ones in need.",
+  "image": "ipfs://QmcLUxRt8Vys31rhLPc15PrpNHh57BWaasubeYu2tugh3B",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "regular"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "flat"
+    },
+    {
+      "trait_type": "hair",
+      "value": "smol-cap"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "regular"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "cool-blue"
+    },
+    {
+      "trait_type": "face",
+      "value": "spot"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "none"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "fluffy-hood"
+    }
+  ]
+}
