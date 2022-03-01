@@ -1,0 +1,31 @@
+<svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="egg" shape-rendering="crispEdges">
+  <g class="border">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M14 10H10V11H9V12H8V14H7V19H8V20H9V21H15V20H16V19H17V14H16V12H15V11H14V10ZM14 11V12H15V14H16V19H15V20H9V19H8V14H9V12H10V11H14Z" fill="black"/>
+  </g>
+  <g id="rare" class="inside">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 13H13V14H14V15H13V16H11V15H10V14H11V13Z" fill="#DB00FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 13H12H13V14H12H11V13ZM11 14V15H10V14H11Z" fill="white" fill-opacity="0.59"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 14H14V15H13V16H11V15H13V14Z" fill="black" fill-opacity="0.17"/>
+  </g>
+  <g id="a1" class="body">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M10 11H14V12H15V14H16V19H15V20H14H10H9V19H8V14H9V12H10V11Z" fill="#F9E8CF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 11H14V12H13V11ZM14 12H15V13H14V12ZM16 14H15V15H16V14ZM15 18H16V19H15V18ZM15 19V20H14V19H15ZM9 19H10V20H9V19ZM9 19H8V18H9V19Z" fill="black" fill-opacity="0.5"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 11H11V12H12V13H13V15H14V17H13V18H12V19H10V20H12H15V19H16V15V14H15V13H14V12H13V11Z" fill="black" fill-opacity="0.29"/>
+  </g>
+  <g id="a9" class="eyes">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 15H10V17H11V15ZM14 15H13V17H14V15Z" fill="white"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M10 15H9V17H10V15ZM13 15H12V17H13V15Z" fill="black"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 15H9V16H11V15ZM14 15H12V16H14V15Z" fill="black" fill-opacity="0.15"/>
+  </g>
+  <g id="rose" class="hair">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M14 10H15V11H16V12H15V13H14V12H13V11V10H14Z" fill="#CD0000"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 10H14V11H15V12V13H14V12V11H13V10Z" fill="black" fill-opacity="0.23"/>
+    <rect x="13" y="12" width="1" height="1" fill="#216831"/>
+    <rect x="12" y="11" width="1" height="1" fill="#216831"/>
+  </g>
+  <style>
+    <![CDATA[
+      #egg:active{transform:scaleX(-1);}
+    ]]>
+  </style>
+</svg>

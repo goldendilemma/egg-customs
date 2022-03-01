@@ -1,0 +1,28 @@
+{
+  "name": "Peace Dove",
+  "description": "All profits go towards supporting Ukraine.",
+  "image": "ipfs://QmZK6hQnfU2y3gLMizaXgPxMYZz7zbtuKcer7jUiM9W5t2",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "regular"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "none"
+    },
+    {
+      "trait_type": "hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "regular"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "peace-dove"
+    }
+  ]
+}

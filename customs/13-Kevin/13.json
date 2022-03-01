@@ -1,0 +1,28 @@
+{
+  "name": "Kevin",
+  "description": "All profits go towards supporting Ukraine.",
+  "image": "ipfs://QmXa1ca12xg2DsgRNRtRqXmLxL7oehrtKoqJmDz3Ytqg6C",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "regular"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "kevin-teeth"
+    },
+    {
+      "trait_type": "hair",
+      "value": "kevin-brain"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "kevin-eyes"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "kevin-shirt"
+    }
+  ]
+}
