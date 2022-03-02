@@ -1,0 +1,40 @@
+{
+  "name": "YOLKotoro",
+  "description": "To @kuntwhistle from EGG, thank you for giving EGG to the ones in need.",
+  "image": "ipfs://QmeJwLg8i4VcUrHBayi5dTdS63DbgE98yQETymdQGRXt5y",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "totoro"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "totoro"
+    },
+    {
+      "trait_type": "hair",
+      "value": "leaf"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "regular"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "face",
+      "value": "whiskers"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "none"
+    },
+    {
+      "trait_type": "nose",
+      "value": "totoro"
+    }
+  ]
+}
