@@ -1,0 +1,40 @@
+{
+  "name": "Jimi Hendreggs",
+  "description": "In loving memory of Jimi Hendrix. WOODSTOCK 1969 / EGGSTOCK 2022",
+  "image": "ipfs://QmSJHok6wgWAL4FvQXMBKP1o3yirB3c6zgmYFyGSvSrG1L",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "regular"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hendrix"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "regular"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "earring"
+    },
+    {
+      "trait_type": "guitar",
+      "value": "fender"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "fringed-leather-jacket"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+<svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="egg" shape-rendering="crispEdges">
+  <g class="border">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M14 10H10V11H9V12H8V14H7V19H8V20H9V21H15V20H16V19H17V14H16V12H15V11H14V10ZM14 11V12H15V14H16V19H15V20H9V19H8V14H9V12H10V11H14Z" fill="black"/>
+  </g>
+  <g class="inside rare">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 13H13V14H14V15H13V16H11V15H10V14H11V13Z" fill="#DB00FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 13H12H13V14H12H11V13ZM11 14V15H9.99999V14H11Z" fill="white" fill-opacity="0.59"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 14H14V15H13V16H11V15H13V14Z" fill="black" fill-opacity="0.17"/>
+  </g>
+  <g class="body a1">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M10 11H14V12H15V14H16V19H15V20H14H10H9V19H8V14H9V12H10V11Z" fill="#BC834E"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 11H14V12H13V11ZM14 12H15V13H14V12ZM16 14H15V15H16V14ZM15 18H16V19H15V18ZM15 19V20H14V19H15ZM9 19H10V20H9V19ZM9 19H8V18H9V19Z" fill="black" fill-opacity="0.5"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 11H11V12H12V13H13V15H14V17H13V18H12V19H10V20H12H15V19H16V15V14H15V13H14V12H13V11Z" fill="black" fill-opacity="0.29"/>
+  </g>
+  <g class="mouth a5">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M15 17H14V18H12H11H10V19H11H12H14V18H15V17Z" fill="black"/>
+  </g>
+  <g class="eyes a9">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 15H10V17H11V15ZM14 15H13V17H14V15Z" fill="white"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M10 15H9V17H10V15ZM13 15H12V17H13V15Z" fill="black"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 15H9V16H11V15ZM14 15H12V16H14V15Z" fill="black" fill-opacity="0.15"/>
+  </g>
+  <g class="hair hendrix">
+    <g>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M8 12H16V13H17V14H18V15H19V16H18V17H17V15V14H16H8V12Z" fill="#FB4D66"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M15 12H12V13H10V14H13V13H14V14H17V13H16V12H15Z" fill="black" fill-opacity="0.25"/>
+    </g>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M10 9H14V10H15V11H16V10H17V11H16V12H15H9H8V11H9V10H10V9ZM8 14H9V15H8V16H7V15V14H8ZM16 14H15V15V16H16V15H17V14H16Z" fill="black"/>
+  </g>
+  <g class="accessory earring">
+    <rect x="16" y="16" width="1" height="1" fill="#EAEAEA"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 16H17V17H18V16ZM16 16H15V17H16V16Z" fill="black"/>
+  </g>
+  <g class="clothes fringed-leather-jacket">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M7 18H6V19V20H7V21H8V22H9V21H10V20H9V19H8H7V18ZM14 21H12H11H10V22H11H12H14V21ZM17 21H16V22H15V21H14V20H15V19H16H17V18H18V19V20H17V21ZM17 21V22H18V21H17Z" fill="#EDEDED"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M18 18H17V19H18V18ZM15 19H16V20H15V19ZM8 19H9V20H8V19ZM11 21H12V22H11V21ZM14 21H13V22H14V21Z" fill="black" fill-opacity="0.25"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M19 20H18V21H19V20ZM6 21H7V22H6V21ZM8 22H9V23H8V22ZM13 22H12V23H13V22ZM15 22H16V23H15V22Z" fill="#EDEDED" fill-opacity="0.75"/>
+  </g>
+  <g class="guitar fender">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M6 17H7V18H8V19H9H10V20V21V22H9H8V23H7V22H6V21H5V20H6V17Z" fill="#F9E8CF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M4 16H3H2V17H3V18H4V19H5V20H6H7V19H6V18H5V17H4V16Z" fill="#EAB25F"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M7 19H8V20H9V21V22H8H7V21H6V20H7V19Z" fill="white"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M3 16H2V17H3V16ZM5 18H4V19H5V18ZM5 19V20H6V19H5ZM7 20H8V21H7V20Z" fill="black" fill-opacity="0.15"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M8 17H7V18H8V17ZM8 18V19H9V18H8ZM9 22H10V23V24H9V23V22Z" fill="#7D2618"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M9 18H8V19H9V18ZM10 23H9V24H10V23Z" fill="white" fill-opacity="0.3"/>
+  </g>
+  <style>
+    <![CDATA[
+      #egg:active{transform:scaleX(-1);}
+    ]]>
+  </style>
+</svg>
