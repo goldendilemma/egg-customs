@@ -17,7 +17,7 @@
 <rect x="12" y="20" width="1" height="1" fill="black" fill-opacity="0.1"></rect>
 <rect x="14" y="16" width="1" height="1" fill="#508931"></rect>
 </g>
-</g><g class="clothing pants">
+</g><g class="clothes pants">
 <rect x="10" y="20" width="4" height="1" fill="#4366E4"></rect>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M14 20H13V21H14V20ZM11 20H10V21H11V20Z" fill="black" fill-opacity="0.25"></path>
 </g><g class="mouth tongue">
