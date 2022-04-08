@@ -1,0 +1,32 @@
+{
+  "name": "DuoEGG",
+  "description": "To @0xduo. Thank you for being an eggcellent fren.",
+  "image": "ipfs://QmaCetjbKo79bt4jNzBt9nHCsL8g51xHpXKDrzWFWv25zX",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "bot"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smirk"
+    },
+    {
+      "trait_type": "hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "bot"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "none"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "FrEGk",
+  "description": "FrEGk",
+  "image": "ipfs://QmQjdz9mxvjipS1atLaaLBQpm9A4Fij1oHex1qPWqJ8DMA",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "frank"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "regular"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "frank"
+    }
+  ]
+}

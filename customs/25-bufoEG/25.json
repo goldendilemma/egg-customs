@@ -1,0 +1,36 @@
+{
+  "name": "Bufo EG",
+  "description": "To @BufoBats for always bringing the best vibes.",
+  "image": "ipfs://QmbztgZuE1tJ5erhQJTFgaJqX89tGxTutAtx3GUhWZ7MuS",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "splats"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "tongue"
+    },
+    {
+      "trait_type": "hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "draft"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "shrooms"
+    },
+    {
+      "trait_type": "clothing",
+      "value": "pants"
+    }
+  ]
+}

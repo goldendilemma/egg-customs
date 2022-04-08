@@ -1,0 +1,52 @@
+<svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="egg" shape-rendering="crispEdges">
+<g class="border">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 10H10V11H9V12H8V14H7V19H8V20H9V21H15V20H16V19H17V14H16V12H15V11H14V10ZM14 11V12H15V14H16V19H15V20H9V19H8V14H9V12H10V11H14Z" fill="black"></path>
+</g><g class="inside rare">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 13H13V14H14V15H13V16H11V15H10V14H11V13Z" fill="#DB00FF"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 13H12H13V14H12H11V13ZM11 14V15H9.99999V14H11Z" fill="white" fill-opacity="0.59"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 14H14V15H13V16H11V15H13V14Z" fill="black" fill-opacity="0.17"></path>
+</g><g class="body splats">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 11H14V12H15V14H16V19H15V20H14H10H9V19H8V14H9V12H10V11Z" fill="#FFFF01"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 11H14V12H13V11ZM14 12H15V13H14V12ZM16 14H15V15H16V14ZM15 18H16V19H15V18ZM15 19V20H14V19H15ZM9 19H10V20H9V19ZM9 19H8V18H9V19Z" fill="black" fill-opacity="0.5"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 11H11V12H12V13H13V15H14V17H13V18H12V19H10V20H12H15V19H16V15V14H15V13H14V12H13V11Z" fill="black" fill-opacity="0.29"></path>
+<g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 12H10V14H9V15H8V14H7V13H8V14H9V12ZM7 18H8V19H9V20H8V19H7V18ZM12 20H13V21H12V20ZM16 13H15V14V15H16V14V13ZM14 15H13V16H14V15Z" fill="#86E452" fill-opacity="0.9"></path>
+<rect x="15" y="14" width="1" height="1" fill="black" fill-opacity="0.4"></rect>
+<rect x="8" y="14" width="1" height="1" fill="black" fill-opacity="0.4"></rect>
+<rect x="7" y="18" width="1" height="1" fill="white" fill-opacity="0.4"></rect>
+<rect x="12" y="20" width="1" height="1" fill="black" fill-opacity="0.1"></rect>
+<rect x="14" y="16" width="1" height="1" fill="#508931"></rect>
+</g>
+</g><g class="clothing pants">
+<rect x="10" y="20" width="4" height="1" fill="#4366E4"></rect>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 20H13V21H14V20ZM11 20H10V21H11V20Z" fill="black" fill-opacity="0.25"></path>
+</g><g class="mouth tongue">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 17H14V18H12H11H10V19H11H12H14V18H15V17Z" fill="black"></path>
+<g>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 19H12V20H13V19ZM11 20H12V21V22H11H10H9V21V20H10V19H11V20ZM11 21V20H10V21H11Z" fill="#671717"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 19H12V20H11V21H9V20H10V19H11Z" fill="#D03030"></path>
+<rect x="11" y="21" width="1" height="1" fill="black" fill-opacity="0.5"></rect>
+</g>
+</g><g class="eyes draft">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 16H10V17H11V16ZM14 16H13V17H14V16Z" fill="white"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 16H9V17H10V16ZM13 16H12V17H13V16Z" fill="black"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 15H9V16H11V15ZM14 15H12V16H14V15Z" fill="black" fill-opacity="0.15"></path>
+</g><g class="accessory shrooms">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8 11H7V12H6V13H7H8V14H9V13V12H8V11Z" fill="#E0AA1F"></path>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 8 12)" fill="black" fill-opacity="0.1"></rect>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 9 12)" fill="black" fill-opacity="0.25"></rect>
+<rect width="1" height="1" transform="matrix(-1 0 0 1 9 13)" fill="black" fill-opacity="0.59"></rect>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 12H13V13H14V12ZM14 13V14H15V13H14ZM9 14H8V15H9V14ZM9 14V13H10V14H9Z" fill="black" fill-opacity="0.25"></path>
+<g>
+<rect x="15" y="11" width="1" height="1" fill="white"></rect>
+<rect x="14" y="12" width="1" height="1" fill="white"></rect>
+<rect x="14" y="11" width="1" height="1" fill="white"></rect>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10H16H17V11V12H16V11H15V10Z" fill="#D03030"></path>
+<rect x="16" y="10" width="1" height="1" fill="white" fill-opacity="0.37"></rect>
+<rect x="15" y="11" width="1" height="1" fill="black" fill-opacity="0.16"></rect>
+<rect x="14" y="12" width="1" height="1" fill="black" fill-opacity="0.59"></rect>
+</g>
+</g>
+<style><![CDATA[
+      #egg:active{transform:scaleX(-1);}
+    ]]></style></svg>
