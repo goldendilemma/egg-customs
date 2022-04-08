@@ -1,0 +1,32 @@
+{
+  "name": "Janis Yolklin",
+  "description": "In loving memory of Janis Joplin. WOODSTOCK 1969 / EGGSTOCK 2022",
+  "image": "ipfs://QmaMy5UFKWXMskCfBcUC7xUiS6uuSj5h53sJp8j7wvCGqz",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "regular"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "small-tongue"
+    },
+    {
+      "trait_type": "hair",
+      "value": "joplin"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "regular"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "red-light"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "none"
+    }
+  ]
+}
