@@ -1,0 +1,54 @@
+<svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="egg" shape-rendering="crispEdges">
+  <g class="border">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M14 10H10V11H9V12H8V14H7V19H8V20H9V21H15V20H16V19H17V14H16V12H15V11H14V10ZM14 11V12H15V14H16V19H15V20H9V19H8V14H9V12H10V11H14Z" fill="black"/>
+  </g>
+  <g class="inside rare">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 13H13V14H14V15H13V16H11V15H10V14H11V13Z" fill="#DB00FF"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 13H12H13V14H12H11V13ZM11 14V15H9.99999V14H11Z" fill="white" fill-opacity="0.59"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 14H14V15H13V16H11V15H13V14Z" fill="black" fill-opacity="0.17"/>
+  </g>
+  <g class="body a1">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M10 11H14V12H15V14H16V19H15V20H14H10H9V19H8V14H9V12H10V11Z" fill="#4CAF50"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 11H14V12H13V11ZM14 12H15V13H14V12ZM16 14H15V15H16V14ZM15 18H16V19H15V18ZM15 19V20H14V19H15ZM9 19H10V20H9V19ZM9 19H8V18H9V19Z" fill="black" fill-opacity="0.5"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M13 11H11V12H12V13H13V15H14V17H13V18H12V19H10V20H12H15V19H16V15V14H15V13H14V12H13V11Z" fill="black" fill-opacity="0.29"/>
+  </g>
+  <g class="mouth hockey">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 18H10V19H11H12H14V18H12H11Z" fill="black"/>
+    <g>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M12 19H13H14V20H15V21V22H14V21H13V20H12V19Z" fill="#D50000"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M15 20H13V21H14V22H15V21V20Z" fill="black" fill-opacity="0.25"/>
+    </g>
+  </g>
+  <g class="eyes a9">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 15H10V17H11V15ZM14 15H13V17H14V15Z" fill="white"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M10 15H9V17H10V15ZM13 15H12V17H13V15Z" fill="black"/>
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M11 15H9V16H11V15ZM14 15H12V16H14V15Z" fill="black" fill-opacity="0.15"/>
+  </g>
+  <g class="accessory hockey-stick">
+    <g>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M6 9H7H8V11H7H6V12H5V13V16H6V18H7V19H8V20H7V19H6V18H5V16H4V13V12V11V10H5V9H6Z" fill="#242424"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M8 9H7V10V11H8V10V9ZM5 9H6V10V11H5V10V9Z" fill="#E9E9E9"/>
+    </g>
+    <g>
+      <rect x="4" y="20" width="2" height="1" fill="#242424"/>
+      <rect x="4" y="20" width="1" height="1" fill="white" fill-opacity="0.25"/>
+    </g>
+    <rect x="8" y="20" width="1" height="1" fill="white" fill-opacity="0.6"/>
+    <rect x="7" y="19" width="1" height="1" fill="white" fill-opacity="0.6"/>
+  </g>
+  <g class="hair hockey-helmet">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M9 14H14V15H15V17H14V18H9V17H8V15H9V14Z" fill="white" fill-opacity="0.25"/>
+    <rect x="9" y="14" width="5" height="1" fill="white" fill-opacity="0.29"/>
+    <g>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M15 10H9V11H8V12H7V13V14V15V16H8V15H9V14H14V15H15V16H17V15V14V13V12H16V11H15V10Z" fill="#242424"/>
+      <path fill-rule="evenodd" clip-rule="evenodd" d="M14 10H15V11H16V12H17V16V17H16V18H15V17H14V14H9V15H8V16H7V15V14V13H8V12H9H13V11H14V10ZM15 17V16H16V17H15Z" fill="#121212"/>
+    </g>
+    <rect x="8" y="15" width="1" height="1" fill="white" fill-opacity="0.29"/>
+    <rect x="8" y="16" width="1" height="1" fill="white" fill-opacity="0.29"/>
+  </g>
+  <style>
+    <![CDATA[
+      #egg:active{transform:scaleX(-1);}
+    ]]>
+  </style>
+</svg>

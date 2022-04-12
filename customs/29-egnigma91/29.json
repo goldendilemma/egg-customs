@@ -1,0 +1,32 @@
+{
+  "name": "EGnigma91",
+  "description": "To @Enigma91 from EGG. Get well soon fren.",
+  "image": "ipfs://QmavMgmpXeRakTq3DftWPiU81pBfKUH69NqL5ULaNrJJti",
+  "artist": "EGG & Enigma91",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "regular"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "hockey"
+    },
+    {
+      "trait_type": "hair",
+      "value": "hockey-helmet"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "regular"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "hockey-stick"
+    }
+  ]
+}
