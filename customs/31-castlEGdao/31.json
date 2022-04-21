@@ -1,0 +1,32 @@
+{
+  "name": "castlEGsdao",
+  "description": "To @castlesdao2 from EGG.",
+  "image": "ipfs://QmaB11KUVtc7CxBBtLZaaz7DUWS5J3WxRr8zpNAqW353tD",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "castle"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "hair",
+      "value": "castle-hat"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "regular"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "door"
+    }
+  ]
+}

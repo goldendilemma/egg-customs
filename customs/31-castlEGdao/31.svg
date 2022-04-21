@@ -1,0 +1,33 @@
+<svg width="100%" height="100%" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" id="egg" shape-rendering="crispEdges">
+<g class="border">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M14 10H10V11H9V12H8V14H7V19H8V20H9V21H15V20H16V19H17V14H16V12H15V11H14V10ZM14 11V12H15V14H16V19H15V20H9V19H8V14H9V12H10V11H14Z" fill="black"></path>
+</g><g class="inside rare">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 13H13V14H14V15H13V16H11V15H10V14H11V13Z" fill="#DB00FF"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 13H12H13V14H12H11V13ZM11 14V15H9.99999V14H11Z" fill="white" fill-opacity="0.59"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 14H14V15H13V16H11V15H13V14Z" fill="black" fill-opacity="0.17"></path>
+</g><g class="body castle">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 11H14V12H15V14H16V19H15V20H14H10H9V19H8V14H9V12H10V11Z" fill="#FEDE45"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8 14H9V16H8V14ZM9 19H10H12V20H10H9V19ZM9 19H8V18H9V19Z" fill="#E59D01"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 11H11V12H12V13H13V15H14V18H12V19V20H15V19H16V15V14H15V13H14V12H13V11Z" fill="#955001"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 11H14V12H13V11ZM14 12H15V13H14V12ZM16 14H15V15H16V14ZM15 18H16V19H15V18ZM15 19V20H14V19H15Z" fill="#3B2A2E"></path>
+</g><g class="mouth a5">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 17H14V18H10V19H14V18H15V17Z" fill="black"></path>
+</g><g class="eyes a9">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 15H10V17H11V15ZM14 15H13V17H14V15Z" fill="white"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 15H9V17H10V15ZM13 15H12V17H13V15Z" fill="black"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M11 15H9V16H11V15ZM14 15H12V16H14V15Z" fill="black" fill-opacity="0.15"></path>
+</g><g class="hair castle-hat">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10H14H13H12H10H9V13H10V14H12H13H14V13H15V10Z" fill="#FEDE45"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15 10H14V11V12H15V11V10ZM14 12V13H13V12H14ZM11 10H10V12H11V10Z" fill="#955001"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M13 10H12V12H13V10ZM10 10H9V11H10V10Z" fill="#E59D01"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 9H9V10H10V9ZM9 13V11V10H8V11V13H9ZM15 13H14H11H9V14H11H14H15V13ZM16 11V13H15V11V10H14V9H15V10H16V11ZM11 9H13V10H11V9Z" fill="black"></path>
+<rect x="14" y="12" width="1" height="1" fill="#3B2A2E"></rect>
+</g><g class="accessory door">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6 17H8V18H9V21V22H5V21V18H6V17Z" fill="#944F00"></path>
+<rect x="6" y="20" width="1" height="1" fill="#FEDE45"></rect>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M6 17H7V20H6V17ZM6 21H7V22H6V21ZM9 18H8V22H9V18Z" fill="#3B282F"></path>
+<rect x="5" y="21" width="4" height="1" fill="black" fill-opacity="0.25"></rect>
+</g>
+<style><![CDATA[
+      #egg:active{transform:scaleX(-1);}
+    ]]></style></svg>
