@@ -1,0 +1,31 @@
+{
+  "name": "KendrEGG Lamar",
+  "description": "In celebration of Kendricks new album.",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "regular"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "flat"
+    },
+    {
+      "trait_type": "hair",
+      "value": "short"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "regular"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "crown-of-thorns"
+    }
+  ]
+}
