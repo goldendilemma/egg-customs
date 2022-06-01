@@ -1,0 +1,35 @@
+{
+  "name": "GenerEGg",
+  "description": "Happy Birthday to the one and only @Gal_Mc_couille",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "body",
+      "value": "donkey"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "smile"
+    },
+    {
+      "trait_type": "hair",
+      "value": "general-hat"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "regular"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "deal-with-it"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "general-coat"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "none"
+    }
+  ]
+}
