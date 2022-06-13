@@ -1,0 +1,35 @@
+{
+  "name": "Joker BROCC",
+  "description": "To @James_0927 from EGG, thank you for participating in Custom BROCC / CHIKIN challenge.",
+  "artist": "@James_0927",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value":"brocc"
+    },
+    {
+      "trait_type": "body",
+      "value": "joker"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "clown"
+    },
+    {
+      "trait_type": "hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "evil"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "none"
+    }
+  ]
+}
