@@ -1,0 +1,35 @@
+{
+  "name": "Vivi BROCCnitier",
+  "description": "To @Gal_Mc_couille from EGG, thank you for participating in Custom BROCC / CHIKIN challenge.",
+  "artist": "@Gal_Mc_couille",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value":"brocc"
+    },
+    {
+      "trait_type": "body",
+      "value": "vivi"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "none"
+    },
+    {
+      "trait_type": "hair",
+      "value": "tan-hat"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "vivi"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "flame"
+    }
+  ]
+}
