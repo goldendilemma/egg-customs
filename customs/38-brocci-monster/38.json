@@ -1,0 +1,35 @@
+{
+  "name": "BROCCi Monster",
+  "description": "Loves them cookies.",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value":"brocc"
+    },
+    {
+      "trait_type": "body",
+      "value": "cookie-monster"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "open-wide"
+    },
+    {
+      "trait_type": "hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "crazy"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "cookies-and-milk"
+    }
+  ]
+}
