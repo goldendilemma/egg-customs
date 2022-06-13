@@ -1,0 +1,35 @@
+{
+  "name": "reaper CHIK",
+  "description": "To @PatrickAloysiu1 from EGG, thank you for participating in Custom BROCC / CHIKIN challenge.",
+  "artist": "@PatrickAloysiu1",
+  "attributes": [
+    {
+      "trait_type": "type",
+      "value":"chik"
+    },
+    {
+      "trait_type": "body",
+      "value": "skeleton"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "skeleton"
+    },
+    {
+      "trait_type": "hair",
+      "value": "none"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "holes"
+    },
+    {
+      "trait_type": "glasses",
+      "value": "none"
+    },
+    {
+      "trait_type": "accessory",
+      "value": "schyte"
+    }
+  ]
+}
