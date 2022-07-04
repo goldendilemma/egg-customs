@@ -1,0 +1,92 @@
+@keyframes crawl-up {
+  0% {
+    transform: scaleY(1);
+    opacity: 1;
+  }
+  80% { 
+    transform: scaleY(1);
+    opacity: 1; 
+  }
+  90% { 
+    transform: scaleY(0);
+    opacity: 0;
+  }
+  100% { 
+    transform: scaleY(0);
+    opacity: 0;
+  }
+}
+@keyframes floating {
+  0% { transform: translateY(0px); }
+  50% { transform: translateY(-1.5%); }
+  100% { transform: translateY(1.5%); }
+}
+@keyframes ooo {
+  0% { transform: scale(1); }
+  100% { transform: scale(1.25); }
+}
+@keyframes sunglasses {
+  0% { transform: translateY(0px); }
+  100% { transform: translateY(-0.5px); }
+}
+@keyframes sunglasses-wait {
+  25% { transform: translateY(0px); }
+  100% { transform: translateY(-1px); }
+}
+@keyframes EGG {
+  0% { transform: translateX(-0.05px); }
+  100% { transform: translateX(0.05px); }
+}
+@keyframes blink {
+  0% { transform: scaleY(0.75); }
+  49% { transform: scaleY(0.75); }
+  50% { transform: scaleY(1); }
+  100% { transform: scaleY(1); }
+}
+@keyframes cig-smoke {
+  0% { opacity: 1; }
+  100% { opacity: 0.5; }
+}
+@keyframes wind-blow-left {
+  0% { transform: scaleX(0.95); }
+  100% { transform: scaleX(1); }
+}
+@keyframes wind-blow-left-mild {
+  0% { transform: scaleX(0.97); }
+  100% { transform: scaleX(1); }
+}
+@keyframes shake {
+  0% { transform: translateY(0.5%); }
+  10% { transform: translateY(-0.5%); }
+  20% { transform: translateY(0); }
+}
+@keyframes cig-glow {
+  from { fill-opacity: 1.0; }
+  to { fill-opacity: 0.5; }
+}
+@keyframes roll {
+  0% { transform: rotate(8deg); }
+  15% { transform: rotate(-8deg); }
+  35% { transform: rotate(8deg); }
+  60% { transform: rotate(-8deg); }
+  80% { transform: rotate(8deg); }
+  100% { transform: rotate(-8deg); }
+}
+.eyes {
+  transform-origin: 50% 70%;
+  animation: blink 1s step-end;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+.glasses {
+  transform-origin: center center;
+  animation: sunglasses-wait 2s ease-out;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+.inside {
+  transform-origin: center center;
+  animation: floating 2.5s ease-in-out;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+}
