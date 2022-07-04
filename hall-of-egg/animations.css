@@ -1,0 +1,67 @@
+.glasses.red-light {
+  animation: none;
+}
+#football-helmet {
+  transform-origin: center center;
+  animation: shake 1s linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+}
+#poke-ball {
+  transform-origin: center center;
+  animation: floating 1.5s ease-in-out;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse;
+}
+#elder-wand > g:last-child,
+#elder-wand > path {
+    transform-origin: center center;
+    animation: cig-smoke 500ms ease-out;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+#carnage {
+  animation: crawl-up 5s ease-out;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  transform-origin: 50% 85%;
+}
+#carnage g:nth-child(2) { /* eyes */
+    transform-origin: 50% 70%;
+    animation: blink 1s step-end;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+#carnage g:nth-child(4) { /* tentacles */
+    transform-origin: center center;
+    animation: wind-blow-left 500ms linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+.cape,
+.mouth.tongue > g {
+  transform-origin: center center;
+  animation: wind-blow-left 0.1s linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+.hair.hendrix > g,
+.hair.joplin {
+  transform-origin: center center;
+  animation: wind-blow-left-mild 0.1s linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+.body.cookie-monster path:nth-child(4) {
+  transform-origin: center center;
+  animation: wind-blow-left 0.3s linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+.accessory.flame {
+  transform-origin: center center;
+  animation: wind-blow-left-mild 0.2s linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
