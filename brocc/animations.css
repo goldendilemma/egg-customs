@@ -1,16 +1,16 @@
 /** cape */
-.a16 {
+#a16 {
   transform-origin: center center;
   animation: wind-blow-left 0.1s linear;
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
 /** glasses not moving */
-.a10, .a11 {
+#a10, #a11 {
   animation: none;
 }
 /** ooo */
-.a7 {
+#a7 {
   transform-origin: 50% 78%;
   animation: ooo 1s ease-in-out;
   animation-iteration-count: infinite;
@@ -20,13 +20,13 @@
   transform-origin: 50% 75%;
 }
 /** cigarr */
-.a17 > path {
+#a17 > path {
   transform-origin: center center;
   animation: cig-smoke 500ms ease-out;
   animation-iteration-count: infinite;
   animation-direction: alternate;
 } 
-.a17 rect:nth-child(3) {
+#a17 rect:nth-child(3) {
   transform-origin: center center;
   animation: cig-glow 1s linear;
   animation-iteration-count: infinite;

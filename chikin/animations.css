@@ -1,8 +1,8 @@
-.a9, .a10 {
+#a9, #a10 {
   animation: none;
 }
 
-.a21 > path:nth-child(3) {
+#a21 > path:nth-child(3) {
   transform-origin: center center;
   animation: cig-smoke 500ms ease-out;
   animation-iteration-count: infinite;
