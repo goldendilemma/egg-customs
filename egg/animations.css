@@ -1,0 +1,30 @@
+#a6,
+.mouth.a6 {
+  /** ooo **/
+  transform-origin: 50% 78%;
+  animation: ooo 1s ease-in-out;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+#a7,
+.mouth.a7 {
+  /** EGG **/
+  transform-origin: center center;
+  animation: EGG 50ms linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+
+#a13 path {
+  transform-origin: center center;
+  animation: cig-smoke 500ms ease-out;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
+#a13 rect:nth-child(2) {
+  transform-origin: center center;
+  animation: cig-glow 1s linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
