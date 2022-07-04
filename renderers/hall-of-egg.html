@@ -1,0 +1,88 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hall of EGG Renderer</title>
+
+  <style>
+    html, body { margin: 0; padding: 0; }
+  </style>
+
+  <style id="animations"></style>
+</head>
+<body>
+  <script>
+    function parseQuery (query) {
+      const pairs = query.slice(1) // remove ?
+        .split('&')
+        .map(pairStr => pairStr.split('='))
+        .filter(pair => pair[0] !== "") // remove empty elem
+      return Object.fromEntries(pairs)
+    }
+
+    function queryToString (queryObj) {
+      const entries = Object.entries(queryObj)
+      return entries.reduce((acc, cur) => {
+        return cur[1] != null
+          ? `${acc}&${cur[0]}=${cur[1]}`
+          : `${acc}&${cur[0]}`
+      }, '')
+    }
+
+    async function getStandardAnimations () {
+      const res = await fetch('https://raw.githubusercontent.com/goldendilemma/egg-customs/main/styles/standardAnimations.css')
+      return await res.text()
+    }
+    
+    async function getAnimations () {
+      const res = await fetch('https://raw.githubusercontent.com/goldendilemma/egg-customs/main/hall-of-egg/animations.css')
+      return await res.text()
+    }
+
+    async function getEntity (id) {
+      const res = await fetch(`https://raw.githubusercontent.com/goldendilemma/egg-customs/main/hall-of-egg/${id}/${id}.svg`)
+      return await res.text()
+    }
+
+    async function setupAnimations () {
+      const [standard, specificAnimations] = await Promise.all([
+        getStandardAnimations(),
+        getAnimations()
+      ])
+      document.querySelector('#animations').textContent = `
+        ${standard}
+        ${specificAnimations}
+      `
+    }
+
+    const createElementFrom = (markup) => {
+      const template = document.createElement('template')
+      template.innerHTML = markup.trim()
+      const svg = template.content.children[0]
+      return svg
+    }
+
+    async function setupEntity (id) {
+      const markup = await getEntity(id)
+      const svg = createElementFrom(markup)
+      document.body.append(svg)
+    }
+
+    async function setup (keys) {
+      await Promise.all([
+        setupAnimations(),
+        setupEntity(keys.id)
+      ])
+    }
+    
+    async function start() {
+      const query = document.location.search
+      const keys = parseQuery(query)
+      await setup(keys)
+    }
+    start()
+    
+  </script>
+</body>
+</html>

@@ -1,0 +1,135 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Customizer Renderer</title>
+  <style>
+    iframe { border: none; }
+    html, body { margin: 0; padding: 0; }
+    #render-iframe {
+      width: 100%;
+      height: 100%;
+    }
+  </style>
+
+  <style id="animations">
+  </style>
+  <script>
+    const EGG_FAM = [
+      { 
+        id: 'egg',
+        name: "EGG",
+        baseURL: 'ipfs://QmS94ZamgRcTdJ8VSNwsjnUHwUweo9djk9cz9THNNJeprk'
+      },
+      { 
+        id: 'brocc',
+        name: "BROCC", 
+        baseURL: 'ipfs://QmPSTJ6AR78GYKHp1nBt4tbjeWCKBQHAr8wFL4JhnRfPrk'
+      },
+      { 
+        id: 'chikin',
+        name: "CHIKIN", 
+        baseURL: 'ipfs://QmdQAPzGzCWn8kEE1fGPj5hSYjrc8hSd7VtapiGYtMWidd'
+      }
+    ]
+  </script>
+</head>
+<body>
+  <iframe id="render-iframe"></iframe>
+  <script>
+    function parseQuery (query) {
+      const pairs = query.slice(1) // remove ?
+        .split('&')
+        .map(pairStr => pairStr.split('='))
+        .filter(pair => pair[0] !== "") // remove empty elem
+      return Object.fromEntries(pairs)
+    }
+
+    function queryToString (queryObj) {
+      const entries = Object.entries(queryObj)
+      return entries.reduce((acc, cur) => {
+        return cur[1] != null
+          ? `${acc}&${cur[0]}=${cur[1]}`
+          : `${acc}&${cur[0]}`
+      }, '')
+    }
+
+    function parseUrl (url) {
+      if (url.indexOf('ipfs://') === 0) {
+        return url.replaceAll('ipfs://', 'https://dweb.link/ipfs/')
+      } else {
+        return url
+      }
+    }
+
+    function getIframe () { return document.querySelector('#render-iframe') }
+
+    function render (keys) {
+      const $iframe = getIframe()
+      const { famId, ...attrs } = keys 
+      const fam = EGG_FAM[famId]
+      const uri = parseUrl(fam.baseURL) + '?' + queryToString(attrs)
+      $iframe.setAttribute('src', uri)
+    }
+    
+    async function getStandardAnimations () {
+      const res = await fetch('https://raw.githubusercontent.com/goldendilemma/egg-customs/main/styles/standardAnimations.css')
+      return res.ok
+        ? await res.text()
+        : ''
+    }
+    
+    async function getAnimations (assetId) {
+      const res = await fetch(`https://raw.githubusercontent.com/goldendilemma/egg-customs/main/${assetId}/animations.css`)
+      return res.ok
+        ? await res.text()
+        : ''
+    }
+
+    async function getStyles (assetId) {
+      const [standard, specificAnimations] = await Promise.all([
+        getStandardAnimations(),
+        getAnimations(assetId)
+      ])
+      return `
+        ${standard}
+        ${specificAnimations}
+      `
+    }
+
+    function handleMessage ($iframe, fam) {
+      return function (message) {
+        if (message.source === $iframe.contentWindow) {
+          switch(message.data.action) {
+            case 'LOADED':
+              getStyles(fam.id)
+                .then(css => {
+                  $iframe.contentWindow.postMessage({ 
+                    action: 'SET_CSS', 
+                    payload: css 
+                  }, '*')
+                })
+              break
+          }
+        }
+      }
+    }
+
+    async function setup (keys) {
+      const fam = EGG_FAM[keys.famId]
+      const $iframe = getIframe()
+      window.addEventListener('message', handleMessage($iframe, fam))
+    }
+
+    async function start() {
+      const query = document.location.search
+      const keys = parseQuery(query)
+      setup(keys)
+      render(keys)
+    }
+
+    start()
+  </script>
+</body>
+</html>
