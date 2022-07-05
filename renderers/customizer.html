@@ -12,16 +12,23 @@
       height: 100%;
       display: none;
     }
-    #loading {
+    #message-wrapper > * {
       position: absolute;
       top: 0; left: 0;
       height: 100vh; width: 100vw;
       z-index: 10;
       background-repeat: no-repeat;
       background-position: center center;
-      background-size: 25%;
       image-rendering: pixelated;
+    }
+    .loading {
+      background-size: 25%;
       background-image: url('data:image/gif;base64,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');
+    }
+    .error {
+      display: none;
+      background-size: 25%;
+      background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAACcSURBVHgB7drLCYAwAATRUaw4haRlvXsJko+BnVeBLOxqVJAkSZKU6GCyWutNh1LK1Gs8CWcAhBver97Ot4zeBCtAODeATrM739K7CVaAcPEBXCzW6uzqTbEChHMD+Ojv+/7b+3q+PhdYAcIZAOEMgHAGQDgDIJxnARbb7SxhBQjnBrCY7wQ3YwCE89sg4QyAcP4jRDgDQJIkKdQDyK8lrs/XycoAAAAASUVORK5CYII=');
     }
   </style>
 
@@ -48,11 +55,25 @@
   </script>
 </head>
 <body>
-  <div id="loading"></div>
+  <div id="message-wrapper">
+    <div class="loading"></div>
+    <div class="error"></div>
+  </div>
   <iframe id="render-iframe"></iframe>
   <script>
     function setLoading (state) {
-      const $loader = document.querySelector('#loading')
+      const $loader = document.querySelector('.loading')
+      $loader.style.display = state === true 
+        ? 'initial'
+        : 'none'
+    }
+    function setError (state, error) {
+      const $loader = document.querySelector('.error')
+      if (error) {
+        $loader.setAttribute('title', error.message)
+      } else {
+        $loader.removeAttribute('title')
+      }
       $loader.style.display = state === true 
         ? 'initial'
         : 'none'
@@ -95,24 +116,25 @@
       const { famId, ...attrs } = keys 
       const fam = EGG_FAM[famId]
       const uri = parseUrl(fam.baseURL) + '?' + queryToString(attrs)
-      $iframe.setAttribute('src', uri)
+      $iframe.setAttribute('src', uri) 
     }
     
     async function getStandardAnimations () {
-      const res = await fetch('https://raw.githubusercontent.com/goldendilemma/egg-customs/main/styles/standardAnimations.css')
+      const res = await fetch('https://raw.githubusercontent.com/goldendilemma/eggfam/v0.1/styles/standardAnimations.css')
       return res.ok
         ? await res.text()
         : ''
     }
     
     async function getAnimations (assetId) {
-      const res = await fetch(`https://raw.githubusercontent.com/goldendilemma/egg-customs/main/${assetId}/animations.css`)
+      const res = await fetch(`https://raw.githubusercontent.com/goldendilemma/eggfam/v0.1/${assetId}/animations.css`)
       return res.ok
         ? await res.text()
         : ''
     }
 
     async function getStyles (assetId) {
+      try {
       const [standard, specificAnimations] = await Promise.all([
         getStandardAnimations(),
         getAnimations(assetId)
@@ -121,6 +143,9 @@
         ${standard}
         ${specificAnimations}
       `
+      } catch(error) {
+        return ''
+      }
     }
 
     function handleMessage ($iframe, fam) {
