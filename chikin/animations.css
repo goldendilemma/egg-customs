@@ -11,3 +11,17 @@
 .eyes {
   transform-origin: 50% 75%;
 }
+
+#a15 { /** car **/
+  animation: shake 1s linear infinite alternate;
+}
+
+#a3 > g:nth-child(3) {
+  animation: wind-blow-left-mild 0.1s ease-out infinite alternate;
+  transform-origin: center center;
+}
+
+#a1 {
+  animation: wind-blow-left-mild linear 0.5s infinite alternate;
+  transform-origin: center;
+}
