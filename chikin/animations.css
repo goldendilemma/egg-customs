@@ -16,12 +16,12 @@
   animation: shake 1s linear infinite alternate;
 }
 
-#a3 > g:nth-child(3) {
+#a3 > g:nth-child(3) { /** comb **/
   animation: wind-blow-left-mild 0.1s ease-out infinite alternate;
   transform-origin: center center;
 }
 
-#a1 {
+#a1 { /** jello **/
   animation: wind-blow-left-mild linear 0.5s infinite alternate;
   transform-origin: center;
 }
