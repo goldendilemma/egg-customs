@@ -1,38 +1,38 @@
 .glasses.red-light {
   animation: none;
 }
-#football-helmet {
+.football-helmet {
   transform-origin: center center;
   animation: shake 1s linear;
   animation-iteration-count: infinite;
   animation-direction: alternate-reverse;
 }
-#poke-ball {
+.poke-ball {
   transform-origin: center center;
   animation: floating 1.5s ease-in-out;
   animation-iteration-count: infinite;
   animation-direction: alternate-reverse;
 }
-#elder-wand > g:last-child,
-#elder-wand > path {
+.elder-wand > g:last-child,
+.elder-wand > path {
     transform-origin: center center;
     animation: cig-smoke 500ms ease-out;
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
-#carnage {
+.carnage {
   animation: crawl-up 5s ease-out;
   animation-iteration-count: infinite;
   animation-direction: alternate;
   transform-origin: 50% 85%;
 }
-#carnage g:nth-child(2) { /* eyes */
+.carnage g:nth-child(2) { /* eyes */
     transform-origin: 50% 70%;
     animation: blink 1s step-end;
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
-#carnage g:nth-child(4) { /* tentacles */
+.carnage g:nth-child(4) { /* tentacles */
     transform-origin: center center;
     animation: wind-blow-left 500ms linear;
     animation-iteration-count: infinite;
