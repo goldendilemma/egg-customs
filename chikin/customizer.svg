@@ -1,0 +1,170 @@
+<svg width="100%" height="100%" id="scene" viewBox="0 0 24 24" fill="none" shape-rendering="crispEdges" image-rendering="pixelated" xmlns="http://www.w3.org/2000/svg"><g class="chikin entity"><g id="seed" class="inside">
+<path d="M12 14H13V15H12H11V14H12ZM10 16V15H11V16H10ZM10 18H9V16H10V18ZM14 18V19H13H11H10V18H11H13H14ZM14 16H15V18H14V16ZM14 16V15H13V16H14Z" fill="black" class="eo"></path>
+<path d="M11 15H12H13V16H14V18H13H10V17V16H11V15Z" fill="#F2BC2F" class="eo"></path>
+<path d="M13 16H14V17V18H13H12V17H13V16Z" fill="black" fill-opacity="0.25" class="eo"></path>
+<path d="M12 15H11V16H10V17H11V16H12V15Z" fill="white" fill-opacity="0.6" class="eo"></path>
+</g><g id="a1" class="body">
+<path d="M15 12H9V13H8V14H7V20H8V21H16V20H17V14H16V13H15V12ZM15 13V14H16V20H8V14H9V13H15Z" fill="black" class="eo"></path>
+<path opacity="0.9" d="M16 10H14V11H13V12V13H9V14H8V20H12V21H13V22H15V21H13V20H16V14H17V13H16V12H15V11H16V10ZM9 21H11V22H9V21Z" fill="#FF0000" class="fill eo"></path>
+<path d="M15 10H16V11H15V10ZM15 12H14V11H15V12ZM15 12H16V13H15V12ZM9 13H10H12V14H10V15H9V17H10V18H11V19H14V20H11H10H9H8V14H9V13ZM10 21H11V22H10V21ZM15 21H14V22H15V21Z" fill="black" fill-opacity="0.15" class="eo"></path>
+<path d="M9 18H8V20H9H10V19H9V18Z" fill="black" fill-opacity="0.25" class="eo"></path>
+<path d="M14 13H13V14H14H15V15V16H16V15V14H15V13H14Z" fill="white" fill-opacity="0.5" class="eo"></path>
+<rect x="14" y="14" width="1" height="1" fill="white"></rect>
+<path d="M16 10H15V11H14V12H13V13H14V12H15V13H16V12H15V11H16V10ZM10 13H9V14H8V15H9V14H10V13Z" fill="black" fill-opacity="0.25" class="eo"></path>
+<g>
+<rect x="12" y="19" width="2" height="1" fill="black" fill-opacity="0.4"></rect>
+<rect x="12" y="18" width="3" height="1" fill="white" fill-opacity="0.5"></rect>
+<rect x="14" y="18" width="1" height="1" fill="white"></rect>
+</g>
+</g><g id="a2" class="body">
+<path d="M15 13H9V14H8V20H16V14H15V13Z" fill="#56AD69" class="eo"></path>
+<path d="M10 13H9V14H8V20H9H10V19H11V18H10V17H11V16H10V15H11V14H13V13H10ZM10 18H9V19H10V18ZM13 18H14V19H13V18Z" fill="black" fill-opacity="0.15" class="eo"></path>
+<path d="M15 12H9V13H8V14H7V20H8V21H16V20H17V14H16V13H15V12ZM15 13V14H16V20H8V14H9V13H15Z" fill="black" class="eo"></path>
+<g>
+<path d="M15 10H14V11H13V13H14H15V14H17V13H16V12H15V11H16V10H15ZM16 11V12H17V11H16ZM17 14V15H18V14H17ZM13 20H12V21H13H14V20H13Z" fill="#E7B0B0" class="eo"></path>
+<path d="M16 10H15V11H16V10ZM15 12H14V11H15V12ZM16 13V12H15V13H16ZM16 13V14H17V13H16ZM13 20H12V21H13V20Z" fill="black" fill-opacity="0.21" class="eo"></path>
+</g>
+<g>
+<path d="M11 21H9V22H11V21ZM15 21H13V22H15V21Z" fill="#B7E2C0" class="eo"></path>
+<path d="M11 21H10V22H11V21ZM15 21H14V22H15V21Z" fill="black" fill-opacity="0.15" class="eo"></path>
+</g>
+<g>
+<path d="M15 18H12V19V20H14V19H15V18Z" fill="#B7E2C0" class="eo"></path>
+<g style="mix-blend-mode:overlay">
+<rect x="12" y="18" width="3" height="1" fill="white" fill-opacity="0.2"></rect>
+</g>
+<rect x="12" y="19" width="2" height="1" fill="black" fill-opacity="0.1"></rect>
+</g>
+</g><g id="a3" class="body">
+<g>
+<path d="M15 12H9V13H8V14H7V20H8V21H16V20H17V14H16V13H15V12ZM15 13V14H16V20H8V14H9V13H15Z" fill="black" class="eo"></path>
+</g>
+<g>
+<path d="M9 13H15V14H16V20H15H9H8V14H9V13Z" fill="white" class="eo"></path>
+<path d="M9 13H10H12V14H10V15H9V18H10V19H11V20H10H9H8V14H9V13Z" fill="black" fill-opacity="0.15" class="eo"></path>
+</g>
+<g>
+<path d="M14 10H15H16V11H15V12H16V13H17V14H15V13H14H13V11H14V10ZM12 20H13V21H12V20Z" fill="#FF0000" class="eo"></path>
+<path d="M16 10H15V11H16V10ZM15 12H14V11H15V12ZM16 13V12H15V13H16ZM16 13V14H17V13H16Z" fill="black" fill-opacity="0.21" class="eo"></path>
+</g>
+<g>
+<path d="M11 21H9V22H11V21ZM15 21H13V22H15V21Z" fill="#F2BC2F" class="eo"></path>
+<path d="M11 21H10V22H11V21ZM15 21H14V22H15V21Z" fill="black" fill-opacity="0.15" class="eo"></path>
+</g>
+<g>
+<path d="M15 18H12V19V20H14V19H15V18Z" fill="#F2BC2F" class="eo"></path>
+<rect x="12" y="19" width="2" height="1" fill="black" fill-opacity="0.15"></rect>
+<g style="mix-blend-mode:overlay">
+<rect x="12" y="18" width="3" height="1" fill="white" fill-opacity="0.2"></rect>
+</g>
+<g style="mix-blend-mode:overlay">
+<rect x="12" y="18" width="3" height="1" fill="white" fill-opacity="0.2"></rect>
+</g>
+</g>
+</g><g id="a4" class="eyes">
+<path d="M13 16H14V18H13V16ZM10 16H11V18H10V16Z" fill="white" class="eo"></path>
+<path d="M14 16H15V18H14V16ZM11 16H12V18H11V16Z" fill="black" class="eo"></path>
+<path d="M13 16H15V17H13V16ZM10 16H12V17H10V16Z" fill="black" fill-opacity="0.15" class="eo"></path>
+</g><g id="a5" class="eyes">
+<path d="M12 17H10V18H12V17ZM15 17H13V18H15V17Z" fill="#FF0000" class="eo"></path>
+<path d="M12 17H11V18H12V17ZM15 17H14V18H15V17Z" fill="black" class="eo"></path>
+</g><g id="a6" class="eyes">
+<path d="M12 16H10V18H12V16ZM15 16H13V18H15V16Z" fill="black" class="eo"></path>
+<path d="M12 16H11V17H12V16ZM15 16H14V17H15V16Z" fill="white" class="eo"></path>
+</g><rect id="a7" x="12" y="19" width="1" height="1" fill="black" class="mouth"></rect><g id="a8" class="mouth">
+<path d="M12 19H11V20V21H12V20V19Z" fill="#88F8FF" class="eo"></path>
+<rect x="11" y="21" width="1" height="1" fill="#88F8FF" fill-opacity="0.5"></rect>
+<rect x="12" y="19" width="1" height="1" fill="black"></rect>
+</g><g id="a9" class="glasses">
+<path d="M13 13H11V14H12V15V16H13V15H14V14H13V13ZM11 18H8V19V20H10V19H11V18ZM16 18H15V19H16V18Z" fill="#FF0000" class="fill eo"></path>
+<path d="M13 13H11V14H13V13ZM9 18H8V20H9V18Z" fill="black" fill-opacity="0.37" class="eo"></path>
+</g><g id="a10" class="glasses">
+<path d="M12 15H9V16H8V17H7V18H8H9V19H12V18H13V19H15V18H16V16H15V15H13V16H12V15ZM13 16H15V18H13V16ZM12 16V18H9V16H12Z" fill="#FF0000" class="fill eo"></path>
+<rect x="9" y="16" width="3" height="2" fill="white" fill-opacity="0.25"></rect>
+<rect x="13" y="16" width="2" height="2" fill="white" fill-opacity="0.25"></rect>
+<path d="M9 15H10V16H9V15ZM8 17V16H9V17H8ZM8 17V18H7V17H8ZM14 15H13V16H12V17H13V16H14V15ZM10 18H9V19H10V18ZM14 18H13V19H14V18Z" fill="black" fill-opacity="0.2" class="eo"></path>
+<path d="M11 15H12V16H11V15ZM14 15H15V16H14V15ZM15 16V17H16V16H15Z" fill="white" fill-opacity="0.4" class="eo"></path>
+<path d="M12 16H9V17H12V16ZM15 16H13V17H15V16Z" fill="black" fill-opacity="0.2" class="eo"></path>
+<path d="M10 16H9V18H10V16ZM14 16H13V18H14V16Z" fill="white" fill-opacity="0.25" class="eo"></path>
+<path d="M10 16H9V17H10V16ZM14 16H13V17H14V16Z" fill="white" fill-opacity="0.5" class="eo"></path>
+</g><g id="a11" class="glasses">
+<path d="M12 16H10V17H12V16ZM15 16H13V17H15V16Z" fill="black" class="eo"></path>
+<path d="M12 15H10V16H9H8V17H9H10V18H12V17H13V18H15V17H16V16H15V15H13V16H12V15ZM13 16H15V17H13V16ZM12 16V17H10V16H12Z" fill="#FFD600" class="eo"></path>
+<path d="M12 17H10V18H12V17ZM15 17H13V18H15V17Z" fill="black" fill-opacity="0.26" class="eo"></path>
+<path d="M12 15H11V16H12V15ZM15 15H14V16H15V15Z" fill="white" fill-opacity="0.56" class="eo"></path>
+</g><g id="a12" class="glasses">
+<path d="M8 16H9H10H12H13H15H16V17H15V18H13V17H12V18H10H9V17H8V16Z" fill="#B5B5B5" class="eo"></path>
+<rect x="8" y="16" width="1" height="1" fill="black" fill-opacity="0.25"></rect>
+<path d="M9 16H10V18H9V16ZM12 16H13V17H12V16ZM16 16H15V17H16V16Z" fill="black" fill-opacity="0.15" class="eo"></path>
+<path d="M11 16H10V18H11V16ZM14 16H13V18H14V16Z" fill="white" fill-opacity="0.66" class="eo"></path>
+<path d="M9 16H8V17H9V18H12V17H13V18H15V17H16V16H15V17H13V16H12V17H9V16Z" fill="black" fill-opacity="0.1" class="eo"></path>
+</g><g id="a13" class="hat">
+<path d="M16 8H14V9H13V10H12V12H11V13H12V12H13V10H14V11H16V10H17V9H16V8Z" fill="#33FF00" class="fill eo"></path>
+<rect x="14" y="10" width="1" height="1" fill="white"></rect>
+<rect x="15" y="10" width="1" height="1" fill="black"></rect>
+<rect x="14" y="9" width="2" height="1" fill="white" fill-opacity="0.5"></rect>
+<path d="M13 9H14V10H13V9ZM13 10V11H12V10H13ZM11 12H12V13H11V12Z" fill="black" fill-opacity="0.28" class="eo"></path>
+</g><g id="a14" class="hat">
+<path d="M10 11H11H12H13H14H15V14H14V15H13H12H11V14H10V11Z" fill="#BF1CF8" class="fill eo"></path>
+<path d="M12 12H11V13H10V14H11V13H12V12ZM14 12H13V13H14V14H15V13H14V12Z" fill="black" fill-opacity="0.3" class="eo"></path>
+<path d="M12 11H11V12H12V11ZM14 11H13V12H14V11Z" fill="black" fill-opacity="0.55" class="eo"></path>
+<path d="M14 10H15V11H14V10ZM15 14V12V11H16V12V14H15ZM10 14H11H14H15V15H14H11H10V14ZM9 12V14H10V12V11H11V10H10V11H9V12ZM13 10H12V11H13V10Z" fill="black" class="eo"></path>
+</g><g id="a15" class="accessory">
+<path d="M8 20H7V21H8V22V23H9V22H11V23H13V22H15V23H17H18V22V21H13H11H9V20H8Z" fill="#FF0000" class="fill eo"></path>
+<path d="M11 22H9V24H11V22ZM15 22H13V24H15V22Z" fill="#393939" class="eo"></path>
+<path d="M11 22H10V23H9V24H10V23H11V22ZM13 22H14V23H13V22ZM14 23V24H15V23H14Z" fill="white" fill-opacity="0.28" class="eo"></path>
+<path d="M9 20H8V21H9V20ZM8 22H9V23H8V22ZM11 22H13V23H11V22ZM17 22H18V23H17H15V22H17Z" fill="black" fill-opacity="0.2" class="eo"></path>
+<rect x="16" y="20" width="1" height="1" fill="#88F8FF" fill-opacity="0.35"></rect>
+<rect x="17" y="21" width="1" height="1" fill="white" fill-opacity="0.75"></rect>
+<rect x="7" y="20" width="1" height="1" fill="white" fill-opacity="0.49"></rect>
+</g><g id="a16" class="accessory">
+<path d="M16 20H17V21H16V22H15H14V21H15V20H16Z" fill="black" class="eo"></path>
+<path d="M20 16H21V17H20V16ZM20 18H19V19H18V20H17V19H16V20V21H15V22H16V21H17H18V20H19V19H20V18Z" fill="#F2BC2F" class="fill eo"></path>
+<path d="M21 13H20V16H19V17V18H18V19H17V20H18V19H19V18H20V17V16H21V13Z" fill="#CCCCCC" class="eo"></path>
+<path d="M21 14H20V16H21V14ZM20 17H19V18H20V17Z" fill="white" fill-opacity="0.19" class="eo"></path>
+<path d="M17 20H16V21H15V22H16V21H17V20Z" fill="#6A6A6A" fill-opacity="0.81" class="eo"></path>
+<path d="M21 16H20V17H21V16ZM19 18H20V19H19V18ZM19 19V20H18V19H19Z" fill="#E4E4E4" fill-opacity="0.9" class="eo"></path>
+</g><g id="a17" class="accessory">
+<path d="M6 20H8V21H9V22H7V21H6V20ZM16 21H15V22H17V21H18V20H16V21ZM11 21H13V22H11V21Z" fill="#575757" class="eo"></path>
+<path d="M6 21H7V22H6V21ZM17 22H7V23H17V22ZM17 22V21H18V22H17Z" fill="#D6B577" class="eo"></path>
+<path d="M9 23H8V24H9H10V23H9ZM16 23H15H14V24H15H16V23Z" fill="#FF0000" class="fill eo"></path>
+<path d="M8 20H6V21V22H7V23H8V24H9V23H12V22H13V21H11V22H9V21H8V20ZM15 23H14V24H15V23Z" fill="black" fill-opacity="0.35" class="eo"></path>
+</g><g id="a18" class="accessory">
+<path d="M7 17H8V18H7V17ZM6 19V18H7V19H6ZM6 21H5V19H6V21ZM9 21V22H6V21H9ZM9 19H10V21H9V19ZM9 19V18H8V19H9Z" fill="black" class="eo"></path>
+<path d="M9 19H8V20H7V21H8V20H9V19Z" fill="#A6772D" class="eo"></path>
+<path d="M8 18H7V19H6V20H7V19H8V18Z" fill="#FFF2AD" class="eo"></path>
+<rect x="8" y="20" width="1" height="1" fill="#764424"></rect>
+<path d="M8 19H7V20H6V21H7V20H8V19Z" fill="#F4D21B" class="eo"></path>
+</g><g id="a19" class="accessory">
+<path d="M4 17H3V18H4H5V19H4V20H3V21H4H5H6V20H7H8H9V19H8V18H7H6V17H5H4Z" fill="#E18700" class="eo"></path>
+<g>
+<path d="M7 20V19V18H8V19V20H7ZM6 18H5V19H4V20H3V21H4V20H5V19H6V18Z" fill="black" fill-opacity="0.6" style="mix-blend-mode:overlay" class="eo"></path>
+</g>
+<g>
+<path d="M6 17H4V18H6V19H8V18H6V17Z" fill="white" fill-opacity="0.54" style="mix-blend-mode:overlay" class="eo"></path>
+</g>
+</g><g id="a20" class="accessory">
+<path d="M19 17H20H21V18V19H20V18H19V17ZM20 19V20H14V19H20Z" fill="#FF0000" class="eo"></path>
+<path d="M21 17H20V18H21V17ZM16 19H15V20H16V19ZM18 19H17V20H18V19ZM19 19H20V20H19V19Z" fill="white" class="eo"></path>
+<path opacity="0.2" d="M21 18H20V19H19V20H20V19H21V18ZM14 19H16V20H14V19Z" fill="black" class="eo"></path>
+</g><g id="a21" class="accessory">
+<path d="M14 19H15V20H14V19ZM17 21H16V20H15V22H16V23H17V22H18V21H17Z" fill="#926015" class="eo"></path>
+<path d="M16 21H15V22H16V23H17V22H16V21Z" fill="black" fill-opacity="0.24" class="eo"></path>
+<path d="M18 16H19V17H18V16ZM18 17V18H17V17H18ZM19 19V17H20V19H19ZM18 20V19H19V20H18ZM18 20V21H17V20H18Z" fill="#C4C4C4" fill-opacity="0.5" class="eo"></path>
+</g><g id="a22" class="accessory">
+<path d="M4 19L4 18L5 18L5 14L7 14L7 18L8 18L8 19L7 19L7 20L7 21L6 21L6 20L5 20L5 19L4 19Z" fill="#FF0000" class="eo"></path>
+<path d="M5 19L5 18L6 18L6 19L5 19ZM6 19L7 19L7 20L6 20L6 19ZM6 17L7 17L7 18L6 18L6 17ZM6 16L6 17L5 17L5 16L6 16ZM6 15L7 15L7 16L6 16L6 15ZM6 15L5 15L5 14L6 14L6 15Z" fill="white" class="eo"></path>
+<path d="M5 17L5 18L6 18L7 18L7 19L6 19L6 21L7 21L7 19L8 19L8 18L7 18L7 14L6 14L6 17L5 17Z" fill="black" fill-opacity="0.26" class="eo"></path>
+<g>
+<rect width="1" height="1" transform="matrix(4.37114e-08 1 1 -4.37114e-08 4 15)" fill="#FF8800"></rect>
+<path d="M3 15L3 16L4 16L4 17L5 17L5 16L4 16L4 15L5 15L5 14L4 14L4 15L3 15Z" fill="#FF8800" fill-opacity="0.15" class="eo"></path>
+</g>
+</g><g class="visible placeholder">
+<path d="M14 10H16V11H15V12H16V13H17V20H16V21H15V22H13V21H11V22H9V21H8V20H7V14H8V13H9V12H13V11H14V10Z" fill="black"></path>
+<path d="M13 14H11V15H10V16H9V18H10V19H11V20H13V19H14V18H15V16H14V15H13V14ZM13 16V15H11V16H10V18H11V19H13V18H14V16H13ZM12 17V16H13V17H12ZM12 17H11V18H12V17Z" fill="#6D6D6D" class="eo"></path>
+</g></g><style id="user-style"></style><style><![CDATA[
+  #scene:active { transform: scaleX(-1); }
+  .eo { fill-rule: evenodd; clip-rule: evenodd; }
+  :root > .entity > [id^=a] { display: none; }
+  .visible { display: initial; }
+  ]]></style><script type="application/json" id="meta"><![CDATA[{"customizerId":"chikin","attributeMeta":{"valueMask":"traitValues-traitFills"},"colors":[{"id":1,"value":"#FF0000","name":"red"},{"id":2,"value":"#00FF00","name":"green"},{"id":3,"value":"#FF00FF","name":"magenta"},{"id":4,"value":"#8800FF","name":"purple"},{"id":5,"value":"#0000FF","name":"blue"},{"id":6,"value":"#FFFF00","name":"yellow"},{"id":7,"value":"#00FFFF","name":"cyan"},{"id":8,"value":"#FF8800","name":"orange"},{"id":9,"value":"#6C6C6C","name":"dark"},{"id":10,"value":"#8E7248","name":"brown"},{"id":11,"value":"#E5D7C1","name":"creme"}],"categories":[{"id":1,"displayName":"Body","renderOrder":1},{"id":2,"displayName":"Eyes","renderOrder":2},{"id":3,"displayName":"Mouth","renderOrder":3,"removable":true},{"id":4,"displayName":"Glasses","renderOrder":4,"removable":true},{"id":5,"displayName":"Hat","renderOrder":5,"removable":true},{"id":6,"displayName":"Accessory","renderOrder":6,"removable":true}],"assets":[{"id":1,"categoryId":1,"displayName":"JELLO","fill":true},{"id":2,"categoryId":1,"displayName":"Zombie"},{"id":3,"categoryId":1,"displayName":"Regular"},{"id":4,"categoryId":2,"displayName":"Regular"},{"id":5,"categoryId":2,"displayName":"High AF"},{"id":6,"categoryId":2,"displayName":"Puppy"},{"id":7,"categoryId":3,"displayName":"Open"},{"id":8,"categoryId":3,"displayName":"Drool"},{"id":9,"categoryId":4,"displayName":"Face Paint","fill":true},{"id":10,"categoryId":4,"displayName":"Smart","fill":true},{"id":11,"categoryId":4,"displayName":"Vibe"},{"id":12,"categoryId":4,"displayName":"Doc"},{"id":13,"categoryId":5,"displayName":"Alien Eye","fill":true},{"id":14,"categoryId":5,"displayName":"Party Hat","fill":true},{"id":15,"categoryId":6,"displayName":"Car","fill":true},{"id":16,"categoryId":6,"displayName":"Hattori Hanzō","fill":true},{"id":17,"categoryId":6,"displayName":"Skateboard","fill":true},{"id":18,"categoryId":6,"displayName":"Golden EGG"},{"id":19,"categoryId":6,"displayName":"Lobster"},{"id":20,"categoryId":6,"displayName":"Party Whistle"},{"id":21,"categoryId":6,"displayName":"Pipe"},{"id":22,"categoryId":6,"displayName":"Rocket"}]}]]></script><script type="application/javascript"><![CDATA[const fillValues=["","#FF0000","#00FF00","#FF00FF","#8800FF","#0000FF","#FFFF00","#00FFFF","#FF8800","#6C6C6C","#8E7248","#E5D7C1"],getParams=a=>""==a?null:a.slice(1).split("&").map(a=>a.split("=")).map(([a,b])=>[a,+b]),hideElem=a=>a.style.display="none",showElem=a=>a.style.display="initial",showAttribute=(a,b,c=!0)=>{const d=document.querySelector(":root > .entity > #a"+a);if(null!=d&&(c?showElem(d):hideElem(d),null!=b)){const a=d.querySelectorAll(".fill");for(const c of a)c.style.fill=fillValues[b]}},hideCategory=a=>{const b=[...document.getElementsByClassName(a)];b.forEach(hideElem)},renderAttribute=(a,b)=>{if(showElem(a),null!=b){const c=a.querySelectorAll(".fill");for(const a of c)a.style.fill=fillValues[b]}},setAttributes=a=>{const b=document.querySelectorAll(":root > .entity > [id^=a]");try{const c=a&&0<a?.length;if(showPlaceholder(!c),!c)return;for(const c of b){const b=c.id.slice(1),d=a.find(([a,c])=>a==b);d?.[0]==b?renderAttribute(c,d[1]):hideElem(c)}}catch(a){b.forEach(hideElem),showPlaceholder(!0)}},addStyle=(()=>{const a=document.querySelector("#user-style"),b=document.createCDATASection("");return a.appendChild(b),document.documentElement.appendChild(a),a=>b.textContent=a})(),parseJSON=a=>{try{return JSON.parse(a)}catch(a){return null}},registerCrossFrameListener=()=>{window&&window.parent&&(window.parent.postMessage({action:"LOADED"},"*"),window.addEventListener("message",function(a){const b=a.data;switch(b.action){case"SET_CSS":return addStyle(b.payload);case"SET_ATTRS":return setAttributes(b.payload);case"SHOW_ATTR":const c=b.payload;return showAttribute(c.attrId,c.fillId,c.show);case"RESET_ATTRS":return loadQueryAttrs();case"GET_META":return a.source.postMessage({from:"",action:"META",values:JSON.parse(document.querySelector("#meta").textContent)},"*");case"GET_HTML":return a.source.postMessage({from:"",action:"HTML",values:document.documentElement.outerHTML},"*");default:console.log("unsupported.",b.action);}},!1))},loadQueryAttrs=()=>{const a=document?.location?.search,b=getParams(a);setAttributes(b)},showPlaceholder=a=>{const b=document.querySelectorAll(".placeholder");b.forEach(b=>b.style.display=a?"initial":"none")};function inIframe(){try{return window.self!==window.top}catch(a){return!0}}const run=()=>{loadQueryAttrs(),inIframe()&&registerCrossFrameListener()};run();]]></script></svg>

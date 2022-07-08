@@ -39,16 +39,19 @@
       { 
         id: 'egg',
         name: "EGG",
+        cdnURL: 'https://raw.githubusercontent.com/goldendilemma/eggfam/v0.1/egg/customizer.svg',
         baseURL: 'ipfs://QmYr28tTYd2c22ACwj54rc1rUvjm1zwwEQqp6WuMptKUWy'
       },
       { 
         id: 'brocc',
         name: "BROCC", 
+        cdnURL: 'https://raw.githubusercontent.com/goldendilemma/eggfam/v0.1/brocc/customizer.svg',
         baseURL: 'ipfs://QmP3sQjjWAjuzu8PRuqnui96Xi18JRr3nKAk8ziHzd2JKE'
       },
       { 
         id: 'chikin',
         name: "CHIKIN", 
+        cdnURL: 'https://raw.githubusercontent.com/goldendilemma/eggfam/v0.1/chikin/customizer.svg',
         baseURL: 'ipfs://QmTk4AEERWD3oGC9HUFgRimX5WTe8zdSC5geDJ5AXxfDys'
       }
     ]
@@ -111,12 +114,19 @@
 
     function getIframe () { return document.querySelector('#render-iframe') }
 
-    function render (keys) {
+    async function render (keys) {
       const $iframe = getIframe()
       const { famId, ...attrs } = keys 
       const fam = EGG_FAM[famId]
-      const uri = parseUrl(fam.baseURL) + '?' + queryToString(attrs)
-      $iframe.setAttribute('src', uri) 
+      
+      const cdnUri = fam.cdnURL + '?' + queryToString(attrs)
+      const cdnExists = await resourceExists(cdnUri)
+
+      let iframeUri = cdnExists
+        ? cdnUri
+        : parseUrl(fam.baseURL) + '?' + queryToString(attrs)
+
+      $iframe.setAttribute('src', iframeUri) 
     }
     
     async function getStandardAnimations () {
@@ -131,6 +141,29 @@
       return res.ok
         ? await res.text()
         : ''
+    }
+
+    /** @credits https://dmitripavlutin.com/timeout-fetch-request/ **/
+    async function fetchWithTimeout(resource, options = {}) {
+      const { timeout = 3000 } = options;
+      
+      const controller = new AbortController();
+      const id = setTimeout(() => controller.abort(), timeout);
+      const response = await fetch(resource, {
+        ...options,
+        signal: controller.signal  
+      });
+      clearTimeout(id);
+      return response;
+    }
+
+    async function resourceExists (uri) {
+      try {
+        const res = await fetchWithTimeout(uri)
+        return res.ok
+      } catch(error) {
+        return false
+      }
     }
 
     async function getStyles (assetId) {
