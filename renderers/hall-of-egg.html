@@ -91,8 +91,8 @@
     }
 
     async function getEntity (id) {
-      const res = await fetch(`https://raw.githubusercontent.com/goldendilemma/eggfam/v0.1/hall-of-egg/${id}/${id}.svg`)
-      return await res.text()
+      const res = await fetch(`https://raw.githubusercontent.com/goldendilemma/eggfam/v0.1/hall-of-egg/flattened/${id}.json`)
+      return await res.json()
     }
 
     async function setupAnimations () {
@@ -117,9 +117,19 @@
       return svg
     }
 
+    const inlineToMarkup = (inline) => {
+      const parts = inline.split(',')
+      const b64 = parts[parts.length - 1]
+      return {
+        prefix: parts[0],
+        markup: atob(b64)
+      }
+    }
+
     async function setupEntity (id) {
       try {
-      const markup = await getEntity(id)
+      const json = await getEntity(id)
+      const { markup } = inlineToMarkup(json.image)
       const svg = createElementFrom(markup)
       if (svg) {
         document.querySelector('#content-wrapper').append(svg)
