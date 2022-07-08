@@ -46,8 +46,8 @@
   animation-direction: alternate;
 }
 
-.hair.hendrix > g,
-.hair.joplin {
+.hat.hendrix > g,
+.hat.joplin {
   transform-origin: center center;
   animation: wind-blow-left-mild 0.1s linear;
   animation-iteration-count: infinite;
