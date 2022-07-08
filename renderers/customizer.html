@@ -40,19 +40,19 @@
         id: 'egg',
         name: "EGG",
         cdnURL: 'https://raw.githubusercontent.com/goldendilemma/eggfam/v0.1/egg/customizer.svg',
-        baseURL: 'ipfs://QmYr28tTYd2c22ACwj54rc1rUvjm1zwwEQqp6WuMptKUWy'
+        baseURL: 'ar://bEHZKVxbH2aQmijPUGluwlKK2C_XM_VFFZGsrMUBWBo'
       },
       { 
         id: 'brocc',
         name: "BROCC", 
         cdnURL: 'https://raw.githubusercontent.com/goldendilemma/eggfam/v0.1/brocc/customizer.svg',
-        baseURL: 'ipfs://QmP3sQjjWAjuzu8PRuqnui96Xi18JRr3nKAk8ziHzd2JKE'
+        baseURL: 'ar://D7LEjxucLGu5l_ROPS7vuTilt-KUZ9vELqx5A_-_9HU'
       },
       { 
         id: 'chikin',
         name: "CHIKIN", 
         cdnURL: 'https://raw.githubusercontent.com/goldendilemma/eggfam/v0.1/chikin/customizer.svg',
-        baseURL: 'ipfs://QmTk4AEERWD3oGC9HUFgRimX5WTe8zdSC5geDJ5AXxfDys'
+        baseURL: 'ar://eFd1lQqYuGgT_HivCT1mFL0Ai22MEpdO8m5c_dQ7IiA'
       }
     ]
   </script>
@@ -107,6 +107,8 @@
     function parseUrl (url) {
       if (url.indexOf('ipfs://') === 0) {
         return url.replaceAll('ipfs://', 'https://dweb.link/ipfs/')
+      } else if (url.indexOf('ar://') === 0) {
+        return url.replaceAll('ar://', 'https://arweave.net/')
       } else {
         return url
       }
@@ -122,9 +124,7 @@
       const cdnUri = fam.cdnURL + '?' + queryToString(attrs)
       const cdnExists = await resourceExists(cdnUri)
 
-      let iframeUri = cdnExists
-        ? cdnUri
-        : parseUrl(fam.baseURL) + '?' + queryToString(attrs)
+      let iframeUri = parseUrl(fam.baseURL) + '?' + queryToString(attrs)
 
       $iframe.setAttribute('src', iframeUri) 
     }
