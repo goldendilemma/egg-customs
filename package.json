@@ -21,6 +21,6 @@
   "homepage": "https://github.com/goldendilemma/egg-customs#readme",
   "dependencies": {
     "fs-extra": "^10.1.0",
-    "jsdom": "^20.0.0"
+    "jsdom": "19.0.0"
   }
 }
