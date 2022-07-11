@@ -166,7 +166,7 @@ async function upgradeSVGMarkup (markup, opts = {}) {
   const $border = document.querySelector('.border')
   if ($border) {
     const $body = document.querySelector('.body')
-    $body.append(...$border.childNodes)
+    $body.prepend(...$border.childNodes)
     $border.remove()
   }
 
@@ -184,5 +184,6 @@ async function upgradeSVGMarkup (markup, opts = {}) {
 module.exports = {
   cleanSVGs,
   getFilesFrom,
-  upgradeSVGMarkup
+  upgradeSVGMarkup,
+  getFileNameFromPath
 }
