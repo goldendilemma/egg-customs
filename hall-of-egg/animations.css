@@ -70,3 +70,7 @@
   animation: wind-blow-left-mild alternate 1s infinite linear;
   transform-origin: center center;
 }
+
+.accessory.glow {
+  animation: cig-glow 0.5s alternate infinite linear;
+}
