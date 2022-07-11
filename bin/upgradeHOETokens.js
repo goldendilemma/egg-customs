@@ -22,16 +22,6 @@ async function start ([inputDir, newAnimationUrl]) {
   }
 }
 
-const getQuery = (url) => {
-  const parts = url.split('?')
-  if (parts.length > 1) {
-    const query = parts[parts.length - 1]
-    return query
-  } else {
-    return null
-  }
-}
-
 const upgradeUrl = (fullUrl, newUrl) => {
   const parts = fullUrl.split('?')
   if (parts.length > 1) {
