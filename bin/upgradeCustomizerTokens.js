@@ -13,6 +13,7 @@ async function start ([inputDir, newAnimationUrl, newCustomizerUrl]) {
       customizerUri,
       ...filtered 
     } = content
+    if (!customizerUri) continue
     const newAnimation = upgradeUrl(animation_url, newAnimationUrl)
     const newCustomizer = upgradeUrl(customizerUri, newCustomizerUrl) + '?' + getQuery(animation_url).replace(/famId=\d+&/, '')
     const updated = {
