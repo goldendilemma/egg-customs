@@ -91,7 +91,7 @@
     }
 
     async function getEntity (id) {
-      const res = await fetch(`https://raw.githubusercontent.com/goldendilemma/eggfam/v0.1/hall-of-egg/flattened/${id}.json`)
+      const res = await fetch(`https://raw.githubusercontent.com/goldendilemma/eggfam/v0.1/hall-of-egg/tokens/${id}.json`)
       return await res.json()
     }
 
