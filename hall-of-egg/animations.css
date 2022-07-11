@@ -65,3 +65,8 @@
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
+
+.face.whiskers {
+  animation: wind-blow-left-mild alternate 1s infinite linear;
+  transform-origin: center center;
+}
