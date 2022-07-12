@@ -43,7 +43,7 @@
     function setLoading (state) {
       const $loader = document.querySelector('.loading')
       $loader.style.display = state === true 
-        ? 'initial'
+        ? 'inherit'
         : 'none'
     }
     function setError (state, error) {
@@ -54,13 +54,13 @@
         $loader.removeAttribute('title')
       }
       $loader.style.display = state === true 
-        ? 'initial'
+        ? 'inherit'
         : 'none'
     }
     function displayEntity (state) {
       const $node = document.querySelector('#content-wrapper')
       $node.style.display = state === true
-        ? 'initial'
+        ? 'inherit'
         : 'none'
     }
     function parseQuery (query) {
