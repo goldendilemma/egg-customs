@@ -16,6 +16,12 @@
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
+#a9 {
+  transform-origin: center center;
+  animation: EGG 50ms linear;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+}
 .eyes {
   transform-origin: 50% 75%;
 }
