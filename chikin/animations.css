@@ -16,7 +16,8 @@
   animation: shake 1s linear infinite alternate;
 }
 
-#a3 > g:nth-child(3) { /** comb **/
+#a3 > g:nth-child(3),
+#a2 > g:first-of-type { /** combs **/
   animation: wind-blow-left-mild 0.1s ease-out infinite alternate;
   transform-origin: center center;
 }
