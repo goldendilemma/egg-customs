@@ -74,3 +74,23 @@
 .accessory.glow {
   animation: cig-glow 0.5s alternate infinite linear;
 }
+
+.accessory.gm-smoke {
+  animation: floating 2s ease-in-out alternate-reverse infinite; 
+}
+
+/** floaters **/
+#eggfam-45 > .entity { 
+  transform-origin: center center;
+  animation: floating 2.5s ease-in-out;
+  animation-iteration-count: infinite;
+  animation-direction: alternate-reverse; 
+}
+
+/** Astro **/
+#eggfam-45 {
+  /** Dylan O'Donnell, deography.com, CC0, via Wikimedia Commons **/
+   background-image: url('https://upload.wikimedia.org/wikipedia/commons/d/d2/Rosette_Geostationary_Satellites_Animated.gif');
+   background-size: cover;
+   background-repeat: no-repeat;
+}

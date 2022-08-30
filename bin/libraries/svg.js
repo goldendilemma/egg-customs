@@ -185,7 +185,8 @@ async function upgradeSVGMarkup (markup, opts = {}) {
 async function upgradeSVGMarkup2 (markup, opts = {}) {
   const { 
     renames = {},
-    typeId: _typeId
+    typeId: _typeId,
+    tokenId
   } = opts
   const $dom = new JSDOM(markup)
   const document = $dom.window.document
@@ -194,7 +195,8 @@ async function upgradeSVGMarkup2 (markup, opts = {}) {
   const typeId = renames[_typeId] != null
     ? renames[_typeId]
     : _typeId
-  $svg.setAttribute('id', 'scene')
+  $svg.setAttribute('id', `eggfam-${tokenId}`)
+  $svg.classList.add('scene')
   $svg.setAttribute('shape-rendering', 'crispEdges')
   $svg.setAttribute('image-rendering', 'pixelated')
 
@@ -233,7 +235,7 @@ async function upgradeSVGMarkup2 (markup, opts = {}) {
 
   const $style = document.querySelector('style')
   const updatedStyle = $style.textContent
-    .replaceAll(`#egg`, '#scene')
+    .replaceAll(`#egg`, '.scene')
     .trim()
   $style.textContent = cdata(updatedStyle)
 

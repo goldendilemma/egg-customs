@@ -1,0 +1,35 @@
+{
+  "name": "AstroYOLK",
+  "description": "To @0x_Astro from EGG.",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Transparent"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Space Suit"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Face",
+      "value": "SMOL"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    }
+  ]
+}
