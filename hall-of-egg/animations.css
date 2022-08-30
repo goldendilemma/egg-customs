@@ -80,7 +80,7 @@
 }
 
 /** floaters **/
-#eggfam-45 > .entity { 
+#eggfam-45 > .entity > * { 
   transform-origin: center center;
   animation: floating 2.5s ease-in-out;
   animation-iteration-count: infinite;
