@@ -1,3 +1,8 @@
+/** renderer fix **/
+#content-wrapper {
+  display: block !important;
+}
+
 .glasses.red-light {
   animation: none;
 }
