@@ -2,7 +2,7 @@
 <rect width="24" height="24" fill="black"/>
 <g id="face-smol">
 <path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M12 16H13V17H15V18H16V19H15V20H9V19H8V18H9V17H12V16Z" fill="#E8C19A"/>
-<path id="Union_2" fill-rule="evenodd" clip-rule="evenodd" d="M14 13H13V14H14V15H10V14H11V13H10V14H9V15H8V16V17V18H9V17H11V16H15V15V14H14V13Z" fill="#803F99"/>
+<path id="Union_2" fill-rule="evenodd" clip-rule="evenodd" d="M14 13H13H11H10V14H9V15H8V16V17V18H9V17H11V16H15V15V14H14V13Z" fill="#803F99"/>
 </g>
 <g id="inside-rare">
 <path id="fill-meat" fill-rule="evenodd" clip-rule="evenodd" d="M13 13H11V14H10V15H11V16H13V15H14V14H13V13Z" fill="#DB00FF"/>

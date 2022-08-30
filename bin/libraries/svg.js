@@ -235,9 +235,9 @@ async function upgradeSVGMarkup2 (markup, opts = {}) {
 
   const $style = document.querySelector('style')
   const updatedStyle = $style.textContent
-    .replaceAll(`#egg`, '.scene')
+    .replaceAll(`#egg:active`, '.scene:active > .entity')
     .trim()
-  $style.textContent = cdata(updatedStyle)
+  $style.textContent = cdata(`.entity{transform-origin:center center;}${updatedStyle}`)
 
   return document.body.innerHTML
     .replaceAll('\n', '')
