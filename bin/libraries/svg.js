@@ -181,9 +181,71 @@ async function upgradeSVGMarkup (markup, opts = {}) {
     .replaceAll('  ', '')
 }
 
+// version 3
+async function upgradeSVGMarkup2 (markup, opts = {}) {
+  const { 
+    renames = {},
+    typeId: _typeId
+  } = opts
+  const $dom = new JSDOM(markup)
+  const document = $dom.window.document
+
+  const $svg = document.querySelector('body > svg')
+  const typeId = renames[_typeId] != null
+    ? renames[_typeId]
+    : _typeId
+  $svg.setAttribute('id', 'scene')
+  $svg.setAttribute('shape-rendering', 'crispEdges')
+  $svg.setAttribute('image-rendering', 'pixelated')
+
+  // hair => hat
+  document.querySelector('.hair')?.classList?.replace('hair', 'hat')
+
+  const $entity = document.querySelector('.entity')
+  const $attributes = document.querySelectorAll('svg > *:not(style)')
+  if (!$entity) {
+    const $group = document.createElement('g')
+    $group.classList.add(typeId, 'entity')
+    $group.append(...$attributes)
+    $svg.prepend($group)
+  }
+
+  for (const $attribute of $attributes) {
+    const id = $attribute.getAttribute('id')
+    if (id && !isNumericId(id)) {
+      $attribute.removeAttribute('id')
+      $attribute.classList.add(id)
+    }
+    for (const className of $attribute.classList) {
+      if (isNumericId(className)) {
+        $attribute.classList.remove(className)
+        $attribute.id = className
+      }
+    }
+  }
+
+  const $border = document.querySelector('.border')
+  if ($border) {
+    const $body = document.querySelector('.body')
+    $body.prepend(...$border.childNodes)
+    $border.remove()
+  }
+
+  const $style = document.querySelector('style')
+  const updatedStyle = $style.textContent
+    .replaceAll(`#egg`, '#scene')
+    .trim()
+  $style.textContent = cdata(updatedStyle)
+
+  return document.body.innerHTML
+    .replaceAll('\n', '')
+    .replaceAll('  ', '')
+}
+
 module.exports = {
   cleanSVGs,
   getFilesFrom,
   upgradeSVGMarkup,
-  getFileNameFromPath
+  getFileNameFromPath,
+  upgradeSVGMarkup2
 }
