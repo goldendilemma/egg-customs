@@ -1,0 +1,47 @@
+{
+  "name": "FurBAWK",
+  "description": "BAWK-tah-kah-loo-loo",
+  "artist": "CHIKIN",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value":"CHIKIN"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Furbi"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Eyes Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
