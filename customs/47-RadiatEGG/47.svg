@@ -1,0 +1,28 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="realpennybags">
+<rect width="24" height="24" transform="matrix(-1 0 0 1 24 0)" fill="#9998A8"/>
+<g id="border">
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M10 10H14V11H15V12H16V14H17V19H16V20H15V21H9V20H8V19H7V14H8V12H9V11H10V10ZM10 11V12H9V14H8V19H9V20H15V19H16V14H15V12H14V11H10Z" fill="black"/>
+</g>
+<g id="inside-rare">
+<path id="fill-meat" fill-rule="evenodd" clip-rule="evenodd" d="M13 13H11V14H10V15H11V16H13V15H14V14H13V13Z" fill="#DB00FF"/>
+<path id="static-shine" fill-rule="evenodd" clip-rule="evenodd" d="M13 13H12H11V14H12H13V13ZM13 14V15H14V14H13Z" fill="white" fill-opacity="0.59"/>
+<path id="static-shadow" fill-rule="evenodd" clip-rule="evenodd" d="M11 14H10V15H11V16H13V15H11V14Z" fill="black" fill-opacity="0.17"/>
+</g>
+<g id="body-radiation">
+<path id="fill-color" fill-rule="evenodd" clip-rule="evenodd" d="M14 11H10V12H9V14H8V19H9V20H10H14H15V19H16V14H15V12H14V11Z" fill="#99FFAB"/>
+<path id="Union_2" d="M13 11H10V12H9V14H8V19H9V20H15V19H16V18H15V19H12V18H11V17H10V15H11V13H12V12H13V11Z" fill="#00F870"/>
+</g>
+<g id="mouth-a5">
+<path id="static-mouth" fill-rule="evenodd" clip-rule="evenodd" d="M9 17H10V18H12H13H14V19H13H12H10V18H9V17Z" fill="black"/>
+</g>
+<g id="eyes-a9">
+<path id="static-sclera" fill-rule="evenodd" clip-rule="evenodd" d="M13 15H14V17H13V15ZM10 15H11V17H10V15Z" fill="white"/>
+<path id="static-pupils" fill-rule="evenodd" clip-rule="evenodd" d="M14 15H15V17H14V15ZM11 15H12V17H11V15Z" fill="black"/>
+<path id="static-lids" fill-rule="evenodd" clip-rule="evenodd" d="M13 15H15V16H13V15ZM10 15H12V16H10V15Z" fill="black" fill-opacity="0.15"/>
+</g>
+<g id="accessory-radiation">
+<path id="Union_3" fill-rule="evenodd" clip-rule="evenodd" d="M10 9H14V10H15V11H16V12H17V13V14H18V19H17V20H16V21H15V20H16V19H17V14H16V13V12H15V11H14V10H10V11H9V12H8V13V14H7V19H8V20H9V21H8V20H7V19H6V14H7V13V12H8V11H9V10H10V9Z" fill="#00FF75"/>
+</g>
+</g>
+</svg>

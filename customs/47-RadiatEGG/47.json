@@ -1,0 +1,31 @@
+{
+  "name": "RadiatEGG",
+  "description": "One radiation a day keeps the doctor away",
+  "artist": "EGG. Inspired by SMOLVERSE.",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Radiated"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Radiation"
+    }
+  ]
+}
