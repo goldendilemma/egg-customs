@@ -58,13 +58,15 @@
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
-.body.cookie-monster path:nth-child(4) {
+.body.cookie-monster path:nth-child(4),
+.accessory.fur {
   transform-origin: center center;
   animation: wind-blow-left 0.3s linear;
   animation-iteration-count: infinite;
   animation-direction: alternate;
 }
-.accessory.flame {
+.accessory.flame,
+.accessory.bamboo_leaf {
   transform-origin: center center;
   animation: wind-blow-left-mild 0.2s linear;
   animation-iteration-count: infinite;
@@ -76,7 +78,8 @@
   transform-origin: center center;
 }
 
-.accessory.glow {
+.accessory.glow,
+.accessory.radiation {
   animation: cig-glow 0.5s alternate infinite linear;
 }
 
