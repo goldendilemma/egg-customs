@@ -3,7 +3,8 @@
   display: block !important;
 }
 
-.glasses.red-light {
+.glasses.red-light,
+.glasses.chikin-little {
   animation: none;
 }
 .football-helmet {
@@ -59,7 +60,8 @@
   animation-direction: alternate;
 }
 .body.cookie-monster path:nth-child(4),
-.accessory.fur {
+.accessory.fur,
+.hat.leaf {
   transform-origin: center center;
   animation: wind-blow-left 0.3s linear;
   animation-iteration-count: infinite;
