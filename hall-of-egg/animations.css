@@ -96,11 +96,3 @@
   animation-iteration-count: infinite;
   animation-direction: alternate-reverse; 
 }
-
-/** Astro **/
-#eggfam-45 {
-  /** Dylan O'Donnell, deography.com, CC0, via Wikimedia Commons **/
-   background-image: url('https://upload.wikimedia.org/wikipedia/commons/d/d2/Rosette_Geostationary_Satellites_Animated.gif');
-   background-size: cover;
-   background-repeat: no-repeat;
-}
