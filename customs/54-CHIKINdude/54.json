@@ -1,0 +1,35 @@
+{
+  "name": "CHIKINDUDE",
+  "description": "DUDE where's my Soulmate",
+  "artist": "CHIKIN & ArbiDudes",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value":"CHIKIN"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Dog"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tooth & Tongue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "Deal With It"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Ball & Chain"
+    }
+  ]
+}
