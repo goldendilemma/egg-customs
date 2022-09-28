@@ -54,6 +54,9 @@ async function start ([inputDir]) {
       image,
       animation_url: `${ANIMATION_BASE_URL}?id=${metaFile.tokenId}`
     }
+    console.log('IMAGE_URL')
+    console.log(image)
+
     fs.writeJSONSync(destinationPath, tokenObj)
   }
 
