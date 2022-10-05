@@ -3,6 +3,11 @@ const path = require('path')
 
 const { renames } = require('./constants/mappings.js')
 
+function pbcopy(data) {
+  var proc = require('child_process').spawn('pbcopy'); 
+  proc.stdin.write(data); proc.stdin.end();
+}
+
 const { 
   cleanSVGs, 
   upgradeSVGMarkup2, 
@@ -38,7 +43,7 @@ async function start ([inputDir]) {
       meta: fs.readJSONSync(obj.filepath)
     }))
 
-  const outputDir = 'build'
+  const outputDir = 'hall-of-egg/tokens'
   fs.ensureDirSync(outputDir)
 
   for (let fileObj of saveFiles) {
@@ -54,10 +59,11 @@ async function start ([inputDir]) {
       image,
       animation_url: `${ANIMATION_BASE_URL}?id=${metaFile.tokenId}`
     }
-    console.log('IMAGE_URL')
-    console.log(image)
-
+    
+    
     fs.writeJSONSync(destinationPath, tokenObj)
+    console.log('image copied to clipboard!')
+    pbcopy(image)
   }
 
 }
