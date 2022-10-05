@@ -96,3 +96,8 @@
   animation-iteration-count: infinite;
   animation-direction: alternate-reverse; 
 }
+
+.hat.yolk {
+  animation: wind-blow-left-mild 0.1s linear alternate infinite;
+  transform-origin: center;
+}
