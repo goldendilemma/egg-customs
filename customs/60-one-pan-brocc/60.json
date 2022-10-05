@@ -1,0 +1,51 @@
+{
+  "name": "One Pan BROCC",
+  "description": "I am in a PAN. What is happening.",
+  "artist": "BROCC & Power Plins",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value":"BROCC"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Power Plins"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Woah"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Yolk"
+    },
+    {
+      "trait_type": "Hat Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry"
+    },
+    {
+      "trait_type": "Eyes Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pan"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Dark Red"
+    }
+  ]
+}
