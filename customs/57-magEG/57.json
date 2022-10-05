@@ -1,0 +1,35 @@
+{
+  "name": "MagEG",
+  "description": "Mago. MageG. MagEGGgG.",
+  "artist": "EGG & Power Plins",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Power Plins"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Neutral"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Puppy"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
