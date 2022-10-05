@@ -1,0 +1,43 @@
+{
+  "name": "CHIKIN EG",
+  "description": "DUDE where's my Soulmate",
+  "artist": "CHIKIN & Power Plins",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value":"CHIKIN"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Yolk"
+    },
+    {
+      "trait_type": "Hat Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Eyes Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
