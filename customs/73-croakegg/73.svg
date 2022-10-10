@@ -1,0 +1,52 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="yolkstools2">
+<rect width="24" height="24" fill="#FF5D5D"/>
+<g id="inside-rare">
+<path id="fill-meat" fill-rule="evenodd" clip-rule="evenodd" d="M13 13H11V14H10V15H11V16H13V15H14V14H13V13Z" fill="#DB00FF"/>
+<path id="static-shine" fill-rule="evenodd" clip-rule="evenodd" d="M13 13H12H11V14H12H13V13ZM13 14V15H14V14H13Z" fill="white" fill-opacity="0.59"/>
+<path id="static-shadow" fill-rule="evenodd" clip-rule="evenodd" d="M11 14H10V15H11V16H13V15H11V14Z" fill="black" fill-opacity="0.17"/>
+</g>
+<g id="body-toad">
+<path id="fill-color" fill-rule="evenodd" clip-rule="evenodd" d="M14 11H10V12H9V14H8V19H9V20H10H14H15V19H16V14H15V12H14V11Z" fill="#915921"/>
+<path id="static-shadow_2" fill-rule="evenodd" clip-rule="evenodd" d="M11 11H10V12H11V11ZM10 12H9V13H10V12ZM8 14H9V15H8V14Z" fill="black" fill-opacity="0.5"/>
+<path id="static-shadow-big" fill-rule="evenodd" clip-rule="evenodd" d="M11 11H14V12H15V13H13V14H11V13H10V12H11V11ZM10 19V18H12V19H10ZM9 19V20H10V19H9ZM9 19H8V15H9V19Z" fill="black" fill-opacity="0.29"/>
+<path id="Rectangle 2650" d="M14 20H10V21H14V20Z" fill="#EE2B2F"/>
+<g id="border">
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M10 10H14V11H15V12H16V14H17V19H16V20H15V21H9V20H8V19H7V14H8V12H9V11H10V10ZM10 11V12H9V14H8V19H9V20H15V19H16V14H15V12H14V11H10Z" fill="black"/>
+</g>
+</g>
+<g id="base-shroom">
+<path id="Union_2" fill-rule="evenodd" clip-rule="evenodd" d="M8 19H7V20H6V21H7V22H9V23H15V22H17V21H18V20H17V19H16V20H15V21H9V20H8V19Z" fill="#006DCD"/>
+<path id="Union_3" fill-rule="evenodd" clip-rule="evenodd" d="M7 19H8V20H9V21H12V22H11V23H9V22H8H7V21H6V20H7V19Z" fill="black" fill-opacity="0.2"/>
+<path id="Union_4" fill-rule="evenodd" clip-rule="evenodd" d="M6 20H8V21H9V22H7V21H6V20ZM9 22H10V23H9V22Z" fill="black" fill-opacity="0.35"/>
+<path id="Union_5" fill-rule="evenodd" clip-rule="evenodd" d="M7 20H6V21H7V22H8V21H7V20ZM9 22H10V23H9V22ZM15 22H14V23H15V22ZM16 21H17V22H16V21ZM17 21V20H18V21H17Z" fill="#04A5E5"/>
+</g>
+<g id="mouth-rainbow">
+<path id="static-mouth" fill-rule="evenodd" clip-rule="evenodd" d="M13 18H14V19H15V20H14V19H13H12H10V20H9V19H10V18H12H13Z" fill="black"/>
+<g id="Group 142">
+<g id="Group 136">
+<rect id="Rectangle 2737" x="10" y="19" width="1" height="2" fill="#FF2222"/>
+<rect id="Rectangle 2738" x="11" y="19" width="1" height="2" fill="#FEC900"/>
+<rect id="Rectangle 2739" x="12" y="19" width="1" height="2" fill="#00F0DB"/>
+<rect id="Rectangle 2740" x="13" y="19" width="1" height="2" fill="#B122F5"/>
+</g>
+<g id="Group 137">
+<rect id="Rectangle 2737_2" x="11" y="21" width="1" height="2" fill="#FF2222"/>
+<rect id="Rectangle 2738_2" x="12" y="21" width="1" height="2" fill="#FEC900"/>
+<rect id="Rectangle 2739_2" x="13" y="21" width="1" height="2" fill="#00F0DB"/>
+<rect id="Rectangle 2740_2" x="14" y="21" width="1" height="2" fill="#B122F5"/>
+</g>
+</g>
+</g>
+<g id="eyes-puppy">
+<path id="static-sclera" fill-rule="evenodd" clip-rule="evenodd" d="M14 15H15V17H14V15ZM11 15H12V17H11V15Z" fill="white"/>
+<path id="static-pupils" fill-rule="evenodd" clip-rule="evenodd" d="M13 15H14V16H15V17H14H13V16V15ZM11 15H10V16V17H11H12V16H11V15Z" fill="black"/>
+</g>
+<g id="hat-wizard">
+<path id="Union_6" fill-rule="evenodd" clip-rule="evenodd" d="M12 7H7V8H9V9V10H8V11V12H7V13V14H8V13H9V12H16V11H14V10H13V9H12V8V7Z" fill="#8035FF"/>
+<path id="border_2" fill-rule="evenodd" clip-rule="evenodd" d="M10 6H11V7H10H9H8V6H9H10ZM8 10V9H7V8V7H8V8H9V9V10H8ZM7 12V11V10H8V11V12H7ZM7 14V13V12H6V13V14H7ZM8 14V15H7V14H8ZM9 13V14H8V13H9ZM16 12V13H15H14H13H12H11H10H9V12H10H11H12H13H14H15H16ZM16 11H17V12H16V11ZM13 9H14V10H15H16V11H15H14H13H10V10H13V9ZM12 8H13V9H12V8ZM12 8V7H11V8H12Z" fill="black"/>
+<rect id="Rectangle 2731" x="11" y="9" width="2" height="1" fill="#FBE440"/>
+<path id="Union_7" fill-rule="evenodd" clip-rule="evenodd" d="M9 7H8H7V8H8H9V9V10H8V11H9V10H10V9V8H9V7ZM11 9H12V10H11V9ZM11 11H16V12H11H10V11H11ZM8 12H7V13V14H8V13H9V12H8Z" fill="black" fill-opacity="0.24"/>
+</g>
+</g>
+</svg>
