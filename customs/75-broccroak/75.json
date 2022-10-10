@@ -1,0 +1,63 @@
+{
+  "name": "BROCCstoolz",
+  "description": "BROCC O CROAK.",
+  "artist": "BROCC & Toadstoolz",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value":"BROCC"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Toad"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Mouth Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "High"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Lightsaber"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Base",
+      "value": "Mushroom"
+    },
+    {
+      "trait_type": "Base Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Polo"
+    },
+    {
+      "trait_type": "Clothes Color",
+      "value": "Dark Gray"
+    }
+  ]
+}
