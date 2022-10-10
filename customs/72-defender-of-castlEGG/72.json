@@ -1,0 +1,39 @@
+{
+  "name": "Defender of CastlEGG",
+  "description": "DEFEND ATLAS YOLK, VIBE WITH OTHER ARMIES. EARN NEW FRENS.",
+  "artist": "EGG & CastleDAO",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Ape"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Party Hat"
+    },
+    {
+      "trait_type": "Hat Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
