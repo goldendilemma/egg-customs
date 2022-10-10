@@ -1,0 +1,43 @@
+{
+  "name": "BAWKBOT",
+  "description": "01110100 01101000 01100101 00100000 01100101 01100111 01100111 01110100 01110010 01101001 01111000 00100000 01101000 01100001 01110011 00100000 01111001 01101111 01110101",
+  "artist": "CHIKIN & Arbibots",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value":"CHIKIN"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Bot"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Light Red"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Happy"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
