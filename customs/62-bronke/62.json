@@ -1,0 +1,47 @@
+{
+  "name": "BRONKE",
+  "description": "Never gonna BROCC you down.",
+  "artist": "BROCC & The Lost Donkeys",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value":"BROCC"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Donkey"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Woah"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Puppy"
+    },
+    {
+      "trait_type": "Eyes Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Carrot"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Orange"
+    }
+  ]
+}
