@@ -1,0 +1,43 @@
+{
+  "name": "CHIKHAW",
+  "description": "Never gonna CHIK you up.",
+  "artist": "CHIKIN & The Lost Donkeys",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value":"CHIKIN"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Donkey"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hearts"
+    },
+    {
+      "trait_type": "Eyes Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
