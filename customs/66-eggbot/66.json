@@ -1,0 +1,47 @@
+{
+  "name": "YOLK'O'BOT",
+  "description": "01110011 01110100 01101111 01110000 00100000 01101110 01100101 01110010 01100100",
+  "artist": "EGG & Arbibots",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Bot"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Light Red"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Mouth Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Antennas"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bot"
+    },
+    {
+      "trait_type": "Eyes Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}

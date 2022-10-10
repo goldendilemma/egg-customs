@@ -1,0 +1,28 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="eggbot">
+<rect width="24" height="24" fill="#C3EAB5"/>
+<g id="border">
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M10 10H14V11H15V12H16V14H17V19H16V20H15V21H9V20H8V19H7V14H8V12H9V11H10V10ZM10 11V12H9V14H8V19H9V20H15V19H16V14H15V12H14V11H10Z" fill="black"/>
+</g>
+<g id="inside-rare">
+<path id="fill-meat" fill-rule="evenodd" clip-rule="evenodd" d="M13 13H11V14H10V15H11V16H13V15H14V14H13V13Z" fill="#DB00FF"/>
+<path id="static-shine" fill-rule="evenodd" clip-rule="evenodd" d="M13 13H12H11V14H12H13V13ZM13 14V15H14V14H13Z" fill="white" fill-opacity="0.59"/>
+<path id="static-shadow" fill-rule="evenodd" clip-rule="evenodd" d="M11 14H10V15H11V16H13V15H11V14Z" fill="black" fill-opacity="0.17"/>
+</g>
+<g id="body-bot">
+<path id="fill-color" fill-rule="evenodd" clip-rule="evenodd" d="M14 11H10V12H9V14H8V19H9V20H10H14H15V19H16V14H15V12H14V11Z" fill="#F6E9E5"/>
+<path id="Rectangle 2574" d="M14 20H10V21H14V20Z" fill="#C18BF3"/>
+</g>
+<g id="mouth-smile">
+<path id="static-mouth" fill-rule="evenodd" clip-rule="evenodd" d="M9 17H10V18H14V19H10V18H9V17Z" fill="#C18BF3"/>
+</g>
+<g id="eyes-bot">
+<path id="Union_2" fill-rule="evenodd" clip-rule="evenodd" d="M13 15H14H15V16V17H14H13V16V15ZM10 17H11H12V16V15H11H10V16V17Z" fill="black"/>
+<path id="Union_3" fill-rule="evenodd" clip-rule="evenodd" d="M12 16H11V17H12V16ZM15 16H14V17H15V16Z" fill="#C18BF3"/>
+</g>
+<g id="hat-antennas">
+<path id="Union_4" fill-rule="evenodd" clip-rule="evenodd" d="M14 7H15V8H14V7ZM14 8V11H13V8H14ZM15 8V9H16V8H15Z" fill="black"/>
+<path id="Union_5" fill-rule="evenodd" clip-rule="evenodd" d="M10 7H9V8H10V7ZM10 8V11H11V8H10ZM9 8V9H8V8H9Z" fill="black"/>
+</g>
+</g>
+</svg>
