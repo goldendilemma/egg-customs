@@ -1,0 +1,47 @@
+{
+  "name": "The Astro EGG",
+  "description": "Kind of like a world, not flat, but like EGG. In space you know. Sounds astro. Ye kind of Astro. But with a lab. Astro Lab? Ye fam.",
+  "artist": "EGG & Astro Labs",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Space Ring"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Light Blue"
+    }
+  ]
+}
