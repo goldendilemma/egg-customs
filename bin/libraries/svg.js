@@ -41,7 +41,8 @@ const getSVG = (document) => {
 }
 
 const parseGroupId = (groupId) => {
-  const parts = groupId.split('-')
+  const parts = groupId?.split?.('-')
+  if (!parts) return
   const formatted = parts.map(part => part.replaceAll('_', '-'))
   return formatted
 }
@@ -74,15 +75,23 @@ const toEGGFormat = (document, type = 'egg') => {
   const $groups = [...$svg.children].filter((elem) => elem.tagName === 'g')
   for ($group of $groups) {
     const groupId = $group.getAttribute('id')
-    const [className, id] = parseGroupId(groupId)
-    setGroupAttrs($group, [className, id])
+    const attrs = parseGroupId(groupId)
+    if (attrs != null) {
+      const [className, id] = attrs
+      try {
+        setGroupAttrs($group, [className, id])
+      } catch(error) {
+        console.log('className', className)
+        throw new Error('GROUP CONTAINER ID PROBABLY CONTAINS SPACE, FIX IT') 
+      }
+    }
     
     const $subGroups = $group.querySelectorAll('*')
     for (let $subGroup of $subGroups) {
       $subGroup.removeAttribute('id')
     }
   }
-  if ($svg.querySelector('style') == null) {
+  if ($svg.querySelector('style:not(.static)') == null) {
     const $style = document.createElement('style')
     $style.textContent = `<![CDATA[
       #${type}:active{transform:scaleX(-1);}
@@ -170,7 +179,7 @@ async function upgradeSVGMarkup (markup, opts = {}) {
     $border.remove()
   }
 
-  const $style = document.querySelector('style')
+  const $style = document.querySelector('style:not(.static)')
   const updatedStyle = $style.textContent
     .replaceAll(`#${_typeId}`, '#scene')
     .trim()
@@ -201,7 +210,7 @@ async function upgradeSVGMarkup2 (markup, opts = {}) {
   $svg.setAttribute('image-rendering', 'pixelated')
 
   // hair => hat
-  document.querySelector('.hair')?.classList?.replace('hair', 'hat')
+  // document.querySelector('.hair')?.classList?.replace('hair', 'hat')
 
   const $entity = document.querySelector('.entity')
   const $attributes = document.querySelectorAll('svg > *:not(style)')
@@ -233,7 +242,7 @@ async function upgradeSVGMarkup2 (markup, opts = {}) {
     $border.remove()
   }
 
-  const $style = document.querySelector('style')
+  const $style = document.querySelector('style:not(.static)')
   const updatedStyle = $style.textContent
     .replaceAll(`#egg:active`, '.scene:active > .entity')
     .trim()
