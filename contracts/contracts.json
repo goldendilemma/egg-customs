@@ -1,0 +1,59 @@
+[
+  {
+    "name": "ArbiDudes",
+    "contractId": null,
+    "address": [
+      "0x1ac7a2fc7f66fa4edf2713a88cd4bad24220c86c"
+    ],
+    "imageUri": "https://content.eggfam.lol/arbidudes/images/{tokenId}.png",
+    "assetMeta": {
+      "imageWidth": 36,
+      "imageHeight": 36
+    }
+  },
+  {
+    "name": "EGG von EGGFAM",
+    "contractId": 4,
+    "address": ["0x31e06A414f5e89106b5071014fa5769f571fb07a"],
+    "assetMeta": {
+      "imageWidth": 24,
+      "imageHeight": 24
+    }
+  },
+  {
+    "name": "BROCC von EGGFAM",
+    "contractId": 5,
+    "address": ["0x3131A8e8F12a6c0AB8620dE53fE6476B24bDE280"],
+    "assetMeta": {
+      "imageWidth": 24,
+      "imageHeight": 24
+    }
+  },
+  {
+    "name": "CHIKIN von EGGFAM",
+    "contractId": 6,
+    "address": ["0xC827bE4d5462871fCccddd7c828fe3ab06c64258"],
+    "assetMeta": {
+      "imageWidth": 24,
+      "imageHeight": 24
+    }
+  },
+  {
+    "name": "Hall of EGGFAM",
+    "contractId": 1,
+    "address": ["0x32ec84eac1ced59d1d57f594c6e1dd512df2d26a"],
+    "assetMeta": {
+      "imageWidth": 24,
+      "imageHeight": 24
+    }
+  },
+  {
+    "name": "The Lost Donkeys",
+    "contractId": null,
+    "address": ["0x5e84c1a06e6ad1a8ed66bc48dbe5eb06bf2fe4aa"],
+    "assetMeta": {
+      "imageWidth": 64,
+      "imageHeight": 64
+    }
+  }
+]
