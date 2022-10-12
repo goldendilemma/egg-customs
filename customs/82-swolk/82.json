@@ -1,0 +1,43 @@
+{
+  "name": "SWOLK",
+  "description": "EEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+  "artist": "EGG & Smolverse",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Swol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Beard"
+    },
+    {
+      "trait_type": "Mouth Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Mouth Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Unibrow"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gloves"
+    }
+  ]
+}
