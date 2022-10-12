@@ -60,7 +60,7 @@ async function start ([inputDir]) {
       animation_url: `${ANIMATION_BASE_URL}?id=${metaFile.tokenId}`
     }
     
-    
+    fs.writeFileSync(path.join('build/' + fileObj.fileName), markup)
     fs.writeJSONSync(destinationPath, tokenObj)
     console.log('image copied to clipboard!')
     pbcopy(image)
