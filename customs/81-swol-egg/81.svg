@@ -65,9 +65,4 @@
 <path id="shine" fill-rule="evenodd" clip-rule="evenodd" d="M7 9H8H9V10H8V11H7V10V9ZM9 12H10V13H9V12ZM11 12V11H10V12H11ZM12 12H11V13H12V12ZM12 12V11H13V12H12Z" fill="white" fill-opacity="0.1"/>
 </g>
 </g>
-<defs>
-<clipPath id="clip0_838_58133">
-<rect width="24" height="24" fill="white"/>
-</clipPath>
-</defs>
 </svg>
