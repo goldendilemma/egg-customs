@@ -1,0 +1,55 @@
+{
+  "name": "SWOL EGG",
+  "description": "Lifting PLATES like there's no tomorrow.",
+  "artist": "EGG & Smolverse",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Swol"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Ooo"
+    },
+    {
+      "trait_type": "Mouth Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Shadowed"
+    },
+    {
+      "trait_type": "Eyes Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Gloves"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Training Top"
+    },
+    {
+      "trait_type": "Clothes Color",
+      "value": "Black"
+    }
+  ]
+}
