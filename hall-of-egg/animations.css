@@ -101,3 +101,26 @@
   animation: wind-blow-left-mild 0.1s linear alternate infinite;
   transform-origin: center;
 }
+
+@keyframes broom-sweep {
+  0% { transform: rotateZ(0deg); }
+  25% { transform: rotateZ(25deg); }
+  35% { transform: rotateZ(-45deg); }
+  50% { transform: rotateZ(0deg); }
+}
+@keyframes broom-sweep-dust {
+  0% { transform: translateX(-2px); opacity: 0; }
+  29% { opacity: 0; }
+  32% { transform: translateX(-2px); opacity: 1; }
+  70% { transform: translateX(0px); }
+  100% { opacity: 0; }
+}
+.accessory.broom > g:first-child * {
+  transform-origin: 25% 50%;
+  animation: broom-sweep 2s ease-in infinite;
+}
+.accessory.broom > *:last-child {
+  transform-origin: 25% 50%;
+  opacity: 0;
+  animation: broom-sweep-dust 2s ease-out infinite;
+}
