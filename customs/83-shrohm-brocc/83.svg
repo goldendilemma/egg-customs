@@ -1,0 +1,33 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="flug">
+<g id="inside-rare">
+<path id="border" fill-rule="evenodd" clip-rule="evenodd" d="M12 11H14V12H12V11ZM11 13H12V12H11V13ZM10 14V13H11V14H10ZM10 16H9V15V14H10V15V16ZM13 16V17H10V16H13ZM14 15V16H13V15H14ZM14 15H15V13V12H14V13V15Z" fill="black"/>
+<path id="fill" fill-rule="evenodd" clip-rule="evenodd" d="M13 12H12V13H11V14H10V16H11H12H13V15H14V12H13Z" fill="#FF00FF"/>
+<path id="shadow" fill-rule="evenodd" clip-rule="evenodd" d="M13 13H12V14H11V15H12V14H13V13Z" fill="black" fill-opacity="0.25"/>
+<rect id="dark-shadow" x="11" y="13" width="1" height="1" fill="black" fill-opacity="0.4"/>
+<rect id="shine" x="12" y="12" width="2" height="1" fill="white" fill-opacity="0.5"/>
+</g>
+<g id="body-mycelium">
+<path id="fill-root" fill-rule="evenodd" clip-rule="evenodd" d="M10 10H8V11H7V12H9V13H7V15H9V16V19H10V20H15V19H16V16V15H18V13H16V12H18V11H17V10H15V11H14V10H11V11H10V10Z" fill="#DECABF"/>
+<path id="hair" fill-rule="evenodd" clip-rule="evenodd" d="M10 10H8V11H7V12H9V13H7V15H9V16H10V15H11V14H14V15H15V16H16V15H18V13H16V12H18V11H17V10H15V11H14V10H11V11H10V10Z" fill="#BE3021"/>
+<path id="border_2" fill-rule="evenodd" clip-rule="evenodd" d="M8 9H9H10V10H9H8V9ZM7 11V10H8V11H7ZM7 12H6V11H7V12ZM7 13V12H9V13H7ZM7 15H6V13H7V15ZM9 19H8V16H7V15H9V16V19ZM10 20H9V19H10V20ZM15 20V21H10V20H15ZM16 19V20H15V19H16ZM18 15V16H17V19H16V16V15H18ZM18 13H19V15H18V13ZM18 12V13H16V12H18ZM18 11H19V12H18V11ZM17 10H18V11H17V10ZM15 10V9H16H17V10H16H15ZM14 10H15V11H14V10ZM11 10V9H12H13H14V10H13H12H11ZM11 10H10V11H11V10ZM11 14V13H13H14V14H13H11ZM11 14V15H10V14H11ZM14 14V15H15V14H14Z" fill="black"/>
+<path id="static-shadow" fill-rule="evenodd" clip-rule="evenodd" d="M15 9H16V10H15V9ZM9 10H8V11H9V10ZM10 12H9V13H10V12ZM10 14H9V15H10V14ZM14 13H15V14H14V13ZM14 13H13V12H14V13ZM18 13H17V14H18V13ZM7 13H8V14H7V13ZM17 11H18V12H17V11ZM14 10H13V11H14V10ZM7 11H6V12H7V11ZM12 11H11V12H12V11Z" fill="white"/>
+<path id="static-shadow_2" fill-rule="evenodd" clip-rule="evenodd" d="M9 10H8V11H7H6V12H7H8H9V13H8H7V15H8H9V16V19H10V20H11V18V15H10V13V12H11V11H12H13H14V10H13H12H11V11H10V10H9ZM13 12H12V13H13V12ZM16 13H17V14H16V13ZM17 11H16V12H17V11ZM15 18H16V19H15V18ZM15 19V20H14V19H15Z" fill="black" fill-opacity="0.3"/>
+<path id="Union" fill-rule="evenodd" clip-rule="evenodd" d="M8 14H7V15H8H9V16H10V15H9V14H8ZM18 14H17H16V15H15V16H16V15H17H18V14Z" fill="#FF8B49" fill-opacity="0.46"/>
+</g>
+<g id="eyes-wild">
+<path id="static-pupils" fill-rule="evenodd" clip-rule="evenodd" d="M14 16H13V17H14V16ZM14 17V18H15V17H14ZM10 16H11V17H12V18H11V17H10V16Z" fill="black"/>
+<path id="Union_2" fill-rule="evenodd" clip-rule="evenodd" d="M12 16H11V17H10V18H11V17H12V16ZM15 16H14V17H13V18H14V17H15V16Z" fill="black" fill-opacity="0.25"/>
+</g>
+<g id="mouth-woah">
+<rect id="Rectangle 188" x="11" y="19" width="3" height="1" fill="black"/>
+</g>
+<g id="accessory-omega">
+<g id="Group 166">
+<rect id="Rectangle 3362" x="12" y="5" width="1" height="1" fill="white"/>
+<path id="Union_3" fill-rule="evenodd" clip-rule="evenodd" d="M13 4H12V5H11V6H12V7H13V6H14V5H13V4ZM13 5V6H12V5H13Z" fill="#FFEAB4" fill-opacity="0.33"/>
+<path id="Union_4" fill-rule="evenodd" clip-rule="evenodd" d="M14 4H13V5H14V4ZM14 6H13V7H14V6ZM11 6H12V7H11V6ZM12 4H11V5H12V4Z" fill="#FFEAB4" fill-opacity="0.33"/>
+</g>
+</g>
+</g>
+</svg>
