@@ -124,3 +124,15 @@
   opacity: 0;
   animation: broom-sweep-dust 2s ease-out infinite;
 }
+
+@keyframes glow-low {
+  from { fill-opacity: 0.4; }
+  to { fill-opacity: 0.12; }
+}
+.accessory.ring {
+  animation: wind-blow-left-mild 0.5s linear alternate infinite;
+  transform-origin: center;
+}
+.accessory.ring > path:nth-child(2) {
+  animation: glow-low 1s linear alternate infinite;
+}
