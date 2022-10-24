@@ -1,0 +1,43 @@
+{
+  "name": "EGSHROHM",
+  "description": "Coocooooo. hehehe. Wooooooooooo. whaddap.",
+  "artist": "EGG & Mushrohms",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Mycelium"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Neon Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Woo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Omega"
+    }
+  ]
+}
