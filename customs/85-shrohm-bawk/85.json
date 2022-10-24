@@ -1,0 +1,59 @@
+{
+  "name": "BAWKSHROHM",
+  "description": "Bawk bawk. So fluffy im gonna die!!!",
+  "artist": "CHIKIN & Mushrohms",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Mycelium"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Woo"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Spots"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Draft"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Fur"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Omega"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Shrooms"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Blue"
+    }
+  ]
+}
