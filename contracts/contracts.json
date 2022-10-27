@@ -62,7 +62,7 @@
     "address": [
       "0xdfbd37ef42adb66944c86c0ed036f3895bc32107"
     ],
-    "imageUri": "https://content.eggfam.lol/arbibots/images/{tokenId}.png",
+    "imageUri": "https://content.eggfam.lol/arbibots-cases/images/{tokenId}.png",
     "assetMeta": {
       "imageWidth": 36,
       "imageHeight": 36
