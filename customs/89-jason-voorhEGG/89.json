@@ -1,0 +1,51 @@
+{
+  "name": "Jason VoorhEGG",
+  "description": "...",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Rotten"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Crooked Teeth"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Stripey"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Gray"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Hockey Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bad Eye"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Machete"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Black"
+    }
+  ]
+}
