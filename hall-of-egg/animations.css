@@ -143,6 +143,6 @@
 }
 
 #eggfam-87 .eyes,
-#eggfam-87 .comb { /** no animation */
+#eggfam-87 .comb > * { /** no animation */
   animation: none;
 }
