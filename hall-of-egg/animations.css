@@ -141,3 +141,8 @@
   animation: wind-blow-left-mild 0.1s ease-out infinite alternate;
   transform-origin: center center;
 }
+
+#eggfam-87 .eyes,
+#eggfam-87 .comb { /** no animation */
+  animation: none;
+}
