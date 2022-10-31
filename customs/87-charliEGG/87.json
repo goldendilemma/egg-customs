@@ -1,0 +1,54 @@
+{
+  "name": "BAWKlie",
+  "description": "Who's going to take care of me? When you UNVIBE?",
+  "artist": "CHIKIN",
+  "generation": {
+    "clickable": false
+  },
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "CHIKIN"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Rotten"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Eyes Color",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Ants"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Flies"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Black"
+    }
+  ]
+}
