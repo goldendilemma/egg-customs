@@ -136,3 +136,8 @@
 .accessory.ring > path:nth-child(2) {
   animation: glow-low 1s linear alternate infinite;
 }
+
+.chikin .comb > path { /** combs **/
+  animation: wind-blow-left-mild 0.1s ease-out infinite alternate;
+  transform-origin: center center;
+}
