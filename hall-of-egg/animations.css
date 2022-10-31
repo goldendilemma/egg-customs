@@ -26,7 +26,9 @@
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
-.carnage {
+.carnage,
+.mask.skin,
+.mask.hockey-mask {
   animation: crawl-up 5s ease-out;
   animation-iteration-count: infinite;
   animation-direction: alternate;
@@ -149,3 +151,4 @@
 
 .chainsaw > g:nth-of-type(2) > * { animation: cig-glow 0.1s infinite alternate linear; }
 .chainsaw > g:nth-of-type(2) > path:nth-child(2) { animation-delay: -0.5s; }
+
