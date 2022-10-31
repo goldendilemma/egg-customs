@@ -83,6 +83,20 @@
   from { opacity: initial; }
   to { opacity: 0.7; }
 }
+@keyframes drop-fade {
+  0% { 
+    transform: translateY(0px); 
+    opacity: initial;
+  }
+  25% { 
+    opacity: 0;
+    transform: translateY(2px); 
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(2px); 
+  }
+}
 .eyes {
   transform-origin: 50% 70%;
   animation: blink 1s step-end;

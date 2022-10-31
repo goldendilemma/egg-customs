@@ -163,3 +163,10 @@
 .ants > path:nth-child(3) { animation: fade-70 0.3s linear alternate infinite; }
 .ants > path:nth-child(2) { animation-delay: -0.25s; }
 .ants > path:nth-child(3) { animation-delay: -0.5s; }
+
+.hair.long g:nth-child(2) > * {
+  animation: drop-fade ease-in 3s infinite;
+}
+.hair.long g:nth-child(2) > *:nth-child(1) {
+  animation-delay: -1.5s;
+}
