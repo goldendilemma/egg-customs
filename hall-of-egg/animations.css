@@ -152,3 +152,14 @@
 .chainsaw > g:nth-of-type(2) > * { animation: cig-glow 0.1s infinite alternate linear; }
 .chainsaw > g:nth-of-type(2) > path:nth-child(2) { animation-delay: -0.5s; }
 
+
+.flies > * { animation: move-around 2s infinite alternate linear;} 
+.flies *:nth-child(1) { animation-delay: -0.25s;}
+.flies *:nth-child(2) { animation-delay: -0.5s;}
+.flies *:nth-child(3) { animation-delay: -1s;}
+.flies *:nth-child(4) { animation-delay: -1.5s;}
+.ants > path:nth-child(1),
+.ants > path:nth-child(2),
+.ants > path:nth-child(3) { animation: fade-70 0.3s linear alternate infinite; }
+.ants > path:nth-child(2) { animation-delay: -0.25s; }
+.ants > path:nth-child(3) { animation-delay: -0.5s; }
