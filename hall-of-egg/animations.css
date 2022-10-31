@@ -170,3 +170,8 @@
 .hair.long g:nth-child(2) > *:nth-child(1) {
   animation-delay: -1.5s;
 }
+
+.flower-arrangement {
+  animation: wind-blow-left-mild 1s linear alternate infinite;
+  transform-origin: center center;
+}
