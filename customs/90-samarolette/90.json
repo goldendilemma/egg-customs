@@ -1,0 +1,51 @@
+{
+  "name": "Samarolette",
+  "description": "Seven EGGs...",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Rotten"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Flat"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Long"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Dirt"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Nightgown"
+    },
+    {
+      "trait_type": "Clothes Color",
+      "value": "White"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
