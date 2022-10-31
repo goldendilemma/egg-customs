@@ -4,6 +4,10 @@
   "artist": "CHIKIN & Mushrohms",
   "attributes": [
     {
+      "trait_type": "Type",
+      "value": "CHIKIN"
+    },
+    {
       "trait_type": "Body",
       "value": "Mycelium"
     },
