@@ -15,6 +15,14 @@
 <path id="hair" fill-rule="evenodd" clip-rule="evenodd" d="M18 9H19V10H18V9ZM18 11H19V12V13H18V12H16V13H18V15V16V17H17V16V15H16V16V17H15V16V15H14V14H12V15V16H11V15H10V16H9H8V15H7V13H9V12H7V11H8V10H10V11H11V10H12V9H13V10H14V9H15V10H17V11H18ZM8 16V17V18H7V17V16H8ZM20 15H19V16H20V15ZM9 19H8V20H9V21H10V20H9V19Z" fill="#413A30"/>
 <path id="static-shadow" fill-rule="evenodd" clip-rule="evenodd" d="M13 9H12V10H11V11H10V10H9H8V11H7V12H8H9V13H8H7V15H8H9V16V19H10V20H11V18V16H12V15H11H10V13V12H11V11H12H13H14V10H13V9ZM15 16H16V17H15V16ZM8 16H7V17H8V16ZM18 11H19V12H18V11ZM15 18H16V19H15V18ZM15 19V20H14V19H15Z" fill="black" fill-opacity="0.3"/>
 <path id="static-shadow_2" fill-rule="evenodd" clip-rule="evenodd" d="M8 10H9V11H8V10ZM8 11V12H7V11H8ZM11 11H10V12H9V13H7V14H9V13H10V14H11V13H10V12H11V11ZM15 11H14V12H15V13H14V14H15V13H16V14H18V13H16V12H15V11ZM17 11H18V12H17V11ZM17 11H16V10H17V11ZM12 10H13V11H12V10ZM13 12H12V13H13V12Z" fill="black" fill-opacity="0.3"/>
+<g id="blood">
+<rect id="Rectangle 4458" x="14" y="14" width="1" height="1" fill="#2C0101"/>
+<rect id="Rectangle 4456" x="12" y="14" width="1" height="1" fill="#4A0202"/>
+<rect id="Rectangle 4459" x="11" y="18" width="1" height="1" fill="#4A0202"/>
+<rect id="Rectangle 4457" x="12" y="15" width="1" height="1" fill="#810303"/>
+<rect id="Rectangle 4460" x="10" y="19" width="1" height="1" fill="#2C0101"/>
+<rect id="Rectangle 4461" x="14" y="18" width="1" height="1" fill="#4A0202"/>
+</g>
 </g>
 <g id="eyes-regular">
 <path id="static-sclera" fill-rule="evenodd" clip-rule="evenodd" d="M13 16H15V18H13V16ZM10 16H12V18H10V16Z" fill="#5A3232"/>
@@ -35,14 +43,14 @@
 </g>
 <path id="Union_7" fill-rule="evenodd" clip-rule="evenodd" d="M11 12H10V13H11V12ZM9 14H10V15H9V14ZM8 16H9V17H8V16ZM9 17H10V18H9V17ZM13 12H14V13H13V12ZM16 14H15V15H16V16H17V15H16V14ZM16 18H15V19H16V18ZM11 19H10V20H11V19Z" fill="black" fill-opacity="0.75"/>
 <path id="Union_8" fill-rule="evenodd" clip-rule="evenodd" d="M12 16H10V17H12V16ZM15 16H13V17H15V16Z" fill="black" fill-opacity="0.25"/>
-<g id="blood" opacity="0.65">
-<rect id="Rectangle 4456" x="11" y="18" width="1" height="1" fill="#4A0202"/>
-<rect id="Rectangle 4457" x="10" y="18" width="1" height="1" fill="#4A0202"/>
-<rect id="Rectangle 4458" x="10" y="18" width="1" height="1" fill="#2C0101"/>
-<rect id="Rectangle 4459" x="11" y="13" width="1" height="1" fill="#810303"/>
-<rect id="Rectangle 4460" x="11" y="12" width="1" height="1" fill="#4A0202"/>
+<g id="blood_2" opacity="0.65">
+<rect id="Rectangle 4456_2" x="11" y="18" width="1" height="1" fill="#4A0202"/>
+<rect id="Rectangle 4457_2" x="10" y="18" width="1" height="1" fill="#4A0202"/>
+<rect id="Rectangle 4458_2" x="10" y="18" width="1" height="1" fill="#2C0101"/>
+<rect id="Rectangle 4459_2" x="11" y="13" width="1" height="1" fill="#810303"/>
+<rect id="Rectangle 4460_2" x="11" y="12" width="1" height="1" fill="#4A0202"/>
 <rect id="Rectangle 4463" x="16" y="17" width="1" height="1" fill="#4A0202"/>
-<rect id="Rectangle 4461" x="14" y="13" width="1" height="1" fill="#4A0202"/>
+<rect id="Rectangle 4461_2" x="14" y="13" width="1" height="1" fill="#4A0202"/>
 <rect id="Rectangle 4462" x="13" y="14" width="1" height="1" fill="#2C0101"/>
 </g>
 </g>
@@ -59,7 +67,7 @@
 <path id="Union_12" fill-rule="evenodd" clip-rule="evenodd" d="M18 18H19V19H18V18ZM20 18H21V19H20V18ZM22 20H21V21H22V20ZM19 21H20V22H19V21ZM18 21H17V22H18V21Z" fill="#808080"/>
 <path id="Union_13" fill-rule="evenodd" clip-rule="evenodd" d="M17 18H18V19H17V18ZM19 18H20V19H19V18ZM22 19H21V20H22V19ZM20 21H21V22H20V21ZM19 21H18V22H19V21Z" fill="#505050"/>
 </g>
-<g id="blood_2">
+<g id="blood_3">
 <path id="Union_14" fill-rule="evenodd" clip-rule="evenodd" d="M21 19H20V20H19V21H18V22H19V21H20H21V20V19Z" fill="#84160F"/>
 <path id="Union_15" fill-rule="evenodd" clip-rule="evenodd" d="M19 18H20V19H19V18ZM14 19H15V20H14V19ZM16 20H17V21H16V20ZM16 21V22H15V21H16ZM19 20H20V21H19V20ZM19 22H18V21H19V22ZM20 22H19V23H20V22ZM21 21V22H20V21H21ZM21 21V20H22V21H21Z" fill="#84160F"/>
 <rect id="Rectangle 4462_2" x="21" y="20" width="1" height="1" fill="#4A0202"/>
@@ -70,14 +78,6 @@
 <rect id="Rectangle 4469" x="20" y="21" width="1" height="1" fill="#4A0202"/>
 <rect id="Rectangle 4470" x="19" y="20" width="1" height="1" fill="#4A0202"/>
 </g>
-</g>
-<g id="blood_3">
-<rect id="Rectangle 4458_2" x="14" y="14" width="1" height="1" fill="#2C0101"/>
-<rect id="Rectangle 4456_2" x="12" y="14" width="1" height="1" fill="#4A0202"/>
-<rect id="Rectangle 4459_2" x="11" y="18" width="1" height="1" fill="#4A0202"/>
-<rect id="Rectangle 4457_2" x="12" y="15" width="1" height="1" fill="#810303"/>
-<rect id="Rectangle 4460_2" x="10" y="19" width="1" height="1" fill="#2C0101"/>
-<rect id="Rectangle 4461_2" x="14" y="18" width="1" height="1" fill="#4A0202"/>
 </g>
 </g>
 </svg>
