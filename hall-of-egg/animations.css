@@ -146,3 +146,6 @@
 #eggfam-87 .comb > * { /** no animation */
   animation: none;
 }
+
+.chainsaw > g:nth-of-type(2) > * { animation: cig-glow 0.1s infinite alternate linear; }
+.chainsaw > g:nth-of-type(2) > path:nth-child(2) { animation-delay: -0.5s; }
