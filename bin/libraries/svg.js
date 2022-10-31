@@ -195,8 +195,11 @@ async function upgradeSVGMarkup2 (markup, opts = {}) {
   const { 
     renames = {},
     typeId: _typeId,
-    tokenId
+    tokenId,
+    meta
   } = opts
+  const { clickable = true } = meta?.generation ?? {}
+
   const $dom = new JSDOM(markup)
   const document = $dom.window.document
 
@@ -243,10 +246,12 @@ async function upgradeSVGMarkup2 (markup, opts = {}) {
   }
 
   const $style = document.querySelector('style:not(.static)')
-  const updatedStyle = $style.textContent
-    .replaceAll(`#egg:active`, '.scene:active > .entity')
-    .trim()
-  $style.textContent = cdata(`.entity{transform-origin:center center;}${updatedStyle}`)
+  if (clickable !== false) {
+    const updatedStyle = $style.textContent
+      .replaceAll(`#egg:active`, '.scene:active > .entity')
+      .trim()
+    $style.textContent = cdata(`.entity{transform-origin:center center;}${updatedStyle}`)
+  }
 
   return document.body.innerHTML
     .replaceAll('\n', '')

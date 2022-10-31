@@ -50,12 +50,14 @@ async function start ([inputDir]) {
     const tokenId = tokenIdFromFilename(fileObj.fileName)
     const metaFile = inputFiles.find(file => file.tokenId === tokenId)
     const typeId = metaFile.meta.attributes.find(attr => attr.trait_type.toLowerCase() === 'type')?.value?.toLowerCase() || 'egg'
-    const markup = await upgradeSVGMarkup2(fileObj.markup, { renames, typeId, tokenId })
+    const markup = await upgradeSVGMarkup2(fileObj.markup, { renames, typeId, tokenId, meta: metaFile.meta })
     const destinationPath = path.join(outputDir, fileObj.fileName.replace('svg', 'json'))
+
+    const { generation, ...fitleredMeta } = metaFile.meta
 
     const image = 'data:image/svg+xml;base64,' + Buffer.from(markup).toString('base64')
     const tokenObj = {
-      ...metaFile.meta,
+      ...fitleredMeta,
       image,
       animation_url: `${ANIMATION_BASE_URL}?id=${metaFile.tokenId}`
     }
