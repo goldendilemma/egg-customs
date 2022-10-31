@@ -1,0 +1,55 @@
+{
+  "name": "BROCCerface",
+  "description": "...",
+  "artist": "BROCC",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "BROCC"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Scarred"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Teeth"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mask",
+      "value": "Skin"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Eyes Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Blood"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Chainsaw"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Metal"
+    }
+  ]
+}
