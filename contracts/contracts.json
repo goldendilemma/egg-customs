@@ -62,10 +62,14 @@
     "address": [
       "0xdfbd37ef42adb66944c86c0ed036f3895bc32107"
     ],
-    "imageUri": "https://content.eggfam.lol/arbibots-cases/images/{tokenId}.png",
-    "assetMeta": {
-      "imageWidth": 36,
-      "imageHeight": 36
-    }
+    "imageUri": "https://content.eggfam.lol/arbibots-cases/images/{tokenId}.png"
+  },
+  {
+    "name": "Castles",
+    "contractId": null,
+    "address": [
+      "0x71f5c328241fc3e03a8c79edcd510037802d369c"
+    ],
+    "imageUri": "https://content.eggfam.lol/castles/images/{tokenId}.png"
   }
 ]
