@@ -25,7 +25,11 @@
     },
     {
       "trait_type": "Hat",
-      "value": "Ice Cream"
+      "value": "Sprinkled Ice Cream"
+    },
+    {
+      "trait_type": "Hat Color",
+      "value": "White"
     },
     {
       "trait_type": "Eyes",
