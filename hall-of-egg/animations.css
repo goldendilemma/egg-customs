@@ -28,7 +28,8 @@
 }
 .carnage,
 .mask.skin,
-.mask.hockey-mask {
+.mask.hockey-mask,
+.mask.ghostface {
   animation: crawl-up 5s ease-out;
   animation-iteration-count: infinite;
   animation-direction: alternate;
@@ -145,6 +146,7 @@
 }
 
 #eggfam-87 .eyes,
+#eggfam-99 .eyes,
 #eggfam-87 .comb > * { /** no animation */
   animation: none;
 }
