@@ -1,0 +1,43 @@
+{
+  "name": "Jack o BROCC",
+  "description": "To @Gal_Mc_couille from EGG, thank you for participating in HallowEGG 2022.",
+  "artist": "EGG",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "BROCC"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Pumpkin"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Woah"
+    },
+    {
+      "trait_type": "Mouth Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Glow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
