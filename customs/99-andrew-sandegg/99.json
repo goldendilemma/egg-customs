@@ -1,0 +1,55 @@
+{
+  "name": "EGG Face",
+  "description": "To @PZhiaran from EGG, thank you for participating in HallowEGG 2022.",
+  "artist": "EGG & @PZhiaran",
+  "attributes": [
+    {
+      "trait_type": "Body",
+      "value": "Dead"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Side Cut"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Hair Color",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Scared"
+    },
+    {
+      "trait_type": "Eyes Color",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Eyes Color",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ]
+}
