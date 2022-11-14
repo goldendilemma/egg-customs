@@ -1,7 +1,7 @@
 [
   {
     "name": "ArbiDudes",
-    "contractId": null,
+    "id": null,
     "address": [
       "0x1ac7a2fc7f66fa4edf2713a88cd4bad24220c86c"
     ],
@@ -13,7 +13,7 @@
   },
   {
     "name": "EGG von EGGFAM",
-    "contractId": 4,
+    "id": 4,
     "address": ["0x31e06A414f5e89106b5071014fa5769f571fb07a"],
     "assetMeta": {
       "imageWidth": 24,
@@ -22,7 +22,7 @@
   },
   {
     "name": "BROCC von EGGFAM",
-    "contractId": 5,
+    "id": 5,
     "address": ["0x3131A8e8F12a6c0AB8620dE53fE6476B24bDE280"],
     "assetMeta": {
       "imageWidth": 24,
@@ -31,7 +31,7 @@
   },
   {
     "name": "CHIKIN von EGGFAM",
-    "contractId": 6,
+    "id": 6,
     "address": ["0xC827bE4d5462871fCccddd7c828fe3ab06c64258"],
     "assetMeta": {
       "imageWidth": 24,
@@ -40,7 +40,7 @@
   },
   {
     "name": "Hall of EGGFAM",
-    "contractId": 1,
+    "id": 1,
     "address": ["0x32ec84eac1ced59d1d57f594c6e1dd512df2d26a"],
     "assetMeta": {
       "imageWidth": 24,
@@ -49,7 +49,7 @@
   },
   {
     "name": "The Lost Donkeys",
-    "contractId": null,
+    "id": null,
     "address": ["0x5e84c1a06e6ad1a8ed66bc48dbe5eb06bf2fe4aa"],
     "assetMeta": {
       "imageWidth": 64,
@@ -58,7 +58,7 @@
   },
   {
     "name": "Arbibots Cases",
-    "contractId": null,
+    "id": null,
     "address": [
       "0xdfbd37ef42adb66944c86c0ed036f3895bc32107"
     ],
@@ -66,10 +66,18 @@
   },
   {
     "name": "Castles",
-    "contractId": null,
+    "id": null,
     "address": [
       "0x71f5c328241fc3e03a8c79edcd510037802d369c"
     ],
     "imageUri": "https://content.eggfam.lol/castles/images/{tokenId}.png"
+  },
+  {
+    "name": "MechaPunkx",
+    "id": null,
+    "address": [
+      "0x9D3eBe1CBc34614b414Bbb6d83F9b0875B8365EE"
+    ],
+    "imageUri": "https://content.eggfam.lol/mechapunkx/images/{tokenId}.png"
   }
 ]
