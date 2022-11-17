@@ -1,0 +1,43 @@
+{
+  "name": "Battle BROCC",
+  "description": "PEW PEW PEW.",
+  "artist": "BROCC",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "BROCC"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Body Color",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Woah"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Regular"
+    },
+    {
+      "trait_type": "Glasses",
+      "value": "None"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wings"
+    },
+    {
+      "trait_type": "Accessory Color",
+      "value": "Green"
+    }
+  ]
+}
