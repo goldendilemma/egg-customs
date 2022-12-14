@@ -1,0 +1,103 @@
+@keyframes side-by-side {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(1.5%);
+  }
+}
+@keyframes float-bounce {
+  0% { transform: translateY(0); }
+  25% { transform: translateY(0.5%); }
+  35% { transform: translateY(0.25%); }
+  50% { transform: translateY(0.4%); }
+  100% { transform: translateY(0); }
+}
+@keyframes float {
+  from { transform: translateY(0); }
+  to { transform: translateY(0.5%); }
+}
+@keyframes bugs {
+  0% { transform: translate(2%, 0.5%); }
+  20% { transform: translate(1%, 0%); }
+  50% { transform: translate(0.75%, 0.25%); }
+  75% { transform: translate(0.75%, 0.5%); }
+  100% { transform: translate(0.75%, 0.3%); }
+}
+@keyframes shake {
+  0% { transform: translateX(0); }
+  30% { transform: translateX(0); }
+  40% { transform: translateX(-0.1%); }
+  45% { transform: translateX(0.1%); }
+  46% { transform: translateX(0); }
+  100% { transform: translateX(0); }
+}
+@keyframes breath {
+  from { transform: scale(1.0); }
+  to { transform: scale(1.015); }
+}
+
+@keyframes flash-light {
+  4% { fill: #949494; }
+  5% { fill: palegoldenrod; }
+  7% { fill: #949494; }
+}
+
+#party #windows_2 {
+  animation: flash-light 10s linear infinite;
+}
+#woods #brocc, 
+#woods #chikin 
+{
+  animation: float 1s ease-in-out infinite alternate;
+}
+#woods #brocc { animation-delay: -0.75s; }
+
+[id^=button]:hover {
+  opacity: 0.85;
+  cursor: pointer;
+}
+[id^=button]:active { opacity: 0.75; }
+
+#dessert #tree_8 {
+  animation: shake 3s linear infinite alternate;
+}
+
+#swamp [id^=bug] {
+animation: bugs 2s linear infinite alternate;
+}
+#swamp #bug { animation-delay: -1s; }
+#swamp #egg{
+  animation: float 3s ease-in-out infinite alternate;
+}
+#swamp #lily-pad {
+  animation: shake 4s ease-in-out infinite alternate;
+}
+#swamp #egg { animation-delay: -1s; }
+
+#boat, #boat_3 { animation-delay: 0.5s; }
+#boat_2 { animation-delay: 1s; }
+[id^=boat] {
+  animation: float-bounce 2.5s ease-in-out infinite alternate;
+}
+#waves #row-1, 
+#waves #row-2, 
+#waves #row-3, 
+#waves #row-4, 
+#waves #row-5 {
+  animation: side-by-side 3s ease-in-out infinite alternate;
+}
+#waves #row-2, 
+#waves #row-4 {
+  animation-delay: -1.5s;
+}
+
+rect[width="160"] {
+  display: none;
+} 
+
+@media (prefers-color-scheme: dark) {
+  #waves * {
+    stroke: #AC169D;
+  }
+}

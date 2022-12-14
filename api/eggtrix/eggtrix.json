@@ -1,0 +1,37 @@
+{
+  "deposit": {
+    "displayCollections": [0, 1, 2, 3]
+  },
+  "withdraw": {},
+  "worldMap": {
+    "actions": [
+      {
+        "actionId": "cooking",
+        "typeId": "button",
+        "href": "/kitchen",
+        "disabled": false
+      }
+    ]
+  },
+  "navigation": [
+    {
+      "displayName": "Kitchen",
+      "subtitle": "Become CHEF",
+      "href": "/kitchen",
+      "image": "/images/cooking.svg",
+      "active": true
+    },
+    {
+      "displayName": "Adventure",
+      "subtitle": "Find THINGs",
+      "image": "/images/adventure.svg",
+      "active": false
+    },
+    {
+      "displayName": "Vibe",
+      "subtitle": "Do the VIBE",
+      "image": "/images/vibe.svg",
+      "active": false
+    }
+  ]
+}
