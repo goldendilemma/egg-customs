@@ -11,6 +11,12 @@
         "typeId": "button",
         "href": "/kitchen",
         "disabled": false
+      },
+      {
+        "actionId": "exploring",
+        "typeId": "button",
+        "href": "/exploring",
+        "disabled": false
       }
     ]
   },
@@ -23,10 +29,11 @@
       "active": true
     },
     {
-      "displayName": "Adventure",
+      "displayName": "Exploring",
       "subtitle": "Find THINGs",
-      "image": "/images/adventure.svg",
-      "active": false
+      "href": "/exploring",
+      "image": "/images/exploring.svg",
+      "active": true
     },
     {
       "displayName": "Vibe",
