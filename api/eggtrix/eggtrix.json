@@ -16,7 +16,7 @@
         "actionId": "exploring",
         "typeId": "button",
         "href": "/exploring",
-        "disabled": true
+        "disabled": false
       }
     ]
   },
@@ -33,7 +33,7 @@
       "subtitle": "Find THINGs",
       "href": "/exploring",
       "image": "/images/exploring.svg",
-      "active": false
+      "active": true
     },
     {
       "displayName": "Vibe",
