@@ -17,6 +17,12 @@
         "typeId": "button",
         "href": "/exploring",
         "disabled": false
+      },
+      {
+        "actionId": "shed",
+        "typeId": "button",
+        "href": "/exploring/the-shed",
+        "disabled": false
       }
     ]
   },
