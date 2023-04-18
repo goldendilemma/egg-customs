@@ -30,6 +30,16 @@
   }
 }
 
+@keyframes hover {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(1%);
+  }
+}
+
 @keyframes float {
   from {
     transform: translateY(0);
@@ -134,7 +144,9 @@
   opacity: 0.75;
 }
 
-#dessert #tree_8 {
+#dessert #tree,
+#Group\ 237,
+#sip-sip {
   animation: shake 3s linear infinite alternate;
 }
 
@@ -186,6 +198,14 @@
 
 rect[width="160"] {
   display: none;
+}
+
+[id^=cloud] {
+  animation: hover 3s alternate infinite ease-in-out;
+}
+
+#cloud {
+  animation-delay: -1200ms;
 }
 
 @media (prefers-color-scheme: dark) {
