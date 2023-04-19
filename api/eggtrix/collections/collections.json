@@ -17,6 +17,7 @@
   },
   {
     "name": "Toadstoolz",
-    "id": 9
+    "id": 9,
+    "enumerable": false
   }
 ]
