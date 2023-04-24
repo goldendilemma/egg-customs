@@ -23,6 +23,12 @@
         "typeId": "button",
         "href": "/exploring/the-shed",
         "disabled": false
+      },
+      {
+        "actionId": "bathroom",
+        "typeId": "button",
+        "href": "/exploring/bathroom",
+        "disabled": false
       }
     ]
   },
