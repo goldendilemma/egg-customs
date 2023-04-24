@@ -245,7 +245,7 @@
 </g>
 <rect id="bug" x="34" y="18" width="1" height="1" rx="0.5" fill="#23301D"/>
 <rect id="bug_2" x="36" y="21" width="1" height="1" rx="0.5" fill="#23301D"/>
-<g id="button_mushroom-tent">
+<g id="mushroom">
 <rect id="Rectangle 1597" x="20" y="24" width="7" height="3" rx="1.5" fill="black" fill-opacity="0.1"/>
 <g id="Rectangle 1589" filter="url(#filter14_ii_1527_132682)">
 <path d="M21 21H26V25C26 25.5523 25.5523 26 25 26H22C21.4477 26 21 25.5523 21 25V21Z" fill="white"/>
