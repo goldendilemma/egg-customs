@@ -1,6 +1,6 @@
 {
   "deposit": {
-    "displayCollections": [0, 1, 2, 3, 9],
+    "displayCollections": [0, 1, 2, 3, 9, 6, 7],
     "maxDeposits": 8
   },
   "withdraw": {},
