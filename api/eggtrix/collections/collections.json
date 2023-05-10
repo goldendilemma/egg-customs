@@ -27,5 +27,9 @@
     "name": "Toadstoolz",
     "id": 9,
     "enumerable": false
+  },
+  {
+    "name": "DefiHeroes",
+    "id": 10
   }
 ]
