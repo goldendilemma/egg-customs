@@ -31,6 +31,7 @@
   {
     "name": "DefiHeroes",
     "id": 10,
-    "tokenUri": "https://www.slayersofmoloch.com/api/defiheroes/token/{id}"
+    "tokenUri": "https://www.slayersofmoloch.com/api/defiheroes/token/{id}",
+    "playerIds": [50000, 55000]
   }
 ]
