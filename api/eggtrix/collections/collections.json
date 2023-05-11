@@ -30,6 +30,7 @@
   },
   {
     "name": "DefiHeroes",
-    "id": 10
+    "id": 10,
+    "tokenUri": "https://www.slayersofmoloch.com/api/defiheroes/token/{id}"
   }
 ]
