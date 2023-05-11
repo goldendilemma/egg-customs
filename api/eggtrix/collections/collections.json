@@ -33,5 +33,11 @@
     "id": 10,
     "tokenUri": "https://www.slayersofmoloch.com/api/defiheroes/token/{id}",
     "playerIds": [50000, 55000]
+  },
+  {
+    "name": "MechaPunkx",
+    "id": 11,
+    "imageUri": "https://lambo.lol/images/mechapunkx-small/{tokenId}.png",
+    "playerIds": [55000, 65000]
   }
 ]
