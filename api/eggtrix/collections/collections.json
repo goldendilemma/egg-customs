@@ -37,7 +37,7 @@
   {
     "name": "MechaPunkx",
     "id": 11,
-    "imageUri": "https://lambo.lol/images/mechapunkx-small/{tokenId}.png",
+    "imageUri": "https://lambo.lol/images/mechapunkx-small/{id}.png",
     "playerIds": [55000, 65000]
   }
 ]
