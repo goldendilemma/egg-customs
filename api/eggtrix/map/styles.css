@@ -126,12 +126,12 @@
   animation: flash-light 10s linear infinite;
 }
 
-#woods #brocc,
+#flamingo,
 #woods #chikin {
   animation: float 1s ease-in-out infinite alternate;
 }
 
-#woods #brocc {
+#flamingo {
   animation-delay: -0.75s;
 }
 
