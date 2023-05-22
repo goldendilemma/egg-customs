@@ -25,9 +25,15 @@
         "disabled": false
       },
       {
-        "actionId": "bathroom",
+        "actionId": "mushroom",
         "typeId": "button",
-        "href": "/exploring/bathroom",
+        "href": "/exploring/eggstock",
+        "disabled": false
+      },
+      {
+        "actionId": "seed-tent",
+        "typeId": "button",
+        "href": "/exploring/eggstock",
         "disabled": false
       }
     ]
@@ -48,9 +54,9 @@
       "active": true
     },
     {
-      "displayName": "Vibe",
-      "subtitle": "Do the VIBE",
-      "image": "/images/vibe.svg",
+      "displayName": "Crafting",
+      "subtitle": "Be the maker",
+      "image": "/images/crafting.svg",
       "active": false
     }
   ]
