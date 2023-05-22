@@ -25,7 +25,7 @@
         "disabled": false
       },
       {
-        "actionId": "mushroom",
+        "actionId": "mushroom-tent",
         "typeId": "button",
         "href": "/exploring/eggstock",
         "disabled": false
