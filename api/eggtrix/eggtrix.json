@@ -72,5 +72,14 @@
       "image": "/images/crafting.svg",
       "active": false
     }
+  ],
+  "arcadeGames": [
+    {
+      "disabled": false,
+      "displayName": "EGGY EGG",
+      "description": "",
+      "coverImage": "https://content.eggfam.lol/arcade/eggy-egg/cover.png",
+      "href": "/arcade/eggy-egg"
+    }
   ]
 }
