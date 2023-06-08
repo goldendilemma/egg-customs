@@ -62,6 +62,7 @@
     {
       "displayName": "Arcade",
       "subtitle": "Play & Vibe",
+      "href": "/arcade",
       "image": "/images/arcade.svg",
       "active": true
     },
