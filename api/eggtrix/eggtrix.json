@@ -35,13 +35,19 @@
         "typeId": "button",
         "href": "/exploring/eggstock",
         "disabled": false
+      },
+      {
+        "actionId": "joystick",
+        "typeId": "button",
+        "href": "/arcade",
+        "disabled": false
       }
     ]
   },
   "navigation": [
     {
       "displayName": "Kitchen",
-      "subtitle": "Become CHEF",
+      "subtitle": "Cook THINGs",
       "href": "/kitchen",
       "image": "/images/cooking.svg",
       "active": true
@@ -54,8 +60,14 @@
       "active": true
     },
     {
+      "displayName": "Arcade",
+      "subtitle": "Play & Vibe",
+      "image": "/images/arcade.svg",
+      "active": true
+    },
+    {
       "displayName": "Crafting",
-      "subtitle": "Be the maker",
+      "subtitle": "Combine THINGs (Q3)",
       "image": "/images/crafting.svg",
       "active": false
     }
