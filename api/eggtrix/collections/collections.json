@@ -1,32 +1,39 @@
 [
   {
     "name": "Hall of EGGFAM",
-    "id": 0
+    "id": 0,
+    "playerIds": [0, 2000]
   },
   {
     "name": "EGG von EGGFAM",
-    "id": 1
+    "id": 1,
+    "playerIds": [2000, 4000]
   },
   {
     "name": "BROCC von EGGFAM",
-    "id": 2
+    "id": 2,
+    "playerIds": [4000, 6000]
   },
   {
     "name": "CHIKIN von EGGFAM",
-    "id": 3
+    "id": 3,
+    "playerIds": [6000, 8000]
   },
   {
     "name": "SMOL Brain Pets",
-    "id": 6
+    "id": 6,
+    "playerIds": [20000, 35000]
   },
   {
     "name": "SMOL Bodies Pets",
-    "id": 7
+    "id": 7,
+    "playerIds": [35000, 50000]
   },
   {
     "name": "Toadstoolz",
     "id": 9,
-    "enumerable": false
+    "enumerable": false,
+    "playerIds": [10000, 20000]
   },
   {
     "name": "DefiHeroes",
