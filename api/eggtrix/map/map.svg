@@ -17,13 +17,13 @@
 </g>
 </g>
 <g id="Group 237">
-<path id="body" fill-rule="evenodd" clip-rule="evenodd" d="M118 91.5C118 91.2239 117.776 91 117.5 91V91C117.224 91 117 91.2239 117 91.5V91.5C117 91.7761 116.776 92 116.5 92V92C116.224 92 116 92.2239 116 92.5V92.5C116 92.7761 116.224 93 116.5 93H117V93C117.552 93 118 92.5523 118 92V91.5Z" fill="#FAE277"/>
+<path id="body" fill-rule="evenodd" clip-rule="evenodd" d="M118 91.5C118 91.2239 117.776 91 117.5 91C117.224 91 117 91.2239 117 91.5C117 91.7761 116.776 92 116.5 92C116.224 92 116 92.2239 116 92.5C116 92.7761 116.224 93 116.5 93H117C117.552 93 118 92.5523 118 92V91.5Z" fill="#FAE277"/>
 <rect id="handle" x="117" y="90" width="1" height="1" rx="0.5" fill="#323232"/>
 </g>
 <g id="button_shed">
 <rect id="Rectangle 1529" x="120" y="93" width="16" height="8" rx="2" fill="#D2A358"/>
 <path id="front" fill-rule="evenodd" clip-rule="evenodd" d="M127 94H125V98H127H132V94H127Z" fill="#604D46"/>
-<path id="door" d="M125 96C125 95.4477 125.448 95 126 95V95C126.552 95 127 95.4477 127 96V98H125V96Z" fill="black"/>
+<path id="door" d="M125 96C125 95.4477 125.448 95 126 95C126.552 95 127 95.4477 127 96V98H125V96Z" fill="black"/>
 <rect id="window" x="129" y="95" width="2" height="2" fill="black"/>
 <path id="frame" fill-rule="evenodd" clip-rule="evenodd" d="M123 91.5C123 91.2239 123.224 91 123.5 91H132.5C132.776 91 133 91.2239 133 91.5C133 91.7761 132.776 92 132.5 92H123.5C123.224 92 123 91.7761 123 91.5ZM123.5 94C123.224 94 123 94.2239 123 94.5C123 94.7761 123.224 95 123.5 95H124V98H125V95H131V98H132V95H132.5C132.776 95 133 94.7761 133 94.5C133 94.2239 132.776 94 132.5 94H132H131H125H124H123.5Z" fill="#604D46"/>
 <rect id="mat" x="124" y="98" width="4" height="1" fill="#F9E8CF"/>
@@ -45,7 +45,7 @@
 <g id="Group 264">
 <g id="Group 263">
 <ellipse id="Ellipse 68" cx="106.5" cy="94.75" rx="1.5" ry="0.75" fill="black" fill-opacity="0.24"/>
-<path id="Rectangle 1716" d="M105.671 94.3416C105.363 93.7252 105.811 93 106.5 93V93C107.189 93 107.637 93.7252 107.329 94.3416L107.224 94.5528C107.087 94.8269 106.806 95 106.5 95V95C106.194 95 105.913 94.8269 105.776 94.5528L105.671 94.3416Z" fill="#C2C2C2"/>
+<path id="Rectangle 1716" d="M105.671 94.3416C105.363 93.7252 105.811 93 106.5 93C107.189 93 107.637 93.7252 107.329 94.3416L107.224 94.5528C107.087 94.8269 106.806 95 106.5 95C106.194 95 105.913 94.8269 105.776 94.5528L105.671 94.3416Z" fill="#C2C2C2"/>
 <rect id="Rectangle 1717" x="105" y="94" width="1" height="1" rx="0.5" fill="#ABABAB"/>
 <rect id="Rectangle 1718" x="107" y="94" width="1" height="1" rx="0.5" fill="#ABABAB"/>
 <rect id="Rectangle 1715" x="105" y="92" width="3" height="2" rx="1" fill="#ABABAB"/>
@@ -61,7 +61,7 @@
 <rect id="Rectangle 1715_2" x="109" y="98" width="3" height="2" rx="1" fill="#FE5D67"/>
 </g>
 <g id="Group 238">
-<path id="body_2" fill-rule="evenodd" clip-rule="evenodd" d="M109 97.5C109 97.2239 109.224 97 109.5 97V97C109.776 97 110 97.2239 110 97.5V97.5C110 97.7761 110.224 98 110.5 98V98C110.776 98 111 98.2239 111 98.5V98.5C111 98.7761 110.776 99 110.5 99H110V99C109.448 99 109 98.5523 109 98V97.5Z" fill="#FAE277"/>
+<path id="body_2" fill-rule="evenodd" clip-rule="evenodd" d="M109 97.5C109 97.2239 109.224 97 109.5 97C109.776 97 110 97.2239 110 97.5C110 97.7761 110.224 98 110.5 98C110.776 98 111 98.2239 111 98.5C111 98.7761 110.776 99 110.5 99H110C109.448 99 109 98.5523 109 98V97.5Z" fill="#FAE277"/>
 <rect id="handle_2" width="1" height="1" rx="0.5" transform="matrix(-1 0 0 1 110 96)" fill="#323232"/>
 </g>
 <path id="Union_6" fill-rule="evenodd" clip-rule="evenodd" d="M110.25 99C110.112 99 110 99.1119 110 99.25C110 99.3881 110.112 99.5 110.25 99.5C110.388 99.5 110.5 99.3881 110.5 99.25C110.5 99.1119 110.388 99 110.25 99ZM111.25 99C111.112 99 111 99.1119 111 99.25C111 99.3881 111.112 99.5 111.25 99.5C111.388 99.5 111.5 99.3881 111.5 99.25C111.5 99.1119 111.388 99 111.25 99Z" fill="black"/>
@@ -116,7 +116,7 @@
 <g id="Component 6">
 <g id="fella">
 <path id="kimono" fill-rule="evenodd" clip-rule="evenodd" d="M108 10H107V12H108V10ZM110 10H109V12H110V10Z" fill="#B15112"/>
-<path id="skin" d="M107 8.5C107 7.67157 107.672 7 108.5 7V7C109.328 7 110 7.67157 110 8.5V10H107V8.5Z" fill="#91CFCE"/>
+<path id="skin" d="M107 8.5C107 7.67157 107.672 7 108.5 7C109.328 7 110 7.67157 110 8.5V10H107V8.5Z" fill="#91CFCE"/>
 <rect id="shirt" x="108" y="10" width="1" height="2" fill="white"/>
 <g id="eye">
 <rect id="sclera" x="107" y="8" width="3" height="1" rx="0.5" fill="white"/>
@@ -125,11 +125,11 @@
 </g>
 <g id="Group 250">
 <rect id="Rectangle 1634" x="104" y="12" width="9" height="9" fill="#80664D"/>
-<path id="Rectangle 1633" d="M104 11.5C104 11.2239 104.224 11 104.5 11V11C104.776 11 105 11.2239 105 11.5V12H104V11.5Z" fill="#80664D"/>
-<path id="Rectangle 1635" d="M106 11.5C106 11.2239 106.224 11 106.5 11V11C106.776 11 107 11.2239 107 11.5V12H106V11.5Z" fill="#80664D"/>
-<path id="Rectangle 1636" d="M108 11.5C108 11.2239 108.224 11 108.5 11V11C108.776 11 109 11.2239 109 11.5V12H108V11.5Z" fill="#80664D"/>
-<path id="Rectangle 1637" d="M110 11.5C110 11.2239 110.224 11 110.5 11V11C110.776 11 111 11.2239 111 11.5V12H110V11.5Z" fill="#80664D"/>
-<path id="Rectangle 1638" d="M112 11.5C112 11.2239 112.224 11 112.5 11V11C112.776 11 113 11.2239 113 11.5V12H112V11.5Z" fill="#80664D"/>
+<path id="Rectangle 1633" d="M104 11.5C104 11.2239 104.224 11 104.5 11C104.776 11 105 11.2239 105 11.5V12H104V11.5Z" fill="#80664D"/>
+<path id="Rectangle 1635" d="M106 11.5C106 11.2239 106.224 11 106.5 11C106.776 11 107 11.2239 107 11.5V12H106V11.5Z" fill="#80664D"/>
+<path id="Rectangle 1636" d="M108 11.5C108 11.2239 108.224 11 108.5 11C108.776 11 109 11.2239 109 11.5V12H108V11.5Z" fill="#80664D"/>
+<path id="Rectangle 1637" d="M110 11.5C110 11.2239 110.224 11 110.5 11C110.776 11 111 11.2239 111 11.5V12H110V11.5Z" fill="#80664D"/>
+<path id="Rectangle 1638" d="M112 11.5C112 11.2239 112.224 11 112.5 11C112.776 11 113 11.2239 113 11.5V12H112V11.5Z" fill="#80664D"/>
 <rect id="Rectangle 1639" x="108" y="12" width="1" height="9" fill="#80664D"/>
 <rect id="Rectangle 1640" x="106" y="12" width="1" height="9" fill="#80664D"/>
 <rect id="Rectangle 1641" x="110" y="12" width="1" height="9" fill="#80664D"/>
@@ -138,11 +138,11 @@
 <rect id="Rectangle 1642" x="111" y="12" width="2" height="9" fill="#80664D"/>
 <rect id="Rectangle 1643" x="104" y="12" width="2" height="9" fill="#80664D"/>
 </g>
-<path id="Rectangle 1645_2" d="M107 17.5C107 16.6716 107.672 16 108.5 16V16C109.328 16 110 16.6716 110 17.5V21H107V17.5Z" fill="black"/>
+<path id="Rectangle 1645_2" d="M107 17.5C107 16.6716 107.672 16 108.5 16C109.328 16 110 16.6716 110 17.5V21H107V17.5Z" fill="black"/>
 <rect id="Rectangle 1646_2" x="107" y="14" width="1" height="1" fill="black"/>
 <rect id="Rectangle 1647" x="109" y="14" width="1" height="1" fill="black"/>
-<path id="Rectangle 1648" d="M110 18C110 16.8954 110.895 16 112 16V16V21H110V18Z" fill="#DB9F37"/>
-<path id="Rectangle 1649" d="M107 18C107 16.8954 106.105 16 105 16V16V21H107V18Z" fill="#DB9F37"/>
+<path id="Rectangle 1648" d="M110 18C110 16.8954 110.895 16 112 16V21H110V18Z" fill="#DB9F37"/>
+<path id="Rectangle 1649" d="M107 18C107 16.8954 106.105 16 105 16V21H107V18Z" fill="#DB9F37"/>
 <path id="Union_7" fill-rule="evenodd" clip-rule="evenodd" d="M107 19H105V20H107V19ZM112 19H110V20H112V19Z" fill="#895700"/>
 <rect id="Rectangle 1652" x="113" y="16" width="4" height="1" fill="#895700"/>
 <rect id="Rectangle 1653" x="114" y="17" width="2" height="3" fill="#F9DF62"/>
@@ -186,7 +186,7 @@
 <path id="sail" d="M118.005 46H114.005V49H118.005V46Z" fill="white"/>
 <g id="pole">
 <rect id="shadow_7" x="113.005" y="49" width="1" height="3" fill="black" fill-opacity="0.1"/>
-<path id="base_7" d="M113.005 45.5C113.005 45.2239 113.229 45 113.505 45V45C113.781 45 114.005 45.2239 114.005 45.5V49.5C114.005 49.7761 113.781 50 113.505 50V50C113.229 50 113.005 49.7761 113.005 49.5V45.5Z" fill="#ECC47F"/>
+<path id="base_7" d="M113.005 45.5C113.005 45.2239 113.229 45 113.505 45C113.781 45 114.005 45.2239 114.005 45.5V49.5C114.005 49.7761 113.781 50 113.505 50C113.229 50 113.005 49.7761 113.005 49.5V45.5Z" fill="#ECC47F"/>
 </g>
 </g>
 <g id="boat_2">
@@ -196,7 +196,7 @@
 <path id="sail_2" d="M118.005 30H114.005V33H118.005V30Z" fill="white"/>
 <g id="pole_2">
 <rect id="shadow_8" x="113.005" y="33" width="1" height="3" fill="black" fill-opacity="0.1"/>
-<path id="base_9" d="M113.005 29.5C113.005 29.2239 113.229 29 113.505 29V29C113.781 29 114.005 29.2239 114.005 29.5V33.5C114.005 33.7761 113.781 34 113.505 34V34C113.229 34 113.005 33.7761 113.005 33.5V29.5Z" fill="#ECC47F"/>
+<path id="base_9" d="M113.005 29.5C113.005 29.2239 113.229 29 113.505 29C113.781 29 114.005 29.2239 114.005 29.5V33.5C114.005 33.7761 113.781 34 113.505 34C113.229 34 113.005 33.7761 113.005 33.5V29.5Z" fill="#ECC47F"/>
 </g>
 </g>
 <g id="boat_3">
@@ -206,7 +206,7 @@
 <path id="sail_3" d="M60 95H64V98H60V95Z" fill="white"/>
 <g id="pole_3">
 <rect id="shadow_9" width="2" height="1" transform="matrix(-1 0 0 1 66 98)" fill="black" fill-opacity="0.1"/>
-<path id="base_11" d="M65 94.5C65 94.2239 64.7761 94 64.5 94V94C64.2239 94 64 94.2239 64 94.5V99H65V94.5Z" fill="#ECC47F"/>
+<path id="base_11" d="M65 94.5C65 94.2239 64.7761 94 64.5 94C64.2239 94 64 94.2239 64 94.5V99H65V94.5Z" fill="#ECC47F"/>
 </g>
 </g>
 <g id="boat_4">
@@ -216,7 +216,7 @@
 <path id="sail_4" d="M84.0047 81H80.0047V84H84.0047V81Z" fill="white"/>
 <g id="pole_4">
 <rect id="shadow_10" x="78.0047" y="84" width="2" height="1" fill="black" fill-opacity="0.1"/>
-<path id="base_13" d="M79.0047 80.5C79.0047 80.2239 79.2286 80 79.5047 80V80C79.7809 80 80.0047 80.2239 80.0047 80.5V85H79.0047V80.5Z" fill="#ECC47F"/>
+<path id="base_13" d="M79.0047 80.5C79.0047 80.2239 79.2286 80 79.5047 80C79.7809 80 80.0047 80.2239 80.0047 80.5V85H79.0047V80.5Z" fill="#ECC47F"/>
 </g>
 </g>
 <g id="main-land">
@@ -312,7 +312,7 @@
 </g>
 </g>
 <g id="grass-pole_2">
-<path id="base_19" fill-rule="evenodd" clip-rule="evenodd" d="M34 21.5C34 21.2239 33.7761 21 33.5 21H33C32.4477 21 32 21.4477 32 22V22V23.5C32 23.7761 32.2239 24 32.5 24V24C32.7761 24 33 23.7761 33 23.5V22.5C33 22.2239 33.2239 22 33.5 22V22C33.7761 22 34 21.7761 34 21.5V21.5Z" fill="#469D53"/>
+<path id="base_19" fill-rule="evenodd" clip-rule="evenodd" d="M34 21.5C34 21.2239 33.7761 21 33.5 21H33C32.4477 21 32 21.4477 32 22V23.5C32 23.7761 32.2239 24 32.5 24C32.7761 24 33 23.7761 33 23.5V22.5C33 22.2239 33.2239 22 33.5 22C33.7761 22 34 21.7761 34 21.5Z" fill="#469D53"/>
 <g id="head_2">
 <rect id="Rectangle 1442" x="35" y="21" width="1" height="2" rx="0.5" transform="rotate(90 35 21)" fill="#986021"/>
 <rect id="Rectangle 1444" x="35" y="21" width="1" height="1" rx="0.5" transform="rotate(90 35 21)" fill="#C29560"/>
@@ -384,40 +384,40 @@
 <path id="Union_9" fill-rule="evenodd" clip-rule="evenodd" d="M29 49H28V50H27V51H26V52C26.5523 52 27 51.5523 27 51C27.5523 51 28 50.5523 28 50C28.5523 50 29 49.5523 29 49Z" fill="black" fill-opacity="0.2"/>
 </g>
 <g id="rib">
-<path id="Rectangle 1421_2" d="M24 56.5C24 56.7761 23.7761 57 23.5 57V57C23.2239 57 23 56.7761 23 56.5V56H24V56.5Z" fill="white"/>
+<path id="Rectangle 1421_2" d="M24 56.5C24 56.7761 23.7761 57 23.5 57C23.2239 57 23 56.7761 23 56.5V56H24V56.5Z" fill="white"/>
 <rect id="Rectangle 1422" x="24" y="56" width="1" height="1" transform="rotate(180 24 56)" fill="white"/>
-<path id="Rectangle 1423" d="M25 54.5C25 54.7761 24.7761 55 24.5 55H24V54H24.5C24.7761 54 25 54.2239 25 54.5V54.5Z" fill="white"/>
-<path id="Rectangle 1424" d="M24 55H23V55C23 54.4477 23.4477 54 24 54V54V55Z" fill="black" fill-opacity="0.2"/>
+<path id="Rectangle 1423" d="M25 54.5C25 54.7761 24.7761 55 24.5 55H24V54H24.5C24.7761 54 25 54.2239 25 54.5Z" fill="white"/>
+<path id="Rectangle 1424" d="M24 55H23C23 54.4477 23.4477 54 24 54V55Z" fill="black" fill-opacity="0.2"/>
 </g>
 <g id="rib_2">
-<path id="Rectangle 1421_3" d="M31 48.5C31 48.2239 31.2239 48 31.5 48V48C31.7761 48 32 48.2239 32 48.5V49H31V48.5Z" fill="white"/>
+<path id="Rectangle 1421_3" d="M31 48.5C31 48.2239 31.2239 48 31.5 48C31.7761 48 32 48.2239 32 48.5V49H31V48.5Z" fill="white"/>
 <rect id="Rectangle 1422_2" x="31" y="49" width="1" height="1" fill="white"/>
-<path id="Rectangle 1423_2" d="M30 50.5C30 50.2239 30.2239 50 30.5 50H31V51H30.5C30.2239 51 30 50.7761 30 50.5V50.5Z" fill="white"/>
-<path id="Rectangle 1425" d="M31 50H32V50C32 50.5523 31.5523 51 31 51V51V50Z" fill="black" fill-opacity="0.2"/>
+<path id="Rectangle 1423_2" d="M30 50.5C30 50.2239 30.2239 50 30.5 50H31V51H30.5C30.2239 51 30 50.7761 30 50.5Z" fill="white"/>
+<path id="Rectangle 1425" d="M31 50H32C32 50.5523 31.5523 51 31 51V50Z" fill="black" fill-opacity="0.2"/>
 </g>
 </g>
 <g id="cactus">
-<path id="base_24" d="M23 50C23 49.4477 22.5523 49 22 49V49C21.4477 49 21 49.4477 21 50V54H23V50Z" fill="#78C572"/>
-<path id="right" d="M23 50.5C23 50.2239 23.2239 50 23.5 50V50C23.7761 50 24 50.2239 24 50.5V51.5514C24 51.7992 23.7992 52 23.5514 52H23V50.5Z" fill="#78C572"/>
-<path id="left" d="M21 51.5C21 51.2239 20.7761 51 20.5 51V51C20.2239 51 20 51.2239 20 51.5V52.5514C20 52.7992 20.2008 53 20.4486 53H21V51.5Z" fill="#6CA568"/>
+<path id="base_24" d="M23 50C23 49.4477 22.5523 49 22 49C21.4477 49 21 49.4477 21 50V54H23V50Z" fill="#78C572"/>
+<path id="right" d="M23 50.5C23 50.2239 23.2239 50 23.5 50C23.7761 50 24 50.2239 24 50.5V51.5514C24 51.7992 23.7992 52 23.5514 52H23V50.5Z" fill="#78C572"/>
+<path id="left" d="M21 51.5C21 51.2239 20.7761 51 20.5 51C20.2239 51 20 51.2239 20 51.5V52.5514C20 52.7992 20.2008 53 20.4486 53H21V51.5Z" fill="#6CA568"/>
 </g>
 <g id="cactus_2">
-<path id="base_25" d="M30 55C30 54.4477 30.4477 54 31 54V54C31.5523 54 32 54.4477 32 55V58H30V55Z" fill="#78C572"/>
-<path id="right_2" d="M32 55.5C32 55.2239 32.2239 55 32.5 55V55C32.7761 55 33 55.2239 33 55.5V56.5514C33 56.7992 32.7992 57 32.5514 57H32V55.5Z" fill="#6CA568"/>
+<path id="base_25" d="M30 55C30 54.4477 30.4477 54 31 54C31.5523 54 32 54.4477 32 55V58H30V55Z" fill="#78C572"/>
+<path id="right_2" d="M32 55.5C32 55.2239 32.2239 55 32.5 55C32.7761 55 33 55.2239 33 55.5V56.5514C33 56.7992 32.7992 57 32.5514 57H32V55.5Z" fill="#6CA568"/>
 </g>
 <g id="cactus_3">
-<path id="base_26" d="M25 60C25 59.4477 24.5523 59 24 59V59C23.4477 59 23 59.4477 23 60V63H25V60Z" fill="#78C572"/>
-<path id="right_3" d="M23 60.5C23 60.2239 22.7761 60 22.5 60V60C22.2239 60 22 60.2239 22 60.5V61.5514C22 61.7992 22.2008 62 22.4486 62H23V60.5Z" fill="#6CA568"/>
+<path id="base_26" d="M25 60C25 59.4477 24.5523 59 24 59C23.4477 59 23 59.4477 23 60V63H25V60Z" fill="#78C572"/>
+<path id="right_3" d="M23 60.5C23 60.2239 22.7761 60 22.5 60C22.2239 60 22 60.2239 22 60.5V61.5514C22 61.7992 22.2008 62 22.4486 62H23V60.5Z" fill="#6CA568"/>
 </g>
 <g id="cactus_4">
-<path id="base_27" d="M38 60C38 59.4477 37.5523 59 37 59V59C36.4477 59 36 59.4477 36 60V64H38V60Z" fill="#78C572"/>
-<path id="right_4" d="M38 60.5C38 60.2239 38.2239 60 38.5 60V60C38.7761 60 39 60.2239 39 60.5V61.5514C39 61.7992 38.7992 62 38.5514 62H38V60.5Z" fill="#78C572"/>
-<path id="left_2" d="M36 61.5C36 61.2239 35.7761 61 35.5 61V61C35.2239 61 35 61.2239 35 61.5V62.5514C35 62.7992 35.2008 63 35.4486 63H36V61.5Z" fill="#6CA568"/>
+<path id="base_27" d="M38 60C38 59.4477 37.5523 59 37 59C36.4477 59 36 59.4477 36 60V64H38V60Z" fill="#78C572"/>
+<path id="right_4" d="M38 60.5C38 60.2239 38.2239 60 38.5 60C38.7761 60 39 60.2239 39 60.5V61.5514C39 61.7992 38.7992 62 38.5514 62H38V60.5Z" fill="#78C572"/>
+<path id="left_2" d="M36 61.5C36 61.2239 35.7761 61 35.5 61C35.2239 61 35 61.2239 35 61.5V62.5514C35 62.7992 35.2008 63 35.4486 63H36V61.5Z" fill="#6CA568"/>
 </g>
 <g id="cactus_5">
-<path id="base_28" d="M40 53C40 52.4477 39.5523 52 39 52V52C38.4477 52 38 52.4477 38 53V57H40V53Z" fill="#78C572"/>
-<path id="right_5" d="M40 53.5C40 53.2239 40.2239 53 40.5 53V53C40.7761 53 41 53.2239 41 53.5V54.5514C41 54.7992 40.7992 55 40.5514 55H40V53.5Z" fill="#78C572"/>
-<path id="left_3" d="M38 54.5C38 54.2239 37.7761 54 37.5 54V54C37.2239 54 37 54.2239 37 54.5V55.5514C37 55.7992 37.2008 56 37.4486 56H38V54.5Z" fill="#6CA568"/>
+<path id="base_28" d="M40 53C40 52.4477 39.5523 52 39 52C38.4477 52 38 52.4477 38 53V57H40V53Z" fill="#78C572"/>
+<path id="right_5" d="M40 53.5C40 53.2239 40.2239 53 40.5 53C40.7761 53 41 53.2239 41 53.5V54.5514C41 54.7992 40.7992 55 40.5514 55H40V53.5Z" fill="#78C572"/>
+<path id="left_3" d="M38 54.5C38 54.2239 37.7761 54 37.5 54C37.2239 54 37 54.2239 37 54.5V55.5514C37 55.7992 37.2008 56 37.4486 56H38V54.5Z" fill="#6CA568"/>
 </g>
 <g id="sign_5">
 <path id="pole_5" fill-rule="evenodd" clip-rule="evenodd" d="M36.5 44C36.2239 44 36 44.2239 36 44.5V46V49H37V46V44.5C37 44.2239 36.7761 44 36.5 44Z" fill="#A38242"/>
@@ -528,14 +528,14 @@
 <rect id="Rectangle 95" x="75" y="58" width="1" height="2" fill="#E6FFC7"/>
 </g>
 <g id="Group 43">
-<path id="Rectangle 97_2" d="M70 60H71V60.5C71 60.7761 70.7761 61 70.5 61V61C70.2239 61 70 60.7761 70 60.5V60Z" fill="#445430"/>
-<path id="Rectangle 98" d="M71 60H72V60.5C72 60.7761 71.7761 61 71.5 61V61C71.2239 61 71 60.7761 71 60.5V60Z" fill="#C2DAA3"/>
-<path id="Rectangle 104" d="M69 60H70V60.5C70 60.7761 69.7761 61 69.5 61V61C69.2239 61 69 60.7761 69 60.5V60Z" fill="#C2DAA3"/>
-<path id="Rectangle 100" d="M73 60H74V60.5C74 60.7761 73.7761 61 73.5 61V61C73.2239 61 73 60.7761 73 60.5V60Z" fill="#C2DAA3"/>
-<path id="Rectangle 102" d="M75 60H76V60.5C76 60.7761 75.7761 61 75.5 61V61C75.2239 61 75 60.7761 75 60.5V60Z" fill="#C2DAA3"/>
-<path id="Rectangle 99" d="M72 60H73V60.5C73 60.7761 72.7761 61 72.5 61V61C72.2239 61 72 60.7761 72 60.5V60Z" fill="#445430"/>
-<path id="Rectangle 101" d="M74 60H75V60.5C75 60.7761 74.7761 61 74.5 61V61C74.2239 61 74 60.7761 74 60.5V60Z" fill="#445430"/>
-<path id="Rectangle 103" d="M76 60H77V60.5C77 60.7761 76.7761 61 76.5 61V61C76.2239 61 76 60.7761 76 60.5V60Z" fill="#445430"/>
+<path id="Rectangle 97_2" d="M70 60H71V60.5C71 60.7761 70.7761 61 70.5 61C70.2239 61 70 60.7761 70 60.5V60Z" fill="#445430"/>
+<path id="Rectangle 98" d="M71 60H72V60.5C72 60.7761 71.7761 61 71.5 61C71.2239 61 71 60.7761 71 60.5V60Z" fill="#C2DAA3"/>
+<path id="Rectangle 104" d="M69 60H70V60.5C70 60.7761 69.7761 61 69.5 61C69.2239 61 69 60.7761 69 60.5V60Z" fill="#C2DAA3"/>
+<path id="Rectangle 100" d="M73 60H74V60.5C74 60.7761 73.7761 61 73.5 61C73.2239 61 73 60.7761 73 60.5V60Z" fill="#C2DAA3"/>
+<path id="Rectangle 102" d="M75 60H76V60.5C76 60.7761 75.7761 61 75.5 61C75.2239 61 75 60.7761 75 60.5V60Z" fill="#C2DAA3"/>
+<path id="Rectangle 99" d="M72 60H73V60.5C73 60.7761 72.7761 61 72.5 61C72.2239 61 72 60.7761 72 60.5V60Z" fill="#445430"/>
+<path id="Rectangle 101" d="M74 60H75V60.5C75 60.7761 74.7761 61 74.5 61C74.2239 61 74 60.7761 74 60.5V60Z" fill="#445430"/>
+<path id="Rectangle 103" d="M76 60H77V60.5C77 60.7761 76.7761 61 76.5 61C76.2239 61 76 60.7761 76 60.5V60Z" fill="#445430"/>
 </g>
 <rect id="Rectangle 104_2" x="69" y="57" width="8" height="1" fill="#445430"/>
 </g>
@@ -575,14 +575,14 @@
 <rect id="Rectangle 95_2" x="100" y="34" width="1" height="2" fill="white"/>
 </g>
 <g id="hangdown">
-<path id="Rectangle 97_4" d="M95 36H96V36.5C96 36.7761 95.7761 37 95.5 37V37C95.2239 37 95 36.7761 95 36.5V36Z" fill="#DC3636"/>
-<path id="Rectangle 98_2" d="M96 36H97V36.5C97 36.7761 96.7761 37 96.5 37V37C96.2239 37 96 36.7761 96 36.5V36Z" fill="#E4E4E4"/>
-<path id="Rectangle 104_3" d="M94 36H95V36.5C95 36.7761 94.7761 37 94.5 37V37C94.2239 37 94 36.7761 94 36.5V36Z" fill="#E4E4E4"/>
-<path id="Rectangle 100_2" d="M98 36H99V36.5C99 36.7761 98.7761 37 98.5 37V37C98.2239 37 98 36.7761 98 36.5V36Z" fill="#E4E4E4"/>
-<path id="Rectangle 102_2" d="M100 36H101V36.5C101 36.7761 100.776 37 100.5 37V37C100.224 37 100 36.7761 100 36.5V36Z" fill="#E4E4E4"/>
-<path id="Rectangle 99_2" d="M97 36H98V36.5C98 36.7761 97.7761 37 97.5 37V37C97.2239 37 97 36.7761 97 36.5V36Z" fill="#DC3636"/>
-<path id="Rectangle 101_2" d="M99 36H100V36.5C100 36.7761 99.7761 37 99.5 37V37C99.2239 37 99 36.7761 99 36.5V36Z" fill="#DC3636"/>
-<path id="Rectangle 103_2" d="M101 36H102V36.5C102 36.7761 101.776 37 101.5 37V37C101.224 37 101 36.7761 101 36.5V36Z" fill="#DC3636"/>
+<path id="Rectangle 97_4" d="M95 36H96V36.5C96 36.7761 95.7761 37 95.5 37C95.2239 37 95 36.7761 95 36.5V36Z" fill="#DC3636"/>
+<path id="Rectangle 98_2" d="M96 36H97V36.5C97 36.7761 96.7761 37 96.5 37C96.2239 37 96 36.7761 96 36.5V36Z" fill="#E4E4E4"/>
+<path id="Rectangle 104_3" d="M94 36H95V36.5C95 36.7761 94.7761 37 94.5 37C94.2239 37 94 36.7761 94 36.5V36Z" fill="#E4E4E4"/>
+<path id="Rectangle 100_2" d="M98 36H99V36.5C99 36.7761 98.7761 37 98.5 37C98.2239 37 98 36.7761 98 36.5V36Z" fill="#E4E4E4"/>
+<path id="Rectangle 102_2" d="M100 36H101V36.5C101 36.7761 100.776 37 100.5 37C100.224 37 100 36.7761 100 36.5V36Z" fill="#E4E4E4"/>
+<path id="Rectangle 99_2" d="M97 36H98V36.5C98 36.7761 97.7761 37 97.5 37C97.2239 37 97 36.7761 97 36.5V36Z" fill="#DC3636"/>
+<path id="Rectangle 101_2" d="M99 36H100V36.5C100 36.7761 99.7761 37 99.5 37C99.2239 37 99 36.7761 99 36.5V36Z" fill="#DC3636"/>
+<path id="Rectangle 103_2" d="M101 36H102V36.5C102 36.7761 101.776 37 101.5 37C101.224 37 101 36.7761 101 36.5V36Z" fill="#DC3636"/>
 </g>
 <rect id="top_2" x="94" y="33" width="8" height="1" fill="#DC3636"/>
 </g>
@@ -617,7 +617,7 @@
 <path id="sail_5" d="M142.005 22H138.005V25H142.005V22Z" fill="#F49104"/>
 <g id="pole_6">
 <rect id="shadow_14" x="136.005" y="25" width="2" height="1" fill="black" fill-opacity="0.1"/>
-<path id="base_45" d="M137.005 21.5C137.005 21.2239 137.229 21 137.505 21V21C137.781 21 138.005 21.2239 138.005 21.5V26H137.005V21.5Z" fill="#ECC47F"/>
+<path id="base_45" d="M137.005 21.5C137.005 21.2239 137.229 21 137.505 21C137.781 21 138.005 21.2239 138.005 21.5V26H137.005V21.5Z" fill="#ECC47F"/>
 </g>
 </g>
 </g>
@@ -644,13 +644,13 @@
 </g>
 </g>
 <g id="toolbox">
-<path id="Rectangle 1584" d="M65 33C65 32.4477 65.4477 32 66 32V32C66.5523 32 67 32.4477 67 33V33H65V33Z" fill="#E35454"/>
+<path id="Rectangle 1584" d="M65 33C65 32.4477 65.4477 32 66 32C66.5523 32 67 32.4477 67 33H65Z" fill="#E35454"/>
 <g id="Rectangle 1585" filter="url(#filter39_d_1673_141113)">
 <rect x="65" y="33" width="2" height="1" fill="#8F2727"/>
 </g>
 </g>
 <g id="things">
-<path id="Rectangle 1586" d="M66 36.5C66 36.7761 66.2239 37 66.5 37V37C66.7761 37 67 36.7761 67 36.5V36H66V36.5Z" fill="white"/>
+<path id="Rectangle 1586" d="M66 36.5C66 36.7761 66.2239 37 66.5 37C66.7761 37 67 36.7761 67 36.5V36H66V36.5Z" fill="white"/>
 <g id="Rectangle 1587" filter="url(#filter40_d_1673_141113)">
 <rect x="63" y="35" width="2" height="1" fill="#FEA236"/>
 </g>
@@ -664,9 +664,9 @@
 <rect id="base_46" x="17" y="76" width="36" height="28" rx="3" fill="#78C572"/>
 </g>
 <g id="handlebar">
-<path id="Rectangle 1607" d="M45 92.5C45 92.2239 45.2239 92 45.5 92H46V93H45.5C45.2239 93 45 92.7761 45 92.5V92.5Z" fill="#383838"/>
+<path id="Rectangle 1607" d="M45 92.5C45 92.2239 45.2239 92 45.5 92H46V93H45.5C45.2239 93 45 92.7761 45 92.5Z" fill="#383838"/>
 <rect id="Rectangle 1608" x="46" y="92.25" width="1" height="0.5" fill="#D9D9D9"/>
-<path id="Rectangle 1609" d="M47 92H47.5C47.7761 92 48 92.2239 48 92.5V92.5C48 92.7761 47.7761 93 47.5 93H47V92Z" fill="#383838"/>
+<path id="Rectangle 1609" d="M47 92H47.5C47.7761 92 48 92.2239 48 92.5C48 92.7761 47.7761 93 47.5 93H47V92Z" fill="#383838"/>
 </g>
 <g id="weights">
 <g id="Ellipse 56" filter="url(#filter42_dd_1673_141113)">
@@ -683,14 +683,14 @@
 <g id="Ellipse 13_2" filter="url(#filter45_di_1673_141113)">
 <path d="M33.5 96.5C33.5 96.7215 33.3814 96.9602 33.1142 97.1607C32.8468 97.3612 32.4546 97.5 32 97.5C31.5454 97.5 31.1532 97.3612 30.8858 97.1607C30.6186 96.9602 30.5 96.7215 30.5 96.5C30.5 96.2785 30.6186 96.0398 30.8858 95.8393C31.1532 95.6388 31.5454 95.5 32 95.5C32.4546 95.5 32.8468 95.6388 33.1142 95.8393C33.3814 96.0398 33.5 96.2785 33.5 96.5Z" stroke="#FF65FF"/>
 </g>
-<path id="Rectangle 1597_2" d="M33 95C33 94.4477 33.4477 94 34 94V94V96.4H33V95Z" fill="#FF65FF"/>
-<path id="beak" d="M34 94V94C34.5523 94 35 94.4477 35 95V95H34V94Z" fill="#0C0C0C"/>
+<path id="Rectangle 1597_2" d="M33 95C33 94.4477 33.4477 94 34 94V96.4H33V95Z" fill="#FF65FF"/>
+<path id="beak" d="M34 94C34.5523 94 35 94.4477 35 95H34V94Z" fill="#0C0C0C"/>
 </g>
 <g id="chikin">
 <g id="body_3" filter="url(#filter46_di_1673_141113)">
 <path fill-rule="evenodd" clip-rule="evenodd" d="M37 97C37.5523 97 38 97.4477 38 98V99C38.5523 99 39 99.4477 39 100H37V99V98V97Z" fill="white"/>
 </g>
-<path id="beak_2" d="M37 98V98C36.4477 98 36 98.4477 36 99V99H37V98Z" fill="#FFA24B"/>
+<path id="beak_2" d="M37 98C36.4477 98 36 98.4477 36 99H37V98Z" fill="#FFA24B"/>
 </g>
 <g id="tree_2">
 <rect id="wood_7" x="20" y="76" width="1" height="4" fill="#A5814A"/>
@@ -752,7 +752,7 @@
 </g>
 </g>
 <g id="banana">
-<path id="body_4" fill-rule="evenodd" clip-rule="evenodd" d="M24 97.5C24 97.2239 23.7761 97 23.5 97V97C23.2239 97 23 97.2239 23 97.5V97.5C23 97.7761 22.7761 98 22.5 98V98C22.2239 98 22 98.2239 22 98.5V98.5C22 98.7761 22.2239 99 22.5 99H23V99C23.5523 99 24 98.5523 24 98V97.5Z" fill="#FAE277"/>
+<path id="body_4" fill-rule="evenodd" clip-rule="evenodd" d="M24 97.5C24 97.2239 23.7761 97 23.5 97C23.2239 97 23 97.2239 23 97.5C23 97.7761 22.7761 98 22.5 98C22.2239 98 22 98.2239 22 98.5C22 98.7761 22.2239 99 22.5 99H23C23.5523 99 24 98.5523 24 98V97.5Z" fill="#FAE277"/>
 <rect id="handle_3" x="23" y="96" width="1" height="1" rx="0.5" fill="#323232"/>
 </g>
 <g id="button_mushroom-tent">
@@ -773,7 +773,7 @@
 <g id="Rectangle 1593" filter="url(#filter53_i_1673_141113)">
 <rect x="20" y="82" width="2" height="2" rx="1" fill="white"/>
 </g>
-<path id="Rectangle 1596" d="M23 87.5C23 87.2239 23.2239 87 23.5 87V87C23.7761 87 24 87.2239 24 87.5V89H23V87.5Z" fill="#BC3F3F"/>
+<path id="Rectangle 1596" d="M23 87.5C23 87.2239 23.2239 87 23.5 87C23.7761 87 24 87.2239 24 87.5V89H23V87.5Z" fill="#BC3F3F"/>
 </g>
 <g id="stage">
 <g id="Rectangle 1588" filter="url(#filter54_d_1673_141113)">
@@ -795,7 +795,7 @@
 <g id="Rectangle 1590_3" filter="url(#filter57_i_1673_141113)">
 <rect x="44" y="78" width="7" height="2" rx="1" fill="#E5BB68"/>
 </g>
-<path id="Rectangle 1596_2" d="M46 84C46 83.4477 46.4477 83 47 83V83C47.5523 83 48 83.4477 48 84V85H46V84Z" fill="#0A0A0A"/>
+<path id="Rectangle 1596_2" d="M46 84C46 83.4477 46.4477 83 47 83C47.5523 83 48 83.4477 48 84V85H46V84Z" fill="#0A0A0A"/>
 </g>
 <rect id="mat_2" x="46" y="85" width="2" height="1" fill="#BC3F3F"/>
 <g id="seed" filter="url(#filter58_i_1673_141113)">
@@ -808,7 +808,7 @@
 <g id="base_47" filter="url(#filter59_d_1673_141113)">
 <rect x="35" y="84" width="1" height="1" fill="#4CC043"/>
 </g>
-<path id="hair" fill-rule="evenodd" clip-rule="evenodd" d="M36 82H35V82C34.4477 82 34 82.4477 34 83V83V83C34 83.5523 34.4477 84 35 84V84H36V84C36.5523 84 37 83.5523 37 83V83V83C37 82.4477 36.5523 82 36 82V82Z" fill="#45923F"/>
+<path id="hair" fill-rule="evenodd" clip-rule="evenodd" d="M36 82H35C34.4477 82 34 82.4477 34 83C34 83.5523 34.4477 84 35 84H36C36.5523 84 37 83.5523 37 83C37 82.4477 36.5523 82 36 82Z" fill="#45923F"/>
 </g>
 </g>
 </g>
@@ -824,7 +824,7 @@
 <rect id="Rectangle 1671" x="64" y="16" width="1" height="3" fill="#D9D9D9"/>
 <rect id="Rectangle 1678" x="65" y="17" width="1" height="3" fill="#F0F0F0"/>
 <rect id="Rectangle 1680" x="66" y="18" width="1" height="3" fill="#D9D9D9"/>
-<path id="Rectangle 1681" d="M67 18V18C67.5523 18 68 18.4477 68 19V20C68 20.5523 67.5523 21 67 21V21V18Z" fill="#D9D9D9"/>
+<path id="Rectangle 1681" d="M67 18C67.5523 18 68 18.4477 68 19V20C68 20.5523 67.5523 21 67 21V18Z" fill="#D9D9D9"/>
 <rect id="Rectangle 1672" x="63" y="15" width="1" height="3" fill="#F0F0F0"/>
 <rect id="Rectangle 1674" x="61" y="16" width="1" height="1" fill="#7B7B7B"/>
 <rect id="Rectangle 1675" x="62" y="17" width="1" height="1" fill="#7B7B7B"/>
@@ -878,10 +878,10 @@
 </g>
 <g id="Group 269">
 <path id="Rectangle 1743" d="M54.5 9H56C56.2761 9 56.5 9.22386 56.5 9.5V10.5C56.5 10.7761 56.2761 11 56 11H55C54.7239 11 54.5 10.7761 54.5 10.5V9Z" fill="#00983F" fill-opacity="0.58"/>
-<path id="Rectangle 1747" d="M54 9.5C54 9.22386 54.2239 9 54.5 9V9V10V10C54.2239 10 54 9.77614 54 9.5V9.5Z" fill="#ECECEC"/>
+<path id="Rectangle 1747" d="M54 9.5C54 9.22386 54.2239 9 54.5 9V10C54.2239 10 54 9.77614 54 9.5Z" fill="#ECECEC"/>
 </g>
 </g>
-<path id="Union_21" fill-rule="evenodd" clip-rule="evenodd" d="M58.125 9.25V9.125C58.125 9.05596 58.069 9 58 9V9C57.931 9 57.875 9.05596 57.875 9.125V9.25C57.875 9.58037 58.0581 9.86798 58.3283 10.0169C58.4252 10.0703 58.5 10.1646 58.5 10.2752V13.75C58.5 13.8881 58.6119 14 58.75 14V14C58.8881 14 59 13.8881 59 13.75V10.2752C59 10.1646 59.0748 10.0703 59.1717 10.0169C59.4419 9.86798 59.625 9.58037 59.625 9.25V9.125C59.625 9.05596 59.569 9 59.5 9V9C59.431 9 59.375 9.05596 59.375 9.125V9.25C59.375 9.44389 59.2867 9.61716 59.1481 9.7318C59.0264 9.83255 58.875 9.71471 58.875 9.55665V9.125C58.875 9.05596 58.819 9 58.75 9V9C58.681 9 58.625 9.05596 58.625 9.125V9.55665C58.625 9.71471 58.4736 9.83255 58.3519 9.7318C58.2133 9.61716 58.125 9.44389 58.125 9.25Z" fill="white"/>
+<path id="Union_21" fill-rule="evenodd" clip-rule="evenodd" d="M58.125 9.25V9.125C58.125 9.05596 58.069 9 58 9C57.931 9 57.875 9.05596 57.875 9.125V9.25C57.875 9.58037 58.0581 9.86798 58.3283 10.0169C58.4252 10.0703 58.5 10.1646 58.5 10.2752V13.75C58.5 13.8881 58.6119 14 58.75 14C58.8881 14 59 13.8881 59 13.75V10.2752C59 10.1646 59.0748 10.0703 59.1717 10.0169C59.4419 9.86798 59.625 9.58037 59.625 9.25V9.125C59.625 9.05596 59.569 9 59.5 9C59.431 9 59.375 9.05596 59.375 9.125V9.25C59.375 9.44389 59.2867 9.61716 59.1481 9.7318C59.0264 9.83255 58.875 9.71471 58.875 9.55665V9.125C58.875 9.05596 58.819 9 58.75 9C58.681 9 58.625 9.05596 58.625 9.125V9.55665C58.625 9.71471 58.4736 9.83255 58.3519 9.7318C58.2133 9.61716 58.125 9.44389 58.125 9.25Z" fill="white"/>
 </g>
 </g>
 </g>
@@ -909,7 +909,7 @@
 <path id="cable" d="M134 65V65C134 63.8954 133.105 63 132 63H131.5C130.672 63 130 62.3284 130 61.5V61.5C130 60.6716 129.328 60 128.5 60H127.25C126.56 60 126 59.4404 126 58.75V58.75C126 58.0596 126.56 57.5 127.25 57.5H127.5C128.328 57.5 129 56.8284 129 56V55" stroke="#494949"/>
 <g id="screen">
 <g id="Rectangle 1470" filter="url(#filter68_d_1673_141113)">
-<path d="M128 49C128 48.4477 128.448 48 129 48H147C147.552 48 148 48.4477 148 49V55C148 56.6569 146.657 58 145 58H131C129.343 58 128 56.6569 128 55V49Z" fill="#B8B8B8"/>
+<path d="M128 47C128 46.4477 128.448 46 129 46H147C147.552 46 148 46.4477 148 47V55C148 56.6569 146.657 58 145 58H131C129.343 58 128 56.6569 128 55V47Z" fill="#B8B8B8"/>
 </g>
 <g id="Group 278">
 <path id="Rectangle 1471" d="M129 50C129 49.4477 129.448 49 130 49H146C146.552 49 147 49.4477 147 50V54C147 55.6569 145.657 57 144 57H132C130.343 57 129 55.6569 129 54V50Z" fill="#9BF1EC"/>
@@ -938,6 +938,20 @@
 <circle id="Ellipse 74" cx="139.5" cy="59.5" r="0.5" fill="white"/>
 <g id="Ellipse 73" filter="url(#filter72_d_1673_141113)">
 <circle cx="135" cy="68" r="1" fill="#FF912C"/>
+</g>
+</g>
+<g id="Group 281">
+<g id="Group 279">
+<g id="Rectangle 1781" filter="url(#filter73_d_1673_141113)">
+<rect x="139" y="45" width="4" height="3" rx="1.5" fill="white"/>
+</g>
+<rect id="Rectangle 1782" x="140" y="46" width="2" height="2" rx="1" fill="black"/>
+</g>
+<g id="Group 280">
+<g id="Rectangle 1780" filter="url(#filter74_d_1673_141113)">
+<rect x="133" y="45" width="4" height="3" rx="1.5" fill="white"/>
+</g>
+<rect id="Rectangle 1783" x="134" y="46" width="2" height="2" rx="1" fill="black"/>
 </g>
 </g>
 </g>
@@ -1658,7 +1672,7 @@
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1673_141113"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1673_141113" result="shape"/>
 </filter>
-<filter id="filter68_d_1673_141113" x="128" y="47" width="20" height="11" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter68_d_1673_141113" x="128" y="45" width="20" height="13" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
 <feOffset dy="-1"/>
@@ -1705,6 +1719,24 @@
 <feOffset dy="0.5"/>
 <feComposite in2="hardAlpha" operator="out"/>
 <feColorMatrix type="matrix" values="0 0 0 0 0.6875 0 0 0 0 0.394797 0 0 0 0 0.126042 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1673_141113"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1673_141113" result="shape"/>
+</filter>
+<filter id="filter73_d_1673_141113" x="139" y="44" width="4" height="4" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.803922 0 0 0 0 0.803922 0 0 0 0 0.803922 0 0 0 1 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1673_141113"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1673_141113" result="shape"/>
+</filter>
+<filter id="filter74_d_1673_141113" x="133" y="44" width="4" height="4" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-1"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0.803922 0 0 0 0 0.803922 0 0 0 0 0.803922 0 0 0 1 0"/>
 <feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_1673_141113"/>
 <feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_1673_141113" result="shape"/>
 </filter>
