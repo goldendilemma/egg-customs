@@ -213,3 +213,14 @@ rect[width="160"] {
     stroke: #AC169D;
   }
 }
+
+@keyframes eyes-move {
+  0% { transform: translateX(0%) translateY(0%); }
+  30% { transform: translateX(-0.5%) translateY(0%); }
+  60% { transform: translateX(-0.5%) translateY(-1%); }
+  100% { transform: translateX(0%) translateY(0%); }
+}
+
+#pupil_1, #pupil_2 {
+  animation: eyes-move 5s ease-in-out alternate infinite;
+}
