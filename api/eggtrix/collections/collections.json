@@ -50,6 +50,7 @@
   {
     "name": "The Lost Donkeys",
     "id": 12,
+    "enumerable": false,
     "playerIds": [65000, 75000]
   }
 ]
