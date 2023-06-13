@@ -52,5 +52,11 @@
     "id": 12,
     "enumerable": false,
     "playerIds": [65000, 75000]
+  },
+  {
+    "name": "Smol Sharks",
+    "id": 14,
+    "tokenUri": "https://arweave.net/ma5O1Wj8D0oJDMzGNVaZRQwHfGmQPBffgzUBD9ytNkg/{id}.json",
+    "playerIds": [85000, 95000]
   }
 ]
