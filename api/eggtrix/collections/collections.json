@@ -46,5 +46,11 @@
     "id": 11,
     "imageUri": "https://lambo.lol/images/mechapunkx-small/{id}.png",
     "playerIds": [55000, 65000]
+  },
+  {
+    "name": "ArbiBots",
+    "id": 15,
+    "tokenName": "ArbiBot #{id}",
+    "playerIds": [95000, 100000]
   }
 ]
