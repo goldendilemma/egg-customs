@@ -179,7 +179,8 @@
   animation-delay: 1s;
 }
 
-[id^=boat] {
+[id^=boat],
+[id^=floating-on-water] {
   animation: float-bounce 2.5s ease-in-out infinite alternate;
 }
 
