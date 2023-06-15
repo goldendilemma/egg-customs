@@ -46,5 +46,30 @@
     "id": 11,
     "imageUri": "https://lambo.lol/images/mechapunkx-small/{id}.png",
     "playerIds": [55000, 65000]
+  },
+  {
+    "name": "The Lost Donkeys",
+    "id": 12,
+    "enumerable": false,
+    "playerIds": [65000, 75000]
+  },
+  {
+    "name": "Arbidudes",
+    "id": 13,
+    "imageUri": "ipfs://QmSEPfZXR1WrLZTW8WkKwCR6KPjbRYfFJH5F8obGFMpAed/{id}.png",
+    "tokenName": "ArbiDude #{id}",
+    "playerIds": [75000, 85000]
+  },
+  {
+    "name": "Smol Sharks",
+    "id": 14,
+    "tokenUri": "https://arweave.net/ma5O1Wj8D0oJDMzGNVaZRQwHfGmQPBffgzUBD9ytNkg/{id}.json",
+    "playerIds": [85000, 95000]
+  },
+  {
+    "name": "ArbiBots",
+    "id": 15,
+    "tokenName": "ArbiBot #{id}",
+    "playerIds": [95000, 100000]
   }
 ]
