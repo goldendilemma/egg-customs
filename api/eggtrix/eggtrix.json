@@ -1,7 +1,7 @@
 {
   "deposit": {
-    "displayCollections": [0, 1, 2, 3, 9, 6, 7, 10, 11, 15],
-    "maxDeposits": 8
+    "displayCollections": [0, 1, 2, 3, 9, 6, 7, 10, 11, 13, 14, 15],
+    "maxDeposits": 10
   },
   "withdraw": {},
   "worldMap": {
