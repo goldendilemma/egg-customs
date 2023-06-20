@@ -222,6 +222,16 @@ rect[width="160"] {
   100% { transform: translateX(0%) translateY(0%); }
 }
 
-#pupil_1, #pupil_2 {
+#pupil_3, #pupil_2 {
   animation: eyes-move 5s ease-in-out alternate infinite;
+}
+
+@keyframes skate {
+  0% { transform: translateX(0%); }
+  100% { transform: translateX(9%); }
+}
+
+#donke-on-board {
+  animation: skate 3s alternate infinite ease-in-out;
+  transform-origin: center center;
 }
