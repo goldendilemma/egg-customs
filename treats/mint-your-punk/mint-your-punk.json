@@ -1,0 +1,52 @@
+{
+  "paymentMethods": {
+    "alternatives": [
+      {
+        "type": "erc20",
+        "id": 0,
+        "order": 2,
+        "name": "MAGIC",
+        "value": 16,
+        "image": "/images/pm-magic.svg",
+        "moreInfo": "https://coinmarketcap.com/currencies/magic-token/"
+      },
+      {
+        "type": "erc1155",
+        "id": 0,
+        "order": 3,
+        "name": "THINGs",
+        "tokenIds": [22, 121, 103],
+        "value": 4,
+        "image": "/images/pm-things.gif",
+        "moreInfo": "https://app.treasure.lol/collection/things-of-eggfam"
+      },
+      {
+        "order": 1,
+        "type": "eth",
+        "name": "ETH",
+        "value": 0.0064,
+        "image": "/images/pm-eth.svg"
+      },
+      {
+        "type": "erc1155",
+        "id": 1,
+        "order": 5,
+        "name": "Ticket",
+        "tokenIds": [162],
+        "value": 1,
+        "image": "/images/pm-ticket.svg",
+        "moreInfo": "https://app.treasure.lol/collection/things-of-eggfam/162"
+      },
+      {
+        "enabled": true,
+        "type": "erc20",
+        "id": 1,
+        "order": 4,
+        "name": "ARB",
+        "value": 12,
+        "image": "/images/pm-arb.svg",
+        "moreInfo": "https://coinmarketcap.com/currencies/arbitrum/"
+      }
+    ]
+  }
+}
