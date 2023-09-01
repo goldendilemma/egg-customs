@@ -1,10 +1,15 @@
 {
+  "landingPage": {
+    "statusText": "Mint day",
+    "statusColor": "green",
+    "showMint": true
+  },
   "paymentMethods": {
     "alternatives": [
       {
         "type": "erc20",
         "id": 0,
-        "order": 2,
+        "order": 3,
         "name": "MAGIC",
         "value": 16,
         "image": "/images/pm-magic.svg",
@@ -13,7 +18,7 @@
       {
         "type": "erc1155",
         "id": 0,
-        "order": 3,
+        "order": 0,
         "name": "THINGs",
         "tokenIds": [22, 121, 103],
         "value": 4,
@@ -21,7 +26,7 @@
         "moreInfo": "https://app.treasure.lol/collection/things-of-eggfam"
       },
       {
-        "order": 1,
+        "order": 2,
         "type": "eth",
         "name": "ETH",
         "value": 0.0064,
@@ -30,7 +35,7 @@
       {
         "type": "erc1155",
         "id": 1,
-        "order": 5,
+        "order": 1,
         "name": "Ticket",
         "tokenIds": [162],
         "value": 1,
