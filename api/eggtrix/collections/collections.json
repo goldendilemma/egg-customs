@@ -71,5 +71,11 @@
     "id": 15,
     "tokenName": "ArbiBot #{id}",
     "playerIds": [95000, 100000]
+  },
+  {
+    "name": "Mint Your Punk",
+    "id": 16,
+    "tokenName": "MYP #{id}",
+    "playerIds": [100000, 110000]
   }
 ]
