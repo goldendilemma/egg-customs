@@ -1,7 +1,7 @@
 {
   "landingPage": {
-    "statusText": "Mint day",
-    "statusColor": "green",
+    "statusText": "MINT PHASE",
+    "statusColor": "blue",
     "showMint": true
   },
   "paymentMethods": {
