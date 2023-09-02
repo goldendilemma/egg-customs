@@ -11,7 +11,7 @@
         "id": 0,
         "order": 3,
         "name": "MAGIC",
-        "value": 16,
+        "value": 32,
         "image": "/images/pm-magic.svg",
         "moreInfo": "https://coinmarketcap.com/currencies/magic-token/"
       },
@@ -20,8 +20,8 @@
         "id": 0,
         "order": 0,
         "name": "THINGs",
-        "tokenIds": [22, 121, 103],
-        "value": 4,
+        "tokenIds": [22, 121, 103, 37, 77, 233],
+        "value": 6,
         "image": "/images/pm-things.gif",
         "moreInfo": "https://app.treasure.lol/collection/things-of-eggfam"
       },
@@ -29,7 +29,7 @@
         "order": 2,
         "type": "eth",
         "name": "ETH",
-        "value": 0.0064,
+        "value": 0.0096,
         "image": "/images/pm-eth.svg"
       },
       {
@@ -48,7 +48,7 @@
         "id": 1,
         "order": 4,
         "name": "ARB",
-        "value": 12,
+        "value": 24,
         "image": "/images/pm-arb.svg",
         "moreInfo": "https://coinmarketcap.com/currencies/arbitrum/"
       }
