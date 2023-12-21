@@ -41,6 +41,12 @@
         "typeId": "button",
         "href": "/arcade",
         "disabled": false
+      },
+      {
+        "actionId": "holidays",
+        "typeId": "button",
+        "href": "/exploring",
+        "disabled": false
       }
     ]
   },
@@ -60,17 +66,17 @@
       "active": true
     },
     {
+      "displayName": "Crafting",
+      "subtitle": "Craft THINGs",
+      "image": "/images/crafting.svg",
+      "active": true
+    },
+    {
       "displayName": "Arcade",
       "subtitle": "Play & Vibe",
       "href": "/arcade",
       "image": "/images/arcade.svg",
       "active": true
-    },
-    {
-      "displayName": "Crafting",
-      "subtitle": "Coming Q3",
-      "image": "/images/crafting.svg",
-      "active": false
     }
   ],
   "arcadeGames": [
