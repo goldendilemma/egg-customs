@@ -68,6 +68,7 @@
     {
       "displayName": "Crafting",
       "subtitle": "Craft THINGs",
+      "href": "/crafting",
       "image": "/images/crafting.svg",
       "active": true
     },
