@@ -197,10 +197,6 @@
   animation-delay: -1.5s;
 }
 
-/* rect[width="160"] {
-  display: none;
-} */
-
 [id^=cloud] {
   animation: hover 3s alternate infinite ease-in-out;
 }
@@ -212,6 +208,9 @@
 @media (prefers-color-scheme: dark) {
   #waves * {
     stroke: #AC169D;
+  }
+  rect[width="160"] {
+    display: none;
   }
 }
 
